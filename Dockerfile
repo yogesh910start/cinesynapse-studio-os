@@ -29,18 +29,22 @@ RUN apt-get update && apt-get install -y --no-install-recommends \
 COPY requirements.txt .
 RUN pip install --no-cache-dir -r requirements.txt
 
-# Copy backend codebase, config, assets, and storage
+# Copy backend codebase, config, and sample assets
 COPY backend/ ./backend/
 COPY pyproject.toml .
 COPY sample_assets/ ./sample_assets/
-COPY storage/ ./storage/
 
 # Copy compiled frontend SPA from Stage 1 into production image
 COPY --from=frontend-builder /app/frontend/dist ./frontend/dist
 
 # Create secure, unprivileged system user conforming to TPN+ Content Security guidelines
 RUN useradd -u 1001 -m -s /bin/bash cinesynapse && \
-    mkdir -p /app/backend/storage/local /app/storage/local && \
+    mkdir -p /app/backend/storage/local \
+             /app/storage/local \
+             /app/storage/local/c2c-proxies \
+             /app/storage/local/audio-scratchpad \
+             /app/storage/local/c2pa-manifests \
+             /app/storage/local/look-stills && \
     chown -R cinesynapse:cinesynapse /app
 
 USER 1001
