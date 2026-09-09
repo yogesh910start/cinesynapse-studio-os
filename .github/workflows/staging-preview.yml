@@ -1,0 +1,28 @@
+name: Staging PR Preview Deployment
+
+on:
+  pull_request:
+    types: [opened, synchronize, reopened]
+
+env:
+  PROJECT_ID: cine-synapse-staging
+  REGION: us-central1
+  SERVICE_NAME: cinesynapse-preview-${{ github.event.number }}
+
+jobs:
+  preview-deploy:
+    name: Ephemeral Preview Deployment
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Authenticate to GCP Staging
+        uses: google-github-actions/auth@v2
+        with:
+          credentials_json: ${{ secrets.GCP_STAGING_SA_KEY }}
+      - name: Deploy Cloud Run Preview
+        uses: google-github-actions/deploy-cloudrun@v2
+        with:
+          service: ${{ env.SERVICE_NAME }}
+          image: gcr.io/cine-synapse-staging/studio-os:${{ github.sha }}
+          region: ${{ env.REGION }}
+          flags: "--min-instances=0 --max-instances=2 --cpu=2 --memory=4Gi"

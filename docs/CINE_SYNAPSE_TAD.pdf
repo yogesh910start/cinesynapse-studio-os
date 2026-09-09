@@ -1,0 +1,1931 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [7 0 R 9 0 R 11 0 R 13 0 R 15 0 R 17 0 R 19 0 R 21 0 R 23 0 R 25 0 R 27 0 R 29 0 R 31 0 R 33 0 R 35 0 R 37 0 R 39 0 R 41 0 R 43 0 R 45 0 R 47 0 R 49 0 R 51 0 R] /Count 23 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica /Encoding /WinAnsiEncoding >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding >>
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Courier /Encoding /WinAnsiEncoding >>
+endobj
+6 0 obj
+<< /Length 5350 >>
+stream
+0.75 0.75 0.8 RG 0.5 w
+48 42 m 564 42 l S
+BT /F1 8 Tf 0.4 0.4 0.45 rg 524 30 Td (Page 1) Tj ET
+BT /F1 8 Tf 0.4 0.4 0.45 rg 48 30 Td (CINE-SYNAPSE OS ? Architecture Baseline v2.0 Enterprise) Tj ET
+0.08 0.12 0.25 rg 0 760 612 32 re f
+0.2 0.4 0.8 rg 0 754 612 6 re f
+BT /F2 10 Tf 0.25 0.4 0.7 rg 48 710 Td (GOOGLE CLOUD AGENTIC CINEMA HACKATHON 2026 | TECHNICAL ARCHITECTURE DOCUMENT \(TAD\)) Tj ET
+BT /F2 26 Tf 0.08 0.12 0.25 rg 48 660 Td (CINE-SYNAPSE) Tj ET
+BT /F2 15 Tf 0.2 0.3 0.45 rg 48 635 Td (Enterprise Multi-Agent Production Graph & Orchestration Fabric) Tj ET
+BT /F1 10.5 Tf 0.35 0.4 0.5 rg 48 615 Td (Enterprise Multi-Agent Production Graph & Orchestration Fabric for 2026 Cinema) Tj ET
+0.2 0.4 0.8 RG 2 w 48 598 m 564 598 l S
+0.95 0.96 0.98 rg 48 495 516 85 re f
+0.8 0.83 0.9 RG 1 w 48 495 516 85 re S
+BT /F2 8.5 Tf 0.15 0.2 0.3 rg 60 562 Td (Primary Partner Track:) Tj ET
+BT /F1 8.5 Tf 0.25 0.3 0.35 rg 205 562 Td (ClickHouse Track \(Runtime mcp-clickhouse Server\)) Tj ET
+BT /F2 8.5 Tf 0.15 0.2 0.3 rg 60 548 Td (Secondary Ecosystem:) Tj ET
+BT /F1 8.5 Tf 0.25 0.3 0.35 rg 205 548 Td (Parallel Web Search API, OpenTimelineIO \(OTIO\), C2PA / CAI) Tj ET
+BT /F2 8.5 Tf 0.15 0.2 0.3 rg 60 534 Td (Core AI Engine:) Tj ET
+BT /F1 8.5 Tf 0.25 0.3 0.35 rg 205 534 Td (Google Cloud Gemini 1.5 Pro \(via google-genai SDK\)) Tj ET
+BT /F2 8.5 Tf 0.15 0.2 0.3 rg 60 520 Td (Document Version & Date:) Tj ET
+BT /F1 8.5 Tf 0.25 0.3 0.35 rg 205 520 Td (Version 2.0 \(Enterprise Multi-Tenant SaaS\) | September 2026) Tj ET
+BT /F2 8.5 Tf 0.15 0.2 0.3 rg 60 506 Td (Compliance & Security:) Tj ET
+BT /F1 8.5 Tf 0.25 0.3 0.35 rg 205 506 Td (SOC 2 Type II, MPAA Content Security, Federal NO FAKES Act of 2026) Tj ET
+0.92 0.94 0.98 rg 48 450 516 24 re f
+0.15 0.28 0.55 RG 1.5 w 48 450 m 48 474 l S
+BT /F2 12.5 Tf 0.1 0.18 0.35 rg 58 457 Td (CINE-SYNAPSE: The Autonomous Studio Operating System \(Studio OS\)) Tj ET
+BT /F2 10.5 Tf 0.18 0.3 0.5 rg 48 427 Td (*Enterprise Multi-Agent Production Graph & Orchestration Fabric for 2026 Cinema*) Tj ET
+0.75 0.8 0.9 RG 0.5 w 48 424 m 564 424 l S
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 48 412 Td (Document Identifier: CINE-SYNAPSE-TAD-V2.0-ENTERPRISE) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 48 396 Td (System Classification: Enterprise Mission-Critical / Multi-Tenant B2B SaaS) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 48 380 Td (Architectural Tier: Tier-1 Studio Infrastructure \(MPAA / SOC 2 Type II / C2PA Compliant\)) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 48 364 Td (Target Platform: Google Cloud Platform \(Cloud Run, Vertex AI / Gemini 1.5 Pro\) + ClickHouse Cloud) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 48 348 Td (Primary Partner Track: ClickHouse Track \(mcp-clickhouse\)) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 48 332 Td (Secondary Ecosystem Partners: Parallel Web Search API \(parallel-web\), OpenTimelineIO \(OTIO\), C2PA / CAI) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 48 316 Td (Security & Compliance: MPAA Content Security, SOC 2 Type II, Federal NO FAKES Act of 2026, GDPR / CCPA) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 48 300 Td (Open Source License: MIT License \(OSI-Approved\)) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 48 284 Td (Date: September 2026) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 48 268 Td (Document Status: Approved Architecture Baseline) Tj ET
+0.92 0.94 0.98 rg 48 237 516 24 re f
+0.15 0.28 0.55 RG 1.5 w 48 237 m 48 261 l S
+BT /F2 12.5 Tf 0.1 0.18 0.35 rg 58 244 Td (Executive Summary & Engineering Mandate) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 48 222 Td (CINE-SYNAPSE is an autonomous, closed-loop studio operating system engineered specifically for major) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 48 210 Td (theatrical studios, premium streaming networks, and high-end visual effects facilities. Operating as an) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 48 198 Td (enterprise multi-tenant B2B SaaS, CINE-SYNAPSE solves the critical fragmentation that characterizes) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 48 186 Td (modern entertainment production?where on-set photography, editorial timelines, synthetic likeness rights,) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 48 174 Td (neural visual effects, and 190-territory compliance operate in disjointed operational silos.) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 48 158 Td (By coupling high-performance columnar analytics \(ClickHouse Cloud via mcp-clickhouse\) with cognitive) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 48 146 Td (multimodal reasoning \(Google Cloud Gemini 1.5 Pro via google-genai\), CINE-SYNAPSE establishes a) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 48 134 Td (self-healing, continuous Production Graph. Every captured video frame, timecode slate, legal consent) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 48 122 Td (clause, and GPU render job is bound into a unified, cryptographically verified lineage graph. Inbound) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 48 110 Td (production events?from fractional timecode drift on an ARRI Alexa 35 camera to unauthorized actor) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 48 98 Td (likeness synthesis?are intercepted in real time, evaluated across legal, financial, technical, and) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 48 86 Td (regulatory dimensions, and autonomously remediated through direct two-way integrations with) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 48 74 Td (industry-standard pipeline tools \(Autodesk Flow / ShotGrid, Rightsline, Frame.io, and Spherex\).) Tj ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 8000 >>
+stream
+0.2 0.25 0.35 RG 0.75 w
+48 752 m 564 752 l S
+BT /F2 8 Tf 0.3 0.35 0.45 rg 48 757 Td (CINE-SYNAPSE: Technical Architecture Document \(TAD\)) Tj ET
+BT /F1 8 Tf 0.4 0.45 0.55 rg 380 757 Td (ClickHouse Track | Google Cloud Hackathon 202) Tj ET
+0.75 0.75 0.8 RG 0.5 w
+48 42 m 564 42 l S
+BT /F1 8 Tf 0.4 0.4 0.45 rg 524 30 Td (Page 2) Tj ET
+BT /F1 8 Tf 0.4 0.4 0.45 rg 48 30 Td (CINE-SYNAPSE OS ? Architecture Baseline v2.0 Enterprise) Tj ET
+0.92 0.94 0.98 rg 48 710 516 24 re f
+0.15 0.28 0.55 RG 1.5 w 48 710 m 48 734 l S
+BT /F2 12.5 Tf 0.1 0.18 0.35 rg 58 717 Td (1. Architectural Goals, Quality Attributes & System Invariants) Tj ET
+BT /F2 10.5 Tf 0.18 0.3 0.5 rg 48 687 Td (1.1 Architectural Quality Attributes) Tj ET
+0.75 0.8 0.9 RG 0.5 w 48 684 m 564 684 l S
+0.2 0.4 0.8 rg 52 674 3 3 re f
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 672 Td (Analytical Query Latency \($\\le$ 15ms\): Sub-15ms p99 response times for complex multi-table joins) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 660 Td (across production_graph, likeness_ledger, and territory_compliance utilizing ClickHouse primary key) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 648 Td (index granularity and sparse vector representations.) Tj ET
+0.2 0.4 0.8 rg 52 636 3 3 re f
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 634 Td (Closed-Loop Reactive Loop \($\\le$ 2.5s\): End-to-end latency from webhook ingestion \(e.g., Frame.io C2C) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 622 Td (new take\) to complete 5-dimensional ripple evaluation \(Legal, VFX, SRE, Story Canon, Distribution\) and) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 610 Td (automated ticket dispatch.) Tj ET
+0.2 0.4 0.8 rg 52 598 3 3 re f
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 596 Td (C2PA Cryptographic Lineage \(Zero-Trust\): 100% frame-level manifest provenance from camera sensor RAW) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 584 Td (to consumer distribution proxy. Any unverified or stripped manifest triggers an immediate halt and) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 572 Td (synthetic provenance reconstruction.) Tj ET
+0.2 0.4 0.8 rg 52 560 3 3 re f
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 558 Td (Multi-Tenant Data Isolation: Complete logical and cryptographic isolation between tenant studios) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 546 Td (\(Paramount, A24, Warner Bros, Universal\) via ClickHouse Row-Level Security \(RLS\), tenant-scoped JWT) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 534 Td (tokens, and envelope encryption with Customer-Managed Encryption Keys \(CMEK\).) Tj ET
+0.2 0.4 0.8 rg 52 522 3 3 re f
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 520 Td (Strict Google Cloud AI Governance: 100% adherence to Hackathon Rule 7.B. Zero reliance on non-Google) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 508 Td (AI models \(no OpenAI, Anthropic, or AWS Bedrock\). All cognitive agents execute via google-genai on) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 496 Td (Gemini 1.5 Pro.) Tj ET
+BT /F2 10.5 Tf 0.18 0.3 0.5 rg 48 474 Td (1.2 System Invariants Matrix) Tj ET
+0.75 0.8 0.9 RG 0.5 w 48 471 m 564 471 l S
+0.88 0.92 0.97 rg 48 447 516 15 re f
+0.7 0.78 0.88 RG 0.5 w 48 447 516 15 re S
+BT /F2 7.5 Tf 0.1 0.2 0.35 rg 52.0 451 Td (Invariant ID) Tj ET
+BT /F2 7.5 Tf 0.1 0.2 0.35 rg 181.0 451 Td (System Domain) Tj ET
+BT /F2 7.5 Tf 0.1 0.2 0.35 rg 310.0 451 Td (Operational Rule) Tj ET
+BT /F2 7.5 Tf 0.1 0.2 0.35 rg 439.0 451 Td (Violation Consequence) Tj ET
+0.98 0.98 0.99 rg 48 432 516 15 re f
+0.85 0.88 0.92 RG 0.5 w 48 432 516 15 re S
+BT /F1 7.2 Tf 0.2 0.2 0.25 rg 52.0 436 Td (INV-001) Tj ET
+BT /F1 7.2 Tf 0.2 0.2 0.25 rg 181.0 436 Td (Production Ingestion) Tj ET
+BT /F1 7.2 Tf 0.2 0.2 0.25 rg 310.0 436 Td (All camera audio/video must) Tj ET
+BT /F1 7.2 Tf 0.2 0.2 0.25 rg 439.0 436 Td (Automatic 0.1% audio pull-u) Tj ET
+1.0 1.0 1.0 rg 48 417 516 15 re f
+0.85 0.88 0.92 RG 0.5 w 48 417 516 15 re S
+BT /F1 7.2 Tf 0.2 0.2 0.25 rg 52.0 421 Td (INV-002) Tj ET
+BT /F1 7.2 Tf 0.2 0.2 0.25 rg 181.0 421 Td (SAG-AFTRA Likeness) Tj ET
+BT /F1 7.2 Tf 0.2 0.2 0.25 rg 310.0 421 Td (Synthetic replica usage mus) Tj ET
+BT /F1 7.2 Tf 0.2 0.2 0.25 rg 439.0 421 Td (Hard render pipeline kill; ) Tj ET
+0.98 0.98 0.99 rg 48 402 516 15 re f
+0.85 0.88 0.92 RG 0.5 w 48 402 516 15 re S
+BT /F1 7.2 Tf 0.2 0.2 0.25 rg 52.0 406 Td (INV-003) Tj ET
+BT /F1 7.2 Tf 0.2 0.2 0.25 rg 181.0 406 Td (Cloud Security) Tj ET
+BT /F1 7.2 Tf 0.2 0.2 0.25 rg 310.0 406 Td (Tenant $T_A$ must never obs) Tj ET
+BT /F1 7.2 Tf 0.2 0.2 0.25 rg 439.0 406 Td (ClickHouse RLS drops rows a) Tj ET
+1.0 1.0 1.0 rg 48 387 516 15 re f
+0.85 0.88 0.92 RG 0.5 w 48 387 516 15 re S
+BT /F1 7.2 Tf 0.2 0.2 0.25 rg 52.0 391 Td (INV-004) Tj ET
+BT /F1 7.2 Tf 0.2 0.2 0.25 rg 181.0 391 Td (Global Compliance) Tj ET
+BT /F1 7.2 Tf 0.2 0.2 0.25 rg 310.0 391 Td (No release candidate may en) Tj ET
+BT /F1 7.2 Tf 0.2 0.2 0.25 rg 439.0 391 Td (Automated VFX inpaint presc) Tj ET
+0.98 0.98 0.99 rg 48 372 516 15 re f
+0.85 0.88 0.92 RG 0.5 w 48 372 516 15 re S
+BT /F1 7.2 Tf 0.2 0.2 0.25 rg 52.0 376 Td (INV-005) Tj ET
+BT /F1 7.2 Tf 0.2 0.2 0.25 rg 181.0 376 Td (Production Schedule) Tj ET
+BT /F1 7.2 Tf 0.2 0.2 0.25 rg 310.0 376 Td (Continuous filming past 6.0) Tj ET
+BT /F1 7.2 Tf 0.2 0.2 0.25 rg 439.0 376 Td (Real-time financial exposur) Tj ET
+0.92 0.94 0.98 rg 48 348 516 24 re f
+0.15 0.28 0.55 RG 1.5 w 48 348 m 48 372 l S
+BT /F2 12.5 Tf 0.1 0.18 0.35 rg 58 355 Td (2. C4 Architecture Models) Tj ET
+BT /F2 10.5 Tf 0.18 0.3 0.5 rg 48 325 Td (2.1 C4 Level 1: System Context Diagram) Tj ET
+0.75 0.8 0.9 RG 0.5 w 48 322 m 564 322 l S
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 48 310 Td (The CINE-SYNAPSE platform sits at the epicenter of studio operations, bridging creative, legal, physical,) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 48 298 Td (and technical workflows.) Tj ET
+0.96 0.97 0.98 rg 48 146 516 140 re f
+0.85 0.88 0.92 RG 0.5 w 48 146 516 140 re S
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 278 Td (graph TD) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 268.5 Td (    User_Dir\([? Film Director / 1st AD]\) -->|Live Take Ingest, Slate Voice Notes, Continuity| CS[«System») Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 259.0 Td (CINE-SYNAPSE Studio OS) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 249.5 Td (Autonomous Production Platform]) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 240.0 Td (    User_Leg\([?? Studio Legal & Business Affairs]\) -->|Likeness Caps, NO FAKES Act Audits, Residuals| CS) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 230.5 Td (    User_VFX\([? VFX Supervisor & Pipeline TD]\) -->|OTIO Cuts, Neural Render Allocation, Inpaint Tasks| CS) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 221.0 Td (    User_DIT\([? Digital Imaging Tech / Colorist]\) -->|Cooke /i Lens Data, ACEScg Gamut, A/B Stills| CS) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 211.5 Td (    User_Exec\([? Studio Executive / Head of Post]\) -->|Macro Production Graph, Budget Risk, RLS Switcher| CS) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 202.0 Td () Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 192.5 Td (    CS <-->|C2C Video Proxies & SMPTE Webhooks| Ext_FIO[«External System») Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 183.0 Td (Adobe Frame.io C2C]) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 173.5 Td (    CS <-->|Union Contracts & Likeness Rights| Ext_RL[«External System») Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 164.0 Td (Rightsline Enterprise API]) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 154.5 Td (    CS <-->|Automated Rework & Task Dispatch| Ext_SG[«External System») Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 145.0 Td (Autodesk Flow / ShotGrid]) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 135.5 Td (    CS <-->|190-Territory Regulatory Compliance| Ext_SP[«External System») Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 126.0 Td (Spherex Rating API]) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 116.5 Td (    CS <-->|Live 2026 Regulatory Intelligence| Ext_PW[«External System») Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 107.0 Td (Parallel Web Search API]) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 97.5 Td (    CS <-->|Production Crew Communications| Ext_Slack[«External System») Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 88.0 Td (Slack & Microsoft Teams]) Tj ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R >> >> /Contents 8 0 R >>
+endobj
+10 0 obj
+<< /Length 5536 >>
+stream
+0.2 0.25 0.35 RG 0.75 w
+48 752 m 564 752 l S
+BT /F2 8 Tf 0.3 0.35 0.45 rg 48 757 Td (CINE-SYNAPSE: Technical Architecture Document \(TAD\)) Tj ET
+BT /F1 8 Tf 0.4 0.45 0.55 rg 380 757 Td (ClickHouse Track | Google Cloud Hackathon 202) Tj ET
+0.75 0.75 0.8 RG 0.5 w
+48 42 m 564 42 l S
+BT /F1 8 Tf 0.4 0.4 0.45 rg 524 30 Td (Page 3) Tj ET
+BT /F1 8 Tf 0.4 0.4 0.45 rg 48 30 Td (CINE-SYNAPSE OS ? Architecture Baseline v2.0 Enterprise) Tj ET
+BT /F2 10.5 Tf 0.18 0.3 0.5 rg 48 717 Td (2.2 C4 Level 2: Container Diagram) Tj ET
+0.75 0.8 0.9 RG 0.5 w 48 714 m 564 714 l S
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 48 702 Td (The CINE-SYNAPSE system is decomposed into loosely coupled, highly scalable containerized microservices) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 48 690 Td (and partner infrastructure.) Tj ET
+0.96 0.97 0.98 rg 48 538 516 140 re f
+0.85 0.88 0.92 RG 0.5 w 48 538 516 140 re S
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 670 Td (graph TD) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 660.5 Td (    subgraph Client Tier [Enterprise Browser Application]) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 651.0 Td (        WebUI[«Container: React 18 + Vite + Tailwind») Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 641.5 Td (CINE-SYNAPSE Studio Dashboard) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 632.0 Td (Midnight Indigo & Cyber-Amethyst Theme) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 622.5 Td (WebGL A/B Shader + OTIO Scrubber]) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 613.0 Td (    end) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 603.5 Td () Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 594.0 Td (    subgraph Application Tier [Google Cloud Run Enterprise Fabric]) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 584.5 Td (        Gateway[«Container: FastAPI / Python 3.11») Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 575.0 Td (API Gateway, Webhook Ingest & Tenant Middleware]) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 565.5 Td (        AgentEngine[«Container: google-genai») Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 556.0 Td (Gemini 1.5 Pro Multi-Agent Orchestrator) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 546.5 Td (Function Calling & Tool Dispatch]) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 537.0 Td (        SentryEngine[«Container: Python 3.11») Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 527.5 Td (7 Micro-Sentry Continuous Inspectors) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 518.0 Td (Deterministic Mathematical Analyzers]) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 508.5 Td (        IngestEngine[«Container: OpenTimelineIO + FFmpeg») Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 499.0 Td (OTIO / EDL / PDF Breakdown Parser) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 489.5 Td (Frame Extractor & C2PA Verifier]) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 480.0 Td (        SideToolsEngine[«Container: WebSockets + WebGL») Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 470.5 Td (Voice Scratchpad, Look Comparator, Slack Dispatcher]) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 461.0 Td (        MCPClient[«Container: Python MCP SDK») Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 451.5 Td (Model Context Protocol JSON-RPC Client]) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 442.0 Td (    end) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 432.5 Td () Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 423.0 Td (    subgraph Partner & Data Tier [Managed Cloud Infrastructure]) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 413.5 Td (        MCPDaemon[«Partner Server: mcp-clickhouse») Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 404.0 Td (Model Context Protocol JSON-RPC 2.0 Daemon]) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 394.5 Td (        ClickHouseDB[\(«Partner Database: ClickHouse Cloud») Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 385.0 Td (Columnar Production Graph Engine) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 375.5 Td (MergeTree, ReplacingMergeTree, RLS\)]) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 366.0 Td (        VertexAI[«Google Cloud Service: Vertex AI») Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 356.5 Td (Gemini 1.5 Pro Multimodal API]) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 347.0 Td (        CloudKMS[«Google Cloud Service: KMS») Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 337.5 Td (Tenant Envelope Encryption / CMEK]) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 328.0 Td (        GCS[«Google Cloud Service: Cloud Storage») Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 318.5 Td (Proxies, Audio Waveforms, LUTs, C2PA Manifests]) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 309.0 Td (    end) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 299.5 Td () Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 290.0 Td (    WebUI <-->|HTTPS / WSS / REST| Gateway) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 280.5 Td (    Gateway --> AgentEngine) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 271.0 Td (    Gateway --> SentryEngine) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 261.5 Td (    Gateway --> IngestEngine) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 252.0 Td (    Gateway --> SideToolsEngine) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 242.5 Td (    AgentEngine <--> VertexAI) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 233.0 Td (    AgentEngine <--> MCPClient) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 223.5 Td (    MCPClient <-->|JSON-RPC 2.0 Stdio/SSE| MCPDaemon) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 214.0 Td (    MCPDaemon <-->|TCP 9000 Native| ClickHouseDB) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 204.5 Td (    Gateway <--> CloudKMS) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 195.0 Td (    IngestEngine <--> GCS) Tj ET
+BT /F2 10.5 Tf 0.18 0.3 0.5 rg 48 171.5 Td (2.3 C4 Level 3: Component Diagram \(Agent & Ingestion Fabric\)) Tj ET
+0.75 0.8 0.9 RG 0.5 w 48 168.5 m 564 168.5 l S
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R >> >> /Contents 10 0 R >>
+endobj
+12 0 obj
+<< /Length 6395 >>
+stream
+0.2 0.25 0.35 RG 0.75 w
+48 752 m 564 752 l S
+BT /F2 8 Tf 0.3 0.35 0.45 rg 48 757 Td (CINE-SYNAPSE: Technical Architecture Document \(TAD\)) Tj ET
+BT /F1 8 Tf 0.4 0.45 0.55 rg 380 757 Td (ClickHouse Track | Google Cloud Hackathon 202) Tj ET
+0.75 0.75 0.8 RG 0.5 w
+48 42 m 564 42 l S
+BT /F1 8 Tf 0.4 0.4 0.45 rg 524 30 Td (Page 4) Tj ET
+BT /F1 8 Tf 0.4 0.4 0.45 rg 48 30 Td (CINE-SYNAPSE OS ? Architecture Baseline v2.0 Enterprise) Tj ET
+0.96 0.97 0.98 rg 48 589 516 140 re f
+0.85 0.88 0.92 RG 0.5 w 48 589 516 140 re S
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 721 Td (graph LR) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 711.5 Td (    subgraph Gateway Container) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 702.0 Td (        MW[Tenant Context Middleware] --> Router[FastAPI APIRouter]) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 692.5 Td (    end) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 683.0 Td () Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 673.5 Td (    subgraph Ingestion Pipeline) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 664.0 Td (        Router --> OTIO_P[OTIO / EDL AST Parser]) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 654.5 Td (        Router --> PDF_P[PDF Script Breakdown Parser]) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 645.0 Td (        Router --> C2C_W[C2C Stream Demuxer]) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 635.5 Td (        C2C_W --> C2PA_V[C2PA Cryptographic Verifier]) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 626.0 Td (    end) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 616.5 Td () Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 607.0 Td (    subgraph Micro-Sentry Core) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 597.5 Td (        Router --> Sentry_TC[Timecode Drift Sentry]) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 588.0 Td (        Router --> Sentry_MP[Meal Penalty Calculator]) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 578.5 Td (        Router --> Sentry_ACES[ACES Gamut Inspector]) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 569.0 Td (        Router --> Sentry_IP[Ambient IP Detector]) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 559.5 Td (    end) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 550.0 Td () Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 540.5 Td (    subgraph Agent Core) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 531.0 Td (        Router --> Supervisor[Gemini Master Supervisor]) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 521.5 Td (        Supervisor --> Tool_CH[ClickHouse MCP Query Tool]) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 512.0 Td (        Supervisor --> Tool_SG[ShotGrid Dispatcher Tool]) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 502.5 Td (        Supervisor --> Tool_PW[Parallel Search Tool]) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 493.0 Td (    end) Tj ET
+0.92 0.94 0.98 rg 48 462.5 516 24 re f
+0.15 0.28 0.55 RG 1.5 w 48 462.5 m 48 486.5 l S
+BT /F2 12.5 Tf 0.1 0.18 0.35 rg 58 469.5 Td (3. Data Architecture & ClickHouse Columnar Schemas \(Multi-Tenant DDL\)) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 48 447.5 Td (ClickHouse Cloud serves as the immutable columnar backbone of CINE-SYNAPSE. The schemas are specifically) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 48 435.5 Td (partitioned by \(tenant_id, toYYYYMM\(created_at\)\) and indexed with an index_granularity = 8192 to provide) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 48 423.5 Td (sub-15ms analytical query response times across multi-billion-row production logs.) Tj ET
+BT /F2 10.5 Tf 0.18 0.3 0.5 rg 48 399.5 Td (3.1 Multi-Tenant Production Graph DDL \(`production_graph`\)) Tj ET
+0.75 0.8 0.9 RG 0.5 w 48 396.5 m 564 396.5 l S
+0.96 0.97 0.98 rg 48 248.5 516 140 re f
+0.85 0.88 0.92 RG 0.5 w 48 248.5 516 140 re S
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 380.5 Td (-- 1. Master Production Graph Table) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 371.0 Td (CREATE TABLE IF NOT EXISTS production_graph \() Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 361.5 Td (    tenant_id LowCardinality\(String\),) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 352.0 Td (    project_id LowCardinality\(String\),) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 342.5 Td (    scene_id LowCardinality\(String\),) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 333.0 Td (    shot_id LowCardinality\(String\),) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 323.5 Td (    take_number UInt8,) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 314.0 Td (    frame_number UInt32,) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 304.5 Td (    timecode_smpte String,) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 295.0 Td (    fps Float32,) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 285.5 Td (    camera_id LowCardinality\(String\),) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 276.0 Td (    lens_model LowCardinality\(String\),) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 266.5 Td (    lens_focal_length_mm Float32,) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 257.0 Td (    lens_t_stop Float32,) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 247.5 Td (    actor_ids Array\(LowCardinality\(String\)\),) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 238.0 Td (    is_synthetic_performer UInt8,) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 228.5 Td (    synthetic_asset_type Enum8\() Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 219.0 Td (        'NONE' = 0,) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 209.5 Td (        'FACE_REPLACE' = 1,) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 200.0 Td (        'DE_AGING' = 2,) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 190.5 Td (        'VOICE_CLONE' = 3,) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 181.0 Td (        'FULL_SYNTHETIC' = 4) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 171.5 Td (    \),) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 162.0 Td (    c2pa_verified UInt8,) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 152.5 Td (    c2pa_manifest_hash FixedString\(64\),) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 143.0 Td (    c2pa_issuer LowCardinality\(String\),) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 133.5 Td (    color_space LowCardinality\(String\),) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 124.0 Td (    created_at DateTime DEFAULT now\(\)) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 114.5 Td (\) ENGINE = MergeTree\(\)) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 105.0 Td (PARTITION BY \(tenant_id, toYYYYMM\(created_at\)\)) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 95.5 Td (PRIMARY KEY \(tenant_id, project_id, scene_id\)) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 86.0 Td (ORDER BY \(tenant_id, project_id, scene_id, shot_id, take_number, frame_number\)) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 76.5 Td (SETTINGS index_granularity = 8192;) Tj ET
+endstream
+endobj
+13 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R >> >> /Contents 12 0 R >>
+endobj
+14 0 obj
+<< /Length 5996 >>
+stream
+0.2 0.25 0.35 RG 0.75 w
+48 752 m 564 752 l S
+BT /F2 8 Tf 0.3 0.35 0.45 rg 48 757 Td (CINE-SYNAPSE: Technical Architecture Document \(TAD\)) Tj ET
+BT /F1 8 Tf 0.4 0.45 0.55 rg 380 757 Td (ClickHouse Track | Google Cloud Hackathon 202) Tj ET
+0.75 0.75 0.8 RG 0.5 w
+48 42 m 564 42 l S
+BT /F1 8 Tf 0.4 0.4 0.45 rg 524 30 Td (Page 5) Tj ET
+BT /F1 8 Tf 0.4 0.4 0.45 rg 48 30 Td (CINE-SYNAPSE OS ? Architecture Baseline v2.0 Enterprise) Tj ET
+BT /F2 10.5 Tf 0.18 0.3 0.5 rg 48 717 Td (3.2 SAG-AFTRA Digital Likeness Ledger DDL \(`likeness_ledger`\)) Tj ET
+0.75 0.8 0.9 RG 0.5 w 48 714 m 564 714 l S
+0.96 0.97 0.98 rg 48 566 516 140 re f
+0.85 0.88 0.92 RG 0.5 w 48 566 516 140 re S
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 698 Td (-- 2. SAG-AFTRA Likeness Ledger \(NO FAKES Act Compliance\)) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 688.5 Td (CREATE TABLE IF NOT EXISTS likeness_ledger \() Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 679.0 Td (    tenant_id LowCardinality\(String\),) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 669.5 Td (    actor_id LowCardinality\(String\),) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 660.0 Td (    actor_name String,) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 650.5 Td (    contract_id String,) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 641.0 Td (    union_affiliation Enum8\() Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 631.5 Td (        'SAG_AFTRA' = 1,) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 622.0 Td (        'ACTRA' = 2,) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 612.5 Td (        'EQUITY' = 3,) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 603.0 Td (        'NON_UNION' = 4) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 593.5 Td (    \),) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 584.0 Td (    schedule_code Enum8\() Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 574.5 Td (        'SCHEDULE_A' = 1,) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 565.0 Td (        'SCHEDULE_B' = 2,) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 555.5 Td (        'SCHEDULE_F' = 3) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 546.0 Td (    \),) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 536.5 Td (    authorized_seconds Float32,) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 527.0 Td (    used_seconds Float32,) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 517.5 Td (    residual_rate_per_sec Float32,) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 508.0 Td (    consent_hash String,) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 498.5 Td (    consent_expiry Date,) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 489.0 Td (    permitted_asset_types Array\(Enum8\() Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 479.5 Td (        'FACE_REPLACE' = 1,) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 470.0 Td (        'DE_AGING' = 2,) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 460.5 Td (        'VOICE_CLONE' = 3,) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 451.0 Td (        'FULL_SYNTHETIC' = 4) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 441.5 Td (    \)\),) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 432.0 Td (    updated_at DateTime DEFAULT now\(\)) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 422.5 Td (\) ENGINE = ReplacingMergeTree\(updated_at\)) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 413.0 Td (PRIMARY KEY \(tenant_id, actor_id\)) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 403.5 Td (ORDER BY \(tenant_id, actor_id, contract_id\);) Tj ET
+BT /F2 10.5 Tf 0.18 0.3 0.5 rg 48 380.0 Td (3.3 Continuous Micro-Sentry Telemetry Ledger DDL \(`micro_sentry_log`\)) Tj ET
+0.75 0.8 0.9 RG 0.5 w 48 377.0 m 564 377.0 l S
+0.96 0.97 0.98 rg 48 229.0 516 140 re f
+0.85 0.88 0.92 RG 0.5 w 48 229.0 516 140 re S
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 361.0 Td (-- 3. Micro-Sentry Telemetry Ledger) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 351.5 Td (CREATE TABLE IF NOT EXISTS micro_sentry_log \() Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 342.0 Td (    event_id UUID DEFAULT generateUUIDv4\(\),) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 332.5 Td (    tenant_id LowCardinality\(String\),) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 323.0 Td (    project_id LowCardinality\(String\),) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 313.5 Td (    category Enum8\() Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 304.0 Td (        'TIMECODE_DRIFT' = 1,) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 294.5 Td (        'C2PA_STRIPPED'  = 2,) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 285.0 Td (        'AMBIENT_IP'     = 3,) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 275.5 Td (        'MEAL_PENALTY'   = 4,) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 266.0 Td (        'ACES_CLIPPING'  = 5,) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 256.5 Td (        'SLATE_DESYNC'   = 6,) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 247.0 Td (        'PROP_DESYNC'    = 7) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 237.5 Td (    \),) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 228.0 Td (    severity Enum8\('INFO' = 1, 'WARNING' = 2, 'CRITICAL' = 3\),) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 218.5 Td (    scene_id LowCardinality\(String\),) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 209.0 Td (    shot_id LowCardinality\(String\),) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 199.5 Td (    take_id String,) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 190.0 Td (    timecode_smpte String,) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 180.5 Td (    details String,) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 171.0 Td (    financial_exposure_usd Float32,) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 161.5 Td (    auto_remediation_applied UInt8 DEFAULT 0,) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 152.0 Td (    remediation_action String,) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 142.5 Td (    resolved UInt8 DEFAULT 0,) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 133.0 Td (    timestamp DateTime DEFAULT now\(\)) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 123.5 Td (\) ENGINE = MergeTree\(\)) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 114.0 Td (PARTITION BY \(tenant_id, toYYYYMM\(timestamp\)\)) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 104.5 Td (PRIMARY KEY \(tenant_id, severity, category\)) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 95.0 Td (ORDER BY \(tenant_id, severity, category, timestamp\);) Tj ET
+endstream
+endobj
+15 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R >> >> /Contents 14 0 R >>
+endobj
+16 0 obj
+<< /Length 6702 >>
+stream
+0.2 0.25 0.35 RG 0.75 w
+48 752 m 564 752 l S
+BT /F2 8 Tf 0.3 0.35 0.45 rg 48 757 Td (CINE-SYNAPSE: Technical Architecture Document \(TAD\)) Tj ET
+BT /F1 8 Tf 0.4 0.45 0.55 rg 380 757 Td (ClickHouse Track | Google Cloud Hackathon 202) Tj ET
+0.75 0.75 0.8 RG 0.5 w
+48 42 m 564 42 l S
+BT /F1 8 Tf 0.4 0.4 0.45 rg 524 30 Td (Page 6) Tj ET
+BT /F1 8 Tf 0.4 0.4 0.45 rg 48 30 Td (CINE-SYNAPSE OS ? Architecture Baseline v2.0 Enterprise) Tj ET
+BT /F2 10.5 Tf 0.18 0.3 0.5 rg 48 717 Td (3.4 190-Territory Distribution Compliance DDL \(`territory_compliance`\)) Tj ET
+0.75 0.8 0.9 RG 0.5 w 48 714 m 564 714 l S
+0.96 0.97 0.98 rg 48 566 516 140 re f
+0.85 0.88 0.92 RG 0.5 w 48 566 516 140 re S
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 698 Td (-- 4. Global Territory Compliance & Inpaint Registry) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 688.5 Td (CREATE TABLE IF NOT EXISTS territory_compliance \() Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 679.0 Td (    tenant_id LowCardinality\(String\),) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 669.5 Td (    project_id LowCardinality\(String\),) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 660.0 Td (    territory_iso LowCardinality\(FixedString\(2\)\),) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 650.5 Td (    scene_id LowCardinality\(String\),) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 641.0 Td (    shot_id LowCardinality\(String\),) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 631.5 Td (    timecode_start String,) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 622.0 Td (    timecode_end String,) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 612.5 Td (    infraction_category Enum8\() Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 603.0 Td (        'PROFANITY' = 1,) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 593.5 Td (        'ALCOHOL_TOBACCO' = 2,) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 584.0 Td (        'RELIGIOUS_SENSITIVITY' = 3,) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 574.5 Td (        'POLITICAL_SYMBOL' = 4,) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 565.0 Td (        'VIOLENCE_GORE' = 5,) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 555.5 Td (        'UNLICENSED_IP' = 6) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 546.0 Td (    \),) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 536.5 Td (    risk_level Enum8\('LOW' = 1, 'MEDIUM' = 2, 'HIGH' = 3, 'BANNED' = 4\),) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 527.0 Td (    inpaint_bounding_box String, -- JSON formatted [x1, y1, x2, y2]) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 517.5 Td (    shotgrid_task_id String,) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 508.0 Td (    inpaint_status Enum8\('PENDING' = 1, 'DISPATCHED' = 2, 'RENDERED' = 3, 'APPROVED' = 4\),) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 498.5 Td (    created_at DateTime DEFAULT now\(\)) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 489.0 Td (\) ENGINE = ReplacingMergeTree\(created_at\)) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 479.5 Td (PRIMARY KEY \(tenant_id, territory_iso, scene_id\)) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 470.0 Td (ORDER BY \(tenant_id, territory_iso, scene_id, shot_id\);) Tj ET
+BT /F2 10.5 Tf 0.18 0.3 0.5 rg 48 446.5 Td (3.5 Professional Side-Tools & Scratchpad DDL \(`side_tools_scratchpad`\)) Tj ET
+0.75 0.8 0.9 RG 0.5 w 48 443.5 m 564 443.5 l S
+0.96 0.97 0.98 rg 48 295.5 516 140 re f
+0.85 0.88 0.92 RG 0.5 w 48 295.5 516 140 re S
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 427.5 Td (-- 5. Timecoded Voice Scratchpad & Look Library Stills) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 418.0 Td (CREATE TABLE IF NOT EXISTS side_tools_scratchpad \() Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 408.5 Td (    memo_id UUID DEFAULT generateUUIDv4\(\),) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 399.0 Td (    tenant_id LowCardinality\(String\),) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 389.5 Td (    project_id LowCardinality\(String\),) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 380.0 Td (    user_id LowCardinality\(String\),) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 370.5 Td (    user_role LowCardinality\(String\),) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 361.0 Td (    scene_id LowCardinality\(String\),) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 351.5 Td (    shot_id LowCardinality\(String\),) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 342.0 Td (    timecode_smpte String,) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 332.5 Td (    audio_storage_uri String,) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 323.0 Td (    transcript_text String,) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 313.5 Td (    extracted_entities Array\(String\),) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 304.0 Td (    assigned_department Enum8\() Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 294.5 Td (        'DIRECTOR' = 1,) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 285.0 Td (        'CAMERA' = 2,) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 275.5 Td (        'SOUND' = 3,) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 266.0 Td (        'VFX' = 4,) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 256.5 Td (        'LEGAL' = 5,) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 247.0 Td (        'ART' = 6) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 237.5 Td (    \),) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 228.0 Td (    shotgrid_ticket_id String,) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 218.5 Td (    created_at DateTime DEFAULT now\(\)) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 209.0 Td (\) ENGINE = MergeTree\(\)) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 199.5 Td (PARTITION BY \(tenant_id, toYYYYMM\(created_at\)\)) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 190.0 Td (ORDER BY \(tenant_id, scene_id, timecode_smpte, created_at\);) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 180.5 Td () Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 171.0 Td (-- 6. Look Library Reference Stills & CDL Grades) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 161.5 Td (CREATE TABLE IF NOT EXISTS look_library_stills \() Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 152.0 Td (    still_id UUID DEFAULT generateUUIDv4\(\),) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 142.5 Td (    tenant_id LowCardinality\(String\),) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 133.0 Td (    project_id LowCardinality\(String\),) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 123.5 Td (    scene_id LowCardinality\(String\),) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 114.0 Td (    still_type Enum8\('HERO_APPROVED' = 1, 'WORK_IN_PROGRESS' = 2, 'ON_SET_PROXY' = 3\),) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 104.5 Td (    image_uri String,) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 95.0 Td (    cdl_slope_rgb Tuple\(Float32, Float32, Float32\),) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 85.5 Td (    cdl_offset_rgb Tuple\(Float32, Float32, Float32\),) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 76.0 Td (    cdl_power_rgb Tuple\(Float32, Float32, Float32\),) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 66.5 Td (    cdl_saturation Float32,) Tj ET
+endstream
+endobj
+17 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R >> >> /Contents 16 0 R >>
+endobj
+18 0 obj
+<< /Length 6300 >>
+stream
+0.2 0.25 0.35 RG 0.75 w
+48 752 m 564 752 l S
+BT /F2 8 Tf 0.3 0.35 0.45 rg 48 757 Td (CINE-SYNAPSE: Technical Architecture Document \(TAD\)) Tj ET
+BT /F1 8 Tf 0.4 0.45 0.55 rg 380 757 Td (ClickHouse Track | Google Cloud Hackathon 202) Tj ET
+0.75 0.75 0.8 RG 0.5 w
+48 42 m 564 42 l S
+BT /F1 8 Tf 0.4 0.4 0.45 rg 524 30 Td (Page 7) Tj ET
+BT /F1 8 Tf 0.4 0.4 0.45 rg 48 30 Td (CINE-SYNAPSE OS ? Architecture Baseline v2.0 Enterprise) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 725 Td (    lut_cube_hash FixedString\(64\),) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 715.5 Td (    created_at DateTime DEFAULT now\(\)) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 706.0 Td (\) ENGINE = MergeTree\(\)) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 696.5 Td (ORDER BY \(tenant_id, scene_id, still_type, created_at\);) Tj ET
+BT /F2 10.5 Tf 0.18 0.3 0.5 rg 48 673.0 Td (3.6 ClickHouse Row-Level Security \(RLS\) Policy Specifications) Tj ET
+0.75 0.8 0.9 RG 0.5 w 48 670.0 m 564 670.0 l S
+0.96 0.97 0.98 rg 48 522.0 516 140 re f
+0.85 0.88 0.92 RG 0.5 w 48 522.0 516 140 re S
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 654.0 Td (-- 7. Mandatory Tenant Row-Level Security Policy) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 644.5 Td (CREATE ROW POLICY IF NOT EXISTS tenant_isolation_policy ON production_graph) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 635.0 Td (FOR SELECT, INSERT, UPDATE, DELETE) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 625.5 Td (USING \(tenant_id = currentUser\(\)\)) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 616.0 Td (AS RESTRICTIVE) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 606.5 Td (TO ALL;) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 597.0 Td () Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 587.5 Td (CREATE ROW POLICY IF NOT EXISTS tenant_isolation_policy_likeness ON likeness_ledger) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 578.0 Td (FOR SELECT, INSERT, UPDATE, DELETE) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 568.5 Td (USING \(tenant_id = currentUser\(\)\)) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 559.0 Td (AS RESTRICTIVE) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 549.5 Td (TO ALL;) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 540.0 Td () Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 530.5 Td (CREATE ROW POLICY IF NOT EXISTS tenant_isolation_policy_sentry ON micro_sentry_log) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 521.0 Td (FOR SELECT, INSERT, UPDATE, DELETE) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 511.5 Td (USING \(tenant_id = currentUser\(\)\)) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 502.0 Td (AS RESTRICTIVE) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 492.5 Td (TO ALL;) Tj ET
+0.92 0.94 0.98 rg 48 462.0 516 24 re f
+0.15 0.28 0.55 RG 1.5 w 48 462.0 m 48 486.0 l S
+BT /F2 12.5 Tf 0.1 0.18 0.35 rg 58 469.0 Td (4. Multi-Tenant SaaS Architecture & Identity Fabric) Tj ET
+BT /F2 10.5 Tf 0.18 0.3 0.5 rg 48 439.0 Td (4.1 Enterprise SSO & Identity Federation Flow) Tj ET
+0.75 0.8 0.9 RG 0.5 w 48 436.0 m 564 436.0 l S
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 48 424.0 Td (CINE-SYNAPSE implements an enterprise-grade SAML 2.0 and OpenID Connect \(OIDC\) identity federation layer) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 48 412.0 Td (supporting major studio identity providers:) Tj ET
+0.2 0.4 0.8 rg 52 398.0 3 3 re f
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 396.0 Td (Okta Enterprise Identity \(Paramount, Sony Pictures\)) Tj ET
+0.2 0.4 0.8 rg 52 384.0 3 3 re f
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 382.0 Td (Microsoft Azure Active Directory / Entra ID \(Warner Bros. Discovery\)) Tj ET
+0.2 0.4 0.8 rg 52 370.0 3 3 re f
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 368.0 Td (Google Workspace Identity & BeyondCorp \(A24, Independent Studios\)) Tj ET
+0.96 0.97 0.98 rg 48 218.0 516 140 re f
+0.85 0.88 0.92 RG 0.5 w 48 218.0 516 140 re S
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 350.0 Td (sequenceDiagram) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 340.5 Td (    autonumber) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 331.0 Td (    actor StudioUser as Studio Professional \(1st AD / Legal / VFX\)) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 321.5 Td (    participant ClientApp as React Client \(Vite SPA\)) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 312.0 Td (    participant APIGateway as FastAPI Gateway) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 302.5 Td (    participant IdP as Studio Okta / Google SSO) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 293.0 Td (    participant KMS as Google Cloud KMS) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 283.5 Td (    participant CH as ClickHouse Cloud Engine) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 274.0 Td () Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 264.5 Td (    StudioUser->>ClientApp: Access https://cinesynapse.studio.internal) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 255.0 Td (    ClientApp->>APIGateway: GET /api/v1/auth/sso/init?domain=paramount.com) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 245.5 Td (    APIGateway-->>ClientApp: Redirect to IdP SAML/OIDC Authorization URL) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 236.0 Td (    ClientApp->>IdP: User enters studio credentials + Hardware MFA) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 226.5 Td (    IdP-->>ClientApp: Return SAML Response / OIDC ID Token) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 217.0 Td (    ClientApp->>APIGateway: POST /api/v1/auth/sso/callback {assertion}) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 207.5 Td (    APIGateway->>APIGateway: Validate X.509 signature & extract tenant_id \("paramount"\)) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 198.0 Td (    APIGateway->>KMS: Decrypt tenant-scoped ClickHouse credentials) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 188.5 Td (    KMS-->>APIGateway: Decrypted connection string & signing key) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 179.0 Td (    APIGateway-->>ClientApp: Set Secure, HttpOnly, SameSite=Strict JWT) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 169.5 Td (    ClientApp->>APIGateway: GET /api/v1/production-graph \(Authorization: Bearer JWT\)) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 160.0 Td (    APIGateway->>CH: Connect as user "paramount" \(RLS enforced\)) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 150.5 Td (    CH-->>APIGateway: Return isolated tenant rows \(sub-15ms\)) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 141.0 Td (    APIGateway-->>ClientApp: Return 200 OK with Tenant Dataset) Tj ET
+BT /F2 10.5 Tf 0.18 0.3 0.5 rg 48 117.5 Td (4.2 Tenant Context Middleware Implementation) Tj ET
+0.75 0.8 0.9 RG 0.5 w 48 114.5 m 564 114.5 l S
+endstream
+endobj
+19 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R >> >> /Contents 18 0 R >>
+endobj
+20 0 obj
+<< /Length 5887 >>
+stream
+0.2 0.25 0.35 RG 0.75 w
+48 752 m 564 752 l S
+BT /F2 8 Tf 0.3 0.35 0.45 rg 48 757 Td (CINE-SYNAPSE: Technical Architecture Document \(TAD\)) Tj ET
+BT /F1 8 Tf 0.4 0.45 0.55 rg 380 757 Td (ClickHouse Track | Google Cloud Hackathon 202) Tj ET
+0.75 0.75 0.8 RG 0.5 w
+48 42 m 564 42 l S
+BT /F1 8 Tf 0.4 0.4 0.45 rg 524 30 Td (Page 8) Tj ET
+BT /F1 8 Tf 0.4 0.4 0.45 rg 48 30 Td (CINE-SYNAPSE OS ? Architecture Baseline v2.0 Enterprise) Tj ET
+0.96 0.97 0.98 rg 48 589 516 140 re f
+0.85 0.88 0.92 RG 0.5 w 48 589 516 140 re S
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 721 Td (import os) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 711.5 Td (import jwt) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 702.0 Td (from contextvars import ContextVar) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 692.5 Td (from fastapi import Request, HTTPException, status) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 683.0 Td (from starlette.middleware.base import BaseHTTPMiddleware) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 673.5 Td () Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 664.0 Td (tenant_context: ContextVar[str] = ContextVar\("tenant_context", default=""\)) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 654.5 Td (user_context: ContextVar[str] = ContextVar\("user_context", default=""\)) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 645.0 Td () Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 635.5 Td (class TenantContextMiddleware\(BaseHTTPMiddleware\):) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 626.0 Td (    async def dispatch\(self, request: Request, call_next\):) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 616.5 Td (        # Exclude public health and SSO handshake endpoints) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 607.0 Td (        if request.url.path in ["/healthz", "/metrics", "/api/v1/auth/sso/init", "/api/v1/auth/sso/callback"]:) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 597.5 Td (            return await call_next\(request\)) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 588.0 Td () Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 578.5 Td (        auth_header = request.headers.get\("Authorization"\)) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 569.0 Td (        if not auth_header or not auth_header.startswith\("Bearer "\):) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 559.5 Td (            raise HTTPException\() Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 550.0 Td (                status_code=status.HTTP_401_UNAUTHORIZED,) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 540.5 Td (                detail="Missing or malformed Authorization header") Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 531.0 Td (            \)) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 521.5 Td () Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 512.0 Td (        token = auth_header.split\(" "\)[1]) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 502.5 Td (        try:) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 493.0 Td (            # Verify JWT using studio public key) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 483.5 Td (            payload = jwt.decode\(token, os.getenv\("JWT_PUBLIC_KEY"\), algorithms=["RS256"]\)) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 474.0 Td (            tenant_id = payload.get\("tenant_id"\)) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 464.5 Td (            user_id = payload.get\("sub"\)) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 455.0 Td (            role = payload.get\("role"\)) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 445.5 Td () Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 436.0 Td (            if not tenant_id:) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 426.5 Td (                raise HTTPException\(status_code=status.HTTP_403_FORBIDDEN, detail="No tenant claims in token"\)) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 417.0 Td () Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 407.5 Td (            # Inject tenant and user context into thread-local ContextVars) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 398.0 Td (            tenant_token = tenant_context.set\(tenant_id\)) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 388.5 Td (            user_token = user_context.set\(user_id\)) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 379.0 Td () Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 369.5 Td (            # Bind tenant context to request state for handler access) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 360.0 Td (            request.state.tenant_id = tenant_id) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 350.5 Td (            request.state.user_id = user_id) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 341.0 Td (            request.state.user_role = role) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 331.5 Td () Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 322.0 Td (            response = await call_next\(request\)) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 312.5 Td (            return response) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 303.0 Td (        except jwt.PyJWTError as e:) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 293.5 Td (            raise HTTPException\(status_code=status.HTTP_401_UNAUTHORIZED, detail=f"Invalid authentication token: {s) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 284.0 Td (        finally:) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 274.5 Td (            # Reset ContextVars to prevent leakage across pooled event-loop workers) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 265.0 Td (            tenant_context.set\(""\)) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 255.5 Td (            user_context.set\(""\)) Tj ET
+0.92 0.94 0.98 rg 48 225.0 516 24 re f
+0.15 0.28 0.55 RG 1.5 w 48 225.0 m 48 249.0 l S
+BT /F2 12.5 Tf 0.1 0.18 0.35 rg 58 232.0 Td (5. Media & Timeline Ingestion Hub Architecture) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 48 210.0 Td (The Ingestion Hub provides a drag-and-drop workspace capable of ingesting industry-standard timelines) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 48 198.0 Td (\(.otio, .edl, Final Cut .xml\) and script breakdown documents \(.pdf\), synchronizing them frame-by-frame) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 48 186.0 Td (with live Camera-to-Cloud \(C2C\) streams.) Tj ET
+endstream
+endobj
+21 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R >> >> /Contents 20 0 R >>
+endobj
+22 0 obj
+<< /Length 7919 >>
+stream
+0.2 0.25 0.35 RG 0.75 w
+48 752 m 564 752 l S
+BT /F2 8 Tf 0.3 0.35 0.45 rg 48 757 Td (CINE-SYNAPSE: Technical Architecture Document \(TAD\)) Tj ET
+BT /F1 8 Tf 0.4 0.45 0.55 rg 380 757 Td (ClickHouse Track | Google Cloud Hackathon 202) Tj ET
+0.75 0.75 0.8 RG 0.5 w
+48 42 m 564 42 l S
+BT /F1 8 Tf 0.4 0.4 0.45 rg 524 30 Td (Page 9) Tj ET
+BT /F1 8 Tf 0.4 0.4 0.45 rg 48 30 Td (CINE-SYNAPSE OS ? Architecture Baseline v2.0 Enterprise) Tj ET
+0.96 0.97 0.98 rg 48 589 516 140 re f
+0.85 0.88 0.92 RG 0.5 w 48 589 516 140 re S
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 721 Td (???????????????????????????????????????????????????????????????????????????????????????????????????????????) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 711.5 Td (?                                    INGESTION PIPELINE ARCHITECTURE                                      ?) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 702.0 Td (?                                                                                                         ?) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 692.5 Td (?   [ .otio / .edl / XML ] ??? [ OpenTimelineIO AST Parser ] ??? [ Clip Tokenizer & Track Separator ]    ?) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 683.0 Td (?                                                                               ?                         ?) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 673.5 Td (?   [ Script Breakdown PDF ] ??? [ Gemini 1.5 Pro Multimodal ] ??? [ Scene / Action / Slugline Extractor ] ?) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 664.0 Td (?                                                                               ?                         ?) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 654.5 Td (?   [ Live ARRI / RED C2C ] ??? [ FFmpeg WebCodecs Demuxer ] ??? [ SMPTE ST 12-1 Timecode & Frame Hash ]?) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 645.0 Td (?                                                                               ?                         ?) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 635.5 Td (?                                                                               ?                         ?) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 626.0 Td (?                                                          ????????????????????????????????????????????   ?) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 616.5 Td (?                                                          ?      CLICKHOUSE COLUMNAR INGESTION       ?   ?) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 607.0 Td (?                                                          ?       `production_graph` Table           ?   ?) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 597.5 Td (?                                                          ?   \(8,192 Granularity Batch Insert\)       ?   ?) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 588.0 Td (?                                                          ????????????????????????????????????????????   ?) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 578.5 Td (???????????????????????????????????????????????????????????????????????????????????????????????????????????) Tj ET
+BT /F2 10.5 Tf 0.18 0.3 0.5 rg 48 555.0 Td (5.1 OpenTimelineIO \(OTIO\) Parsing & AST Transformation) Tj ET
+0.75 0.8 0.9 RG 0.5 w 48 552.0 m 564 552.0 l S
+0.96 0.97 0.98 rg 48 404.0 516 140 re f
+0.85 0.88 0.92 RG 0.5 w 48 404.0 516 140 re S
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 536.0 Td (import opentimelineio as otio) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 526.5 Td (from typing import List, Dict, Any) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 517.0 Td () Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 507.5 Td (class TimelineIngestService:) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 498.0 Td (    @staticmethod) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 488.5 Td (    def parse_otio_timeline\(file_content: str, tenant_id: str, project_id: str\) -> List[Dict[str, Any]]:) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 479.0 Td (        timeline = otio.adapters.read_from_string\(file_content, adapter_name="otio_json"\)) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 469.5 Td (        frames_payload = []) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 460.0 Td () Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 450.5 Td (        global_fps = timeline.global_start_time.rate if timeline.global_start_time else 24.0) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 441.0 Td () Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 431.5 Td (        for track in timeline.tracks:) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 422.0 Td (            if track.kind != otio.schema.TrackKind.Video:) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 412.5 Td (                continue) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 403.0 Td () Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 393.5 Td (            for item in track:) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 384.0 Td (                if isinstance\(item, otio.schema.Clip\):) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 374.5 Td (                    clip_name = item.name) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 365.0 Td (                    media_ref = item.media_reference) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 355.5 Td (                    time_range = item.trimmed_range\(\)) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 346.0 Td () Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 336.5 Td (                    start_frame = time_range.start_time.to_frames\(\)) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 327.0 Td (                    duration_frames = time_range.duration.to_frames\(\)) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 317.5 Td (                    fps = time_range.start_time.rate) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 308.0 Td () Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 298.5 Td (                    # Extract metadata markers) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 289.0 Td (                    metadata = item.metadata.get\("cine_synapse", {}\)) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 279.5 Td (                    scene_id = metadata.get\("scene_id", "SCENE_UNKNOWN"\)) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 270.0 Td (                    shot_id = metadata.get\("shot_id", clip_name\)) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 260.5 Td (                    c2pa_hash = metadata.get\("c2pa_hash", "0" * 64\)) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 251.0 Td () Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 241.5 Td (                    frames_payload.append\({) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 232.0 Td (                        "tenant_id": tenant_id,) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 222.5 Td (                        "project_id": project_id,) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 213.0 Td (                        "scene_id": scene_id,) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 203.5 Td (                        "shot_id": shot_id,) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 194.0 Td (                        "start_frame": start_frame,) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 184.5 Td (                        "duration_frames": duration_frames,) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 175.0 Td (                        "fps": fps,) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 165.5 Td (                        "c2pa_manifest_hash": c2pa_hash) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 156.0 Td (                    }\)) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 146.5 Td () Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 137.0 Td (        return frames_payload) Tj ET
+BT /F2 10.5 Tf 0.18 0.3 0.5 rg 48 113.5 Td (5.2 Camera Metadata Harvesting \(Cooke /i & ARRI LDS-2\)) Tj ET
+0.75 0.8 0.9 RG 0.5 w 48 110.5 m 564 110.5 l S
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 48 98.5 Td (Every video frame ingested into CINE-SYNAPSE extracts comprehensive lens and sensor metadata directly) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 48 86.5 Td (from the camera's SDI/SMPTE ancillary data stream \(SMPTE RDD 18\):) Tj ET
+0.2 0.4 0.8 rg 52 72.5 3 3 re f
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 70.5 Td (Cooke /i Technology Protocol: Continuous focal length \(mm\), calibrated T-stop \(e.g., T/1.8\), entrance) Tj ET
+endstream
+endobj
+23 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R >> >> /Contents 22 0 R >>
+endobj
+24 0 obj
+<< /Length 7148 >>
+stream
+0.2 0.25 0.35 RG 0.75 w
+48 752 m 564 752 l S
+BT /F2 8 Tf 0.3 0.35 0.45 rg 48 757 Td (CINE-SYNAPSE: Technical Architecture Document \(TAD\)) Tj ET
+BT /F1 8 Tf 0.4 0.45 0.55 rg 380 757 Td (ClickHouse Track | Google Cloud Hackathon 202) Tj ET
+0.75 0.75 0.8 RG 0.5 w
+48 42 m 564 42 l S
+BT /F1 8 Tf 0.4 0.4 0.45 rg 524 30 Td (Page 10) Tj ET
+BT /F1 8 Tf 0.4 0.4 0.45 rg 48 30 Td (CINE-SYNAPSE OS ? Architecture Baseline v2.0 Enterprise) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 725 Td (pupil position, depth-of-field near/far planes, distortion grid coefficients.) Tj ET
+0.2 0.4 0.8 rg 52 713 3 3 re f
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 711 Td (ARRI Lens Data System \(LDS-2\): Optical center coordinates, chromatic aberration profiles, sensor) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 699 Td (photosite temperature.) Tj ET
+0.2 0.4 0.8 rg 52 687 3 3 re f
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 685 Td (ACES 1.3 Color Pipeline: Ingests camera raw sensor transforms, converts to ACEScg \(AP1 primaries\), and) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 673 Td (preserves input device transforms \(IDT\) for unclipped HDR grading.) Tj ET
+0.92 0.94 0.98 rg 48 644 516 24 re f
+0.15 0.28 0.55 RG 1.5 w 48 644 m 48 668 l S
+BT /F2 12.5 Tf 0.1 0.18 0.35 rg 58 651 Td (6. Professional Side-Tools & AI Studio Copilot Architecture) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 48 629 Td (CINE-SYNAPSE equips directors, VFX supervisors, digital imaging technicians \(DITs\), and 1st ADs with) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 48 617 Td (dedicated operational side-tools integrated directly into the workspace.) Tj ET
+BT /F2 10.5 Tf 0.18 0.3 0.5 rg 48 593 Td (6.1 Timecoded Voice Scratchpad Architecture) Tj ET
+0.75 0.8 0.9 RG 0.5 w 48 590 m 564 590 l S
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 48 578 Td (The Voice Scratchpad allows crew members on set or in editorial review sessions to capture high-fidelity) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 48 566 Td (voice notes that are automatically timecode-locked to the exact SMPTE frame under the playhead:) Tj ET
+0.2 0.4 0.8 rg 52 552 3 3 re f
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 550 Td (1. Audio Capture: Browser AudioWorklet records 16kHz uncompressed PCM audio chunks via WebSocket.) Tj ET
+0.2 0.4 0.8 rg 52 538 3 3 re f
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 536 Td (2. Multimodal Gemini Ingestion: Audio is streamed directly to Google Cloud Gemini 1.5 Pro via) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 524 Td (google-genai streaming API.) Tj ET
+0.2 0.4 0.8 rg 52 512 3 3 re f
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 510 Td (3. SMPTE Frame-Locking: The current playhead timecode \(e.g., 01:24:12:04\) is passed in the WebSocket) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 498 Td (packet header, locking the resulting note to that exact frame.) Tj ET
+0.2 0.4 0.8 rg 52 486 3 3 re f
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 484 Td (4. Autonomous Entity & Task Extraction: Gemini parses the audio transcript to extract mentions of) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 472 Td (actors, props, VFX fixes, or sound issues, and automatically generates pre-populated tickets in) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 460 Td (Autodesk Flow \(ShotGrid\).) Tj ET
+0.96 0.97 0.98 rg 48 310 516 140 re f
+0.85 0.88 0.92 RG 0.5 w 48 310 516 140 re S
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 442 Td (????????????????????       WebSocket 16kHz PCM       ???????????????????????) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 432.5 Td (? Director's Mic   ? ??????????????????????????????? ?  FastAPI Audio Hub  ?) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 423.0 Td (? \(AudioWorklet\)   ? ???? Timecode Ack: 01:24:12:04  ?                     ?) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 413.5 Td (????????????????????                                 ???????????????????????) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 404.0 Td (                                                                ?) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 394.5 Td (                                              Streaming Audio   ?) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 385.0 Td (                                                                ?) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 375.5 Td (                                                     ???????????????????????) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 366.0 Td (                                                     ? Google Vertex AI    ?) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 356.5 Td (                                                     ? Gemini 1.5 Pro      ?) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 347.0 Td (                                                     ???????????????????????) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 337.5 Td (                                                                ?) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 328.0 Td (                                           JSON Structured Task ?) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 318.5 Td (                                                                ?) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 309.0 Td (                                                     ???????????????????????) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 299.5 Td (                                                     ? Autodesk Flow       ?) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 290.0 Td (                                                     ? ShotGrid Ticket     ?) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 280.5 Td (                                                     ???????????????????????) Tj ET
+BT /F2 10.5 Tf 0.18 0.3 0.5 rg 48 257.0 Td (6.2 Look Library & Dual-Buffer A/B Still Comparator) Tj ET
+0.75 0.8 0.9 RG 0.5 w 48 254.0 m 564 254.0 l S
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 48 242.0 Td (The Look Library provides real-time client-side comparison between reference hero stills \(approved by the) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 48 230.0 Td (director/DP\) and incoming live camera proxies or VFX composite iterations:) Tj ET
+0.2 0.4 0.8 rg 52 216.0 3 3 re f
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 214.0 Td (WebGL 2.0 Split Shader: Evaluates two 4K 16-bit float texture buffers \(Buffer_A and Buffer_B\) in real) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 202.0 Td (time on the GPU.) Tj ET
+0.2 0.4 0.8 rg 52 190.0 3 3 re f
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 188.0 Td (Display Modes:) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 48 174.0 Td (1. *Horizontal / Vertical Split:* Adjustable interactive divider bar with magnification loupe.) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 48 158.0 Td (2. *Difference Mode:* Pixel-by-pixel color subtraction \($|R_A - R_B|$\) to reveal composite edge fringing.) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 48 142.0 Td (3. *False Color IRE Mode:* Maps luminance levels to standard cinematographic exposure bands \(Purple =) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 48 130.0 Td (Underexposed, Grey = 18% Neutral Grey, Red = Clipping\).) Tj ET
+0.2 0.4 0.8 rg 52 116.0 3 3 re f
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 114.0 Td (ASC CDL Engine: Client-side WebGL evaluation of American Society of Cinematographers Color Decision) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 102.0 Td (Lists:) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 48 88.0 Td ($$Output = \(Input imes Slope + Offset\)^{Power} imes Saturation$$) Tj ET
+endstream
+endobj
+25 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R >> >> /Contents 24 0 R >>
+endobj
+26 0 obj
+<< /Length 7001 >>
+stream
+0.2 0.25 0.35 RG 0.75 w
+48 752 m 564 752 l S
+BT /F2 8 Tf 0.3 0.35 0.45 rg 48 757 Td (CINE-SYNAPSE: Technical Architecture Document \(TAD\)) Tj ET
+BT /F1 8 Tf 0.4 0.45 0.55 rg 380 757 Td (ClickHouse Track | Google Cloud Hackathon 202) Tj ET
+0.75 0.75 0.8 RG 0.5 w
+48 42 m 564 42 l S
+BT /F1 8 Tf 0.4 0.4 0.45 rg 524 30 Td (Page 11) Tj ET
+BT /F1 8 Tf 0.4 0.4 0.45 rg 48 30 Td (CINE-SYNAPSE OS ? Architecture Baseline v2.0 Enterprise) Tj ET
+BT /F2 10.5 Tf 0.18 0.3 0.5 rg 48 717 Td (6.3 AI Studio Copilot & Multi-Agent Tool Orchestrator) Tj ET
+0.75 0.8 0.9 RG 0.5 w 48 714 m 564 714 l S
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 48 702 Td (The Studio Copilot provides an interactive conversational assistant with full tool-calling access to) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 48 690 Td (ClickHouse and production pipeline APIs:) Tj ET
+0.96 0.97 0.98 rg 48 538 516 140 re f
+0.85 0.88 0.92 RG 0.5 w 48 538 516 140 re S
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 670 Td (import os) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 660.5 Td (from google import genai) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 651.0 Td (from google.genai import types) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 641.5 Td () Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 632.0 Td (class CineSynapseCopilot:) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 622.5 Td (    def __init__\(self, clickhouse_client, shotgrid_client\):) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 613.0 Td (        self.client = genai.Client\(api_key=os.getenv\("GEMINI_API_KEY"\)\)) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 603.5 Td (        self.ch = clickhouse_client) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 594.0 Td (        self.sg = shotgrid_client) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 584.5 Td (        self.model_id = "gemini-1.5-pro") Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 575.0 Td () Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 565.5 Td (    def get_system_instruction\(self, tenant_id: str, user_role: str\) -> str:) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 556.0 Td (        return f""") Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 546.5 Td (        You are CINE-SYNAPSE Studio Copilot, the AI production assistant for {tenant_id}.) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 537.0 Td (        Current User Role: {user_role}.) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 527.5 Td (        You have direct read/write access to the ClickHouse production graph via tools.) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 518.0 Td (        When asked about actor likeness, ALWAYS query `likeness_ledger` to check contract caps.) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 508.5 Td (        When asked about timecode drift or meal penalties, query `micro_sentry_log`.) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 499.0 Td (        Provide precise, timecode-accurate answers. Never speculate on legal caps.) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 489.5 Td (        """) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 480.0 Td () Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 470.5 Td (    def get_tool_declarations\(self\):) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 461.0 Td (        return [) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 451.5 Td (            types.FunctionDeclaration\() Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 442.0 Td (                name="query_production_database",) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 432.5 Td (                description="Executes ClickHouse SQL to query production graph, sentries, or likeness",) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 423.0 Td (                parameters=types.Schema\() Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 413.5 Td (                    type=types.Type.OBJECT,) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 404.0 Td (                    properties={) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 394.5 Td (                        "sql_query": types.Schema\(type=types.Type.STRING, description="ClickHouse SQL"\)) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 385.0 Td (                    },) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 375.5 Td (                    required=["sql_query"]) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 366.0 Td (                \)) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 356.5 Td (            \),) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 347.0 Td (            types.FunctionDeclaration\() Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 337.5 Td (                name="create_shotgrid_rework_ticket",) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 328.0 Td (                description="Creates an automated task in Autodesk Flow \(ShotGrid\)",) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 318.5 Td (                parameters=types.Schema\() Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 309.0 Td (                    type=types.Type.OBJECT,) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 299.5 Td (                    properties={) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 290.0 Td (                        "scene_id": types.Schema\(type=types.Type.STRING\),) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 280.5 Td (                        "task_type": types.Schema\(type=types.Type.STRING\),) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 271.0 Td (                        "priority": types.Schema\(type=types.Type.STRING, enum=["LOW", "MEDIUM", "HIGH", "CRITICAL"]) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 261.5 Td (                        "note": types.Schema\(type=types.Type.STRING\)) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 252.0 Td (                    },) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 242.5 Td (                    required=["scene_id", "task_type", "priority", "note"]) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 233.0 Td (                \)) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 223.5 Td (            \)) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 214.0 Td (        ]) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 204.5 Td () Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 195.0 Td (    async def chat\(self, tenant_id: str, user_role: str, user_prompt: str, history: list\) -> str:) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 185.5 Td (        tools = [types.Tool\(function_declarations=self.get_tool_declarations\(\)\)]) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 176.0 Td (        config = types.GenerateContentConfig\() Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 166.5 Td (            system_instruction=self.get_system_instruction\(tenant_id, user_role\),) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 157.0 Td (            tools=tools,) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 147.5 Td (            temperature=0.1) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 138.0 Td (        \)) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 128.5 Td () Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 119.0 Td (        response = self.client.models.generate_content\() Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 109.5 Td (            model=self.model_id,) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 100.0 Td (            contents=user_prompt,) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 90.5 Td (            config=config) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 81.0 Td (        \)) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 71.5 Td () Tj ET
+endstream
+endobj
+27 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R >> >> /Contents 26 0 R >>
+endobj
+28 0 obj
+<< /Length 5762 >>
+stream
+0.2 0.25 0.35 RG 0.75 w
+48 752 m 564 752 l S
+BT /F2 8 Tf 0.3 0.35 0.45 rg 48 757 Td (CINE-SYNAPSE: Technical Architecture Document \(TAD\)) Tj ET
+BT /F1 8 Tf 0.4 0.45 0.55 rg 380 757 Td (ClickHouse Track | Google Cloud Hackathon 202) Tj ET
+0.75 0.75 0.8 RG 0.5 w
+48 42 m 564 42 l S
+BT /F1 8 Tf 0.4 0.4 0.45 rg 524 30 Td (Page 12) Tj ET
+BT /F1 8 Tf 0.4 0.4 0.45 rg 48 30 Td (CINE-SYNAPSE OS ? Architecture Baseline v2.0 Enterprise) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 725 Td (        if response.function_calls:) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 715.5 Td (            for call in response.function_calls:) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 706.0 Td (                if call.name == "query_production_database":) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 696.5 Td (                    sql = call.args["sql_query"]) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 687.0 Td (                    query_result = await self.ch.execute\(sql\)) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 677.5 Td (                    # Feed execution result back to Gemini for natural language synthesis) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 668.0 Td (                    followup = self.client.models.generate_content\() Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 658.5 Td (                        model=self.model_id,) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 649.0 Td (                        contents=[) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 639.5 Td (                            types.Part.from_text\(user_prompt\),) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 630.0 Td (                            types.Part.from_function_response\() Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 620.5 Td (                                name="query_production_database",) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 611.0 Td (                                response={"result": query_result}) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 601.5 Td (                            \)) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 592.0 Td (                        ],) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 582.5 Td (                        config=config) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 573.0 Td (                    \)) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 563.5 Td (                    return followup.text) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 554.0 Td () Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 544.5 Td (        return response.text) Tj ET
+0.92 0.94 0.98 rg 48 514.0 516 24 re f
+0.15 0.28 0.55 RG 1.5 w 48 514.0 m 48 538.0 l S
+BT /F2 12.5 Tf 0.1 0.18 0.35 rg 58 521.0 Td (7. The 7 Micro-Sentries: Complete Mathematical & Algorithmic Implementation) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 48 499.0 Td (Modern film productions bleed millions of dollars from subtle micro-bottlenecks. CINE-SYNAPSE implements) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 48 487.0 Td (7 automated, mathematical micro-sentries that continuously monitor ingest feeds.) Tj ET
+BT /F2 10.5 Tf 0.18 0.3 0.5 rg 48 463.0 Td (7.1 Micro-Sentry 1: Fractional Timecode Drift \(23.976 vs 24.000 fps\)) Tj ET
+0.75 0.8 0.9 RG 0.5 w 48 460.0 m 564 460.0 l S
+0.2 0.4 0.8 rg 52 450.0 3 3 re f
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 448.0 Td (Mathematical Basis: When sound recorders run at 24.000 fps and cameras run at 23.976 fps, drift) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 436.0 Td (accumulates at:) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 48 422.0 Td ($$\\Delta t = \\left\( rac{24.000 - 23.976}{24.000}) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 48 406.0 Td (ight\) imes T_{runtime} = 0.001 imes T_{runtime}$$) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 48 390.0 Td (Over a 2-hour shoot \(7,200 seconds\), audio desynchronizes by 7.2 seconds \(172.8 frames\).) Tj ET
+0.2 0.4 0.8 rg 52 376.0 3 3 re f
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 374.0 Td (Algorithmic Implementation:) Tj ET
+0.96 0.97 0.98 rg 48 224.0 516 140 re f
+0.85 0.88 0.92 RG 0.5 w 48 224.0 516 140 re S
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 356.0 Td (def verify_timecode_sync\(camera_fps: float, audio_fps: float, duration_sec: float\) -> dict:) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 346.5 Td (    discrepancy = abs\(camera_fps - audio_fps\)) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 337.0 Td (    if 0.020 <= discrepancy <= 0.030:) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 327.5 Td (        drift_seconds = \(discrepancy / max\(camera_fps, audio_fps\)\) * duration_sec) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 318.0 Td (        drift_frames = drift_seconds * 24.0) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 308.5 Td (        return {) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 299.0 Td (            "sentry": "TIMECODE_DRIFT",) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 289.5 Td (            "status": "CRITICAL_DRIFT_DETECTED",) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 280.0 Td (            "drift_seconds": round\(drift_seconds, 3\),) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 270.5 Td (            "drift_frames": round\(drift_frames, 1\),) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 261.0 Td (            "remediation": "APPLY_0.1_PERCENT_AUDIO_PULL_UP",) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 251.5 Td (            "estimated_fix_time_saved_hrs": round\(drift_seconds * 0.5, 1\)) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 242.0 Td (        }) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 232.5 Td (    return {"sentry": "TIMECODE_DRIFT", "status": "LOCKED"}) Tj ET
+BT /F2 10.5 Tf 0.18 0.3 0.5 rg 48 209.0 Td (7.2 Micro-Sentry 2: C2PA Cryptographic Provenance Stripping) Tj ET
+0.75 0.8 0.9 RG 0.5 w 48 206.0 m 564 206.0 l S
+0.2 0.4 0.8 rg 52 196.0 3 3 re f
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 194.0 Td (Verification Logic: Verifies the cryptographic integrity of the JUMBF \(JPEG Universal Metadata Box) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 182.0 Td (Format\) container against the studio root X.509 certificate.) Tj ET
+endstream
+endobj
+29 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R >> >> /Contents 28 0 R >>
+endobj
+30 0 obj
+<< /Length 6507 >>
+stream
+0.2 0.25 0.35 RG 0.75 w
+48 752 m 564 752 l S
+BT /F2 8 Tf 0.3 0.35 0.45 rg 48 757 Td (CINE-SYNAPSE: Technical Architecture Document \(TAD\)) Tj ET
+BT /F1 8 Tf 0.4 0.45 0.55 rg 380 757 Td (ClickHouse Track | Google Cloud Hackathon 202) Tj ET
+0.75 0.75 0.8 RG 0.5 w
+48 42 m 564 42 l S
+BT /F1 8 Tf 0.4 0.4 0.45 rg 524 30 Td (Page 13) Tj ET
+BT /F1 8 Tf 0.4 0.4 0.45 rg 48 30 Td (CINE-SYNAPSE OS ? Architecture Baseline v2.0 Enterprise) Tj ET
+0.96 0.97 0.98 rg 48 597 516 132 re f
+0.85 0.88 0.92 RG 0.5 w 48 597 516 132 re S
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 721 Td (import hashlib) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 711.5 Td () Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 702.0 Td (def verify_c2pa_manifest\(video_bytes: bytes, declared_hash: str, parent_raw_hash: str\) -> dict:) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 692.5 Td (    computed_sha256 = hashlib.sha256\(video_bytes\).hexdigest\(\)) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 683.0 Td (    if computed_sha256 != declared_hash:) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 673.5 Td (        return {) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 664.0 Td (            "sentry": "C2PA_STRIPPED",) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 654.5 Td (            "status": "MANIFEST_TAMPERED_OR_STRIPPED",) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 645.0 Td (            "action": "HALT_EDITORIAL_EXPORT",) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 635.5 Td (            "remediation": f"RECONSTRUCT_C2PA_LEAF_FROM_PARENT\({parent_raw_hash}\)") Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 626.0 Td (        }) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 616.5 Td (    return {"sentry": "C2PA_STRIPPED", "status": "VERIFIED"}) Tj ET
+BT /F2 10.5 Tf 0.18 0.3 0.5 rg 48 593.0 Td (7.3 Micro-Sentry 3: Ambient IP & Unlicensed Brand Detector) Tj ET
+0.75 0.8 0.9 RG 0.5 w 48 590.0 m 564 590.0 l S
+0.2 0.4 0.8 rg 52 580.0 3 3 re f
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 578.0 Td (Detection Pipeline: Combines YOLOv8 real-time object bounding with Gemini 1.5 Pro multimodal trademark) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 566.0 Td (recognition to detect accidental background logos \(e.g., Starbucks cup, Nike swoosh\) before legal) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 554.0 Td (exposure occurs.) Tj ET
+BT /F2 10.5 Tf 0.18 0.3 0.5 rg 48 532.0 Td (7.4 Micro-Sentry 4: DGA / IATSE 15-Minute Meal Penalty Compounding) Tj ET
+0.75 0.8 0.9 RG 0.5 w 48 529.0 m 564 529.0 l S
+0.2 0.4 0.8 rg 52 519.0 3 3 re f
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 517.0 Td (Rule Engine: IATSE Local 600 / DGA Basic Agreement mandates a hot meal every 6.0 hours. Each) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 505.0 Td (subsequent 15-minute delay incurs progressive penalty fines per crew member:) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 48 491.0 Td (* 1st 15-minute interval: $25.00 / crew member) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 48 475.0 Td (* 2nd 15-minute interval: $35.00 / crew member) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 48 459.0 Td (* 3rd and subsequent intervals: $50.00 / crew member) Tj ET
+0.96 0.97 0.98 rg 48 307.0 516 140 re f
+0.85 0.88 0.92 RG 0.5 w 48 307.0 516 140 re S
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 439.0 Td (def calculate_meal_penalties\(hours_since_last_meal: float, active_crew_size: int = 140\) -> dict:) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 429.5 Td (    if hours_since_last_meal <= 6.0:) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 420.0 Td (        minutes_remaining = int\(\(6.0 - hours_since_last_meal\) * 60\)) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 410.5 Td (        return {"status": "COMPLIANT", "minutes_to_grace_expiry": minutes_remaining, "exposure_usd": 0.0}) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 401.0 Td () Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 391.5 Td (    elapsed_beyond_grace = hours_since_last_meal - 6.0) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 382.0 Td (    intervals_breached = int\(elapsed_beyond_grace / 0.25\) + 1) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 372.5 Td () Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 363.0 Td (    cost_per_head = 0.0) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 353.5 Td (    for i in range\(1, intervals_breached + 1\):) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 344.0 Td (        if i == 1: cost_per_head += 25.0) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 334.5 Td (        elif i == 2: cost_per_head += 35.0) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 325.0 Td (        else: cost_per_head += 50.0) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 315.5 Td () Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 306.0 Td (    total_exposure = cost_per_head * active_crew_size) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 296.5 Td (    next_interval_countdown = int\(\(0.25 - \(elapsed_beyond_grace % 0.25\)\) * 60\)) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 287.0 Td () Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 277.5 Td (    return {) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 268.0 Td (        "status": "BREACHED",) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 258.5 Td (        "intervals_breached": intervals_breached,) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 249.0 Td (        "active_penalty_usd": total_exposure,) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 239.5 Td (        "countdown_to_next_penalty_min": next_interval_countdown,) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 230.0 Td (        "urgency": "CRITICAL" if intervals_breached >= 2 else "WARNING") Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 220.5 Td (    }) Tj ET
+BT /F2 10.5 Tf 0.18 0.3 0.5 rg 48 197.0 Td (7.5 Micro-Sentry 5: ACES High-Dynamic-Range Gamut Clipping) Tj ET
+0.75 0.8 0.9 RG 0.5 w 48 194.0 m 564 194.0 l S
+0.2 0.4 0.8 rg 52 184.0 3 3 re f
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 182.0 Td (Gamut Monitoring: Converts incoming scene-linear frames to ACEScg color space and calculates the) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 170.0 Td (percentage of pixels exceeding the Rec.2020 spectral locus or clipping specular highlights \($> 10,000) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 158.0 Td (ext{ nits}$\).) Tj ET
+BT /F2 10.5 Tf 0.18 0.3 0.5 rg 48 136.0 Td (7.6 Micro-Sentry 6: Dual-System Sound Slate Clapperboard Audio/Visual Desync) Tj ET
+0.75 0.8 0.9 RG 0.5 w 48 133.0 m 564 133.0 l S
+0.2 0.4 0.8 rg 52 123.0 3 3 re f
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 121.0 Td (Sync Calculation: Cross-correlates the visual contact frame of the clapperboard stick \(detected via) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 109.0 Td (optical flow\) with the audio transient spike \($> 24 ext{dB}$ rise within $1.5 ext{ms}$\). Desync $>) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 97.0 Td (0.5$ frames triggers automated slip-sync.) Tj ET
+endstream
+endobj
+31 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R >> >> /Contents 30 0 R >>
+endobj
+32 0 obj
+<< /Length 6692 >>
+stream
+0.2 0.25 0.35 RG 0.75 w
+48 752 m 564 752 l S
+BT /F2 8 Tf 0.3 0.35 0.45 rg 48 757 Td (CINE-SYNAPSE: Technical Architecture Document \(TAD\)) Tj ET
+BT /F1 8 Tf 0.4 0.45 0.55 rg 380 757 Td (ClickHouse Track | Google Cloud Hackathon 202) Tj ET
+0.75 0.75 0.8 RG 0.5 w
+48 42 m 564 42 l S
+BT /F1 8 Tf 0.4 0.4 0.45 rg 524 30 Td (Page 14) Tj ET
+BT /F1 8 Tf 0.4 0.4 0.45 rg 48 30 Td (CINE-SYNAPSE OS ? Architecture Baseline v2.0 Enterprise) Tj ET
+BT /F2 10.5 Tf 0.18 0.3 0.5 rg 48 717 Td (7.7 Micro-Sentry 7: Prop & Liquid Continuity Tracker) Tj ET
+0.75 0.8 0.9 RG 0.5 w 48 714 m 564 714 l S
+0.2 0.4 0.8 rg 52 704 3 3 re f
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 702 Td (Continuity Analysis: Utilizes Gemini 1.5 Pro to compare the terminal frame of Take $N-1$ with the head) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 690 Td (frame of Take $N$, measuring liquid meniscus levels and physical prop orientation to prevent) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 678 Td (continuity errors on set.) Tj ET
+0.92 0.94 0.98 rg 48 649 516 24 re f
+0.15 0.28 0.55 RG 1.5 w 48 649 m 48 673 l S
+BT /F2 12.5 Tf 0.1 0.18 0.35 rg 58 656 Td (8. Complete UI/UX Specification for All 7 Screens) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 48 634 Td (The CINE-SYNAPSE interface adheres to the Midnight Indigo & Cyber-Amethyst Dark Theme, engineered for) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 48 622 Td (high-contrast viewing on calibrated studio reference monitors \(Sony BVM-HX310 / Apple Pro Display XDR\).) Tj ET
+BT /F2 10.5 Tf 0.18 0.3 0.5 rg 48 598 Td (8.1 Design System & Color Tokens) Tj ET
+0.75 0.8 0.9 RG 0.5 w 48 595 m 564 595 l S
+0.96 0.97 0.98 rg 48 447 516 140 re f
+0.85 0.88 0.92 RG 0.5 w 48 447 516 140 re S
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 579 Td (????????????????????????????????????????????????????????????????????????????????????????????) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 569.5 Td (?                            DESIGN SYSTEM COLOR PALETTE                                   ?) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 560.0 Td (????????????????????????????????????????????????????????????????????????????????????????????) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 550.5 Td (? Token Name         ? Hex Value ? Semantic Usage                                          ?) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 541.0 Td (????????????????????????????????????????????????????????????????????????????????????????????) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 531.5 Td (? Canvas Base        ? `#0B0D1B` ? Root viewport background, zero glare on reference OLEDs ?) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 522.0 Td (? Surface Elevated   ? `#121528` ? Sidebars, panels, card backgrounds, modal containers    ?) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 512.5 Td (? Card Stroke / Rim  ? `#262A4A` ? 1px border dividers, active selection bounding boxes   ?) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 503.0 Td (? Cyber Amethyst     ? `#8B5CF6` ? Primary actions, active navigation states, graph nodes  ?) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 493.5 Td (? Electric Cyan      ? `#06B6D4` ? Telemetry metrics, SMPTE timecodes, live video markers  ?) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 484.0 Td (? Neon Emerald       ? `#10B981` ? Verified states, C2PA certification, authorized caps    ?) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 474.5 Td (? Hazard Amber       ? `#F59E0B` ? Warnings, meal penalty countdowns, out-of-gamut alerts  ?) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 465.0 Td (? Crimson Alert      ? `#EF4444` ? Critical breaches, unauthorized synthetic double kills  ?) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 455.5 Td (????????????????????????????????????????????????????????????????????????????????????????????) Tj ET
+BT /F2 10.5 Tf 0.18 0.3 0.5 rg 48 432.0 Td (8.2 Comprehensive Screen Inventory) Tj ET
+0.75 0.8 0.9 RG 0.5 w 48 429.0 m 564 429.0 l S
+BT /F2 9.5 Tf 0.15 0.2 0.3 rg 48 411.0 Td (Screen 1: Executive Overview & Autonomous Production Graph) Tj ET
+0.2 0.4 0.8 rg 52 400.0 3 3 re f
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 398.0 Td (Route: /dashboard/production-graph) Tj ET
+0.2 0.4 0.8 rg 52 386.0 3 3 re f
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 384.0 Td (Target Users: Head of Production, Executive Producer, Supervising Post Producer.) Tj ET
+0.2 0.4 0.8 rg 52 372.0 3 3 re f
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 370.0 Td (Layout Hierarchy:) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 48 356.0 Td (* *Top Navigation Bar:* Studio switcher \(Paramount Pictures / A24 / Warner Bros\), project selector) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 48 344.0 Td (\(CHRONO-2026\), global search \(Cmd+K\), live system health heartbeat \(ClickHouse 12ms, Gemini 1.5 Pro) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 48 332.0 Td (Ready\).) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 48 316.0 Td (* *Header KPI Row:* 4 metric sparkline cards \(Total Frames Ingested: 1,248,912, Likeness Budget Consumed:) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 48 304.0 Td (76.4%, Active Sentry Warnings: 3, Est. Rework Cost Saved: $142,500\).) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 48 288.0 Td (* *Central Viewport \(Node Graph\):* Interactive WebGL force-directed production graph connecting Script) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 48 276.0 Td (Scenes $) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 48 260.0 Td (ightarrow$ Camera Takes $) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 48 244.0 Td (ightarrow$ Synthetic Double Passes $) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 48 228.0 Td (ightarrow$ VFX Renders $) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 48 212.0 Td (ightarrow$ Territory Masters. Nodes glow purple/cyan when healthy, pulsing amber/red when breached.) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 48 196.0 Td (* *Right-Hand Drawer:* Autonomous Ripple Resolution Inspector. Displays real-time multi-agent consensus) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 48 184.0 Td (log and one-click "Approve Resolution" button.) Tj ET
+BT /F2 9.5 Tf 0.15 0.2 0.3 rg 48 162.0 Td (Screen 2: On-Set Camera Sentry & Live C2C Ingest) Tj ET
+0.2 0.4 0.8 rg 52 151.0 3 3 re f
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 149.0 Td (Route: /onset/camera-sentry) Tj ET
+0.2 0.4 0.8 rg 52 137.0 3 3 re f
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 135.0 Td (Target Users: 1st Assistant Director, Script Supervisor, Digital Imaging Technician \(DIT\).) Tj ET
+0.2 0.4 0.8 rg 52 123.0 3 3 re f
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 121.0 Td (Layout Hierarchy:) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 48 107.0 Td (* *Left Viewport:* Live ARRI Alexa 35 Camera-to-Cloud video feed \(Take 04, Scene 42B\), overlaid with) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 48 95.0 Td (SMPTE timecode HUD \(01:24:12:04\), false-color exposure toggle, and active audio waveform.) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 48 79.0 Td (* *Center Inspector:* Real-time micro-sentry status cards.) Tj ET
+endstream
+endobj
+33 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R >> >> /Contents 32 0 R >>
+endobj
+34 0 obj
+<< /Length 5918 >>
+stream
+0.2 0.25 0.35 RG 0.75 w
+48 752 m 564 752 l S
+BT /F2 8 Tf 0.3 0.35 0.45 rg 48 757 Td (CINE-SYNAPSE: Technical Architecture Document \(TAD\)) Tj ET
+BT /F1 8 Tf 0.4 0.45 0.55 rg 380 757 Td (ClickHouse Track | Google Cloud Hackathon 202) Tj ET
+0.75 0.75 0.8 RG 0.5 w
+48 42 m 564 42 l S
+BT /F1 8 Tf 0.4 0.4 0.45 rg 524 30 Td (Page 15) Tj ET
+BT /F1 8 Tf 0.4 0.4 0.45 rg 48 30 Td (CINE-SYNAPSE OS ? Architecture Baseline v2.0 Enterprise) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 48 725 Td (* Card 1: Fractional Timecode Drift Monitor \(Camera: 23.976 fps vs Master Audio: 24.000 fps $) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 48 709 Td (ightarrow$ Alert: +7.2s Drift Detected over 2h $) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 48 693 Td (ightarrow$ Auto Pull-Up Activated\).) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 48 677 Td (* Card 2: DGA/IATSE Meal Penalty Countdown \(11m 42s Remaining until 2nd Penalty Tier $) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 48 661 Td (ightarrow$ Exposure: $3,500.00\).) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 48 645 Td (* Card 3: Continuity Liquid Sentry \(Take 3 vs Take 4 whiskey glass meniscus comparison: 42% vs 68% Fill) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 48 633 Td (Level - DISCREPANCY DETECTED\).) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 48 617 Td (* *Bottom Rail:* Audio/Visual slate sync waveform showing clapperboard stick contact transient.) Tj ET
+BT /F2 9.5 Tf 0.15 0.2 0.3 rg 48 595 Td (Screen 3: SAG-AFTRA Likeness Ledger & NO FAKES Act Governance) Tj ET
+0.2 0.4 0.8 rg 52 584 3 3 re f
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 582 Td (Route: /legal/likeness-ledger) Tj ET
+0.2 0.4 0.8 rg 52 570 3 3 re f
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 568 Td (Target Users: Studio Legal Counsel, Business Affairs, Talent Representatives.) Tj ET
+0.2 0.4 0.8 rg 52 556 3 3 re f
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 554 Td (Layout Hierarchy:) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 48 540 Td (* *Top Banner:* Federal NO FAKES Act of 2026 Statutory Compliance Badge \(Status: AUDIT-READY / C2PA) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 48 528 Td (SIGNED\).) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 48 512 Td (* *Data Grid:* ClickHouse-backed performer ledger.) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 48 496 Td (* Columns: Actor Avatar & Name \(e.g., *Marcus Vance*\), Contract ID \(SAG-SCH-A-8942\), Performer Type) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 48 484 Td (\(Digital Twin / De-Aging\), Authorized Seconds \(60.0s\), Consumed Seconds \(52.2s with animated progress) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 48 472 Td (bar\), Accrued Residuals \($28,310.00\), Consent Expiry Date \(2027-12-31\), C2PA Cryptographic Signature) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 48 460 Td (Hash.) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 48 444 Td (* *Action Drawer:* "Review Synthetic Double Pass" modal with side-by-side view of actor's photogrammetry) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 48 432 Td (scan vs. neural render. One-click "Authorize Emergency Seconds Extension" triggering smart contract) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 48 420 Td (update.) Tj ET
+BT /F2 9.5 Tf 0.15 0.2 0.3 rg 48 398 Td (Screen 4: Global Distribution Compliance & Spherex Inpaint Hub) Tj ET
+0.2 0.4 0.8 rg 52 387 3 3 re f
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 385 Td (Route: /distribution/compliance-inpaint) Tj ET
+0.2 0.4 0.8 rg 52 373 3 3 re f
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 371 Td (Target Users: Global Distribution VP, Localization Manager, Inpaint VFX Artist.) Tj ET
+0.2 0.4 0.8 rg 52 359 3 3 re f
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 357 Td (Layout Hierarchy:) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 48 343 Td (* *Interactive World Map:* Choropleth map of 190 territories color-coded by distribution readiness) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 48 331 Td (\(Emerald: 142 Cleared, Amber: 36 Pending Inpaint, Red: 12 Banned / Strict Censorship\).) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 48 315 Td (* *Center Video Player:* Scene 42B video player with highlighted bounding box around problematic) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 48 303 Td (background billboard \(Middle Eastern territory alcohol billboard ban\).) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 48 287 Td (* *Right Configuration Panel:* Automated Inpaint Prescription. Recommends generative inpaint replacement) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 48 275 Td (\(e.g., replace alcohol bottle with non-alcoholic mineral water\). Direct "Dispatch to Autodesk Flow) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 48 263 Td (\(ShotGrid\)" button with priority CRITICAL.) Tj ET
+BT /F2 9.5 Tf 0.15 0.2 0.3 rg 48 241 Td (Screen 5: Multi-Tenant Enterprise Login & SSO Portal) Tj ET
+0.2 0.4 0.8 rg 52 230 3 3 re f
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 228 Td (Route: /login) Tj ET
+0.2 0.4 0.8 rg 52 216 3 3 re f
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 214 Td (Target Users: All studio personnel across corporate and production environments.) Tj ET
+0.2 0.4 0.8 rg 52 202 3 3 re f
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 200 Td (Layout Hierarchy:) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 48 186 Td (* *Canvas:* Deep midnight gradient with subtle animated production graph constellations in the) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 48 174 Td (background.) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 48 158 Td (* *Login Card:* Glassmorphic slate-indigo container featuring the CINE-SYNAPSE wordmark and glowing) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 48 146 Td (amethyst icon.) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 48 130 Td (* *Studio Switcher Dropdown:* Select tenant studio \(Paramount Pictures, A24, Warner Bros. Discovery,) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 48 118 Td (Universal Studios, Custom Tenant\).) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 48 102 Td (* *SSO Options:* "Sign in with Okta Studio Identity", "Continue with Google Workspace \(BeyondCorp\)", or) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 48 90 Td (SAML 2.0 corporate email input.) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 48 74 Td (* *Compliance Badges:* MPAA Content Security, SOC 2 Type II, ISO 27001, and C2PA Content Credentials) Tj ET
+endstream
+endobj
+35 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R >> >> /Contents 34 0 R >>
+endobj
+36 0 obj
+<< /Length 6473 >>
+stream
+0.2 0.25 0.35 RG 0.75 w
+48 752 m 564 752 l S
+BT /F2 8 Tf 0.3 0.35 0.45 rg 48 757 Td (CINE-SYNAPSE: Technical Architecture Document \(TAD\)) Tj ET
+BT /F1 8 Tf 0.4 0.45 0.55 rg 380 757 Td (ClickHouse Track | Google Cloud Hackathon 202) Tj ET
+0.75 0.75 0.8 RG 0.5 w
+48 42 m 564 42 l S
+BT /F1 8 Tf 0.4 0.4 0.45 rg 524 30 Td (Page 16) Tj ET
+BT /F1 8 Tf 0.4 0.4 0.45 rg 48 30 Td (CINE-SYNAPSE OS ? Architecture Baseline v2.0 Enterprise) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 48 725 Td (certified badges at footer.) Tj ET
+BT /F2 9.5 Tf 0.15 0.2 0.3 rg 48 703 Td (Screen 6: Media Ingestion & Multi-Track Timeline Scrubber Hub) Tj ET
+0.2 0.4 0.8 rg 52 692 3 3 re f
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 690 Td (Route: /editorial/timeline-ingest) Tj ET
+0.2 0.4 0.8 rg 52 678 3 3 re f
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 676 Td (Target Users: Post Production Supervisor, Lead Editor, VFX Editorial Assistant.) Tj ET
+0.2 0.4 0.8 rg 52 664 3 3 re f
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 662 Td (Layout Hierarchy:) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 48 648 Td (* *Top Zone:* Drag-and-drop ingestion dropzone accepting .otio \(OpenTimelineIO\), .edl \(CMX 3600\), .xml) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 48 636 Td (\(Final Cut\), and .pdf \(Script Breakdown\).) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 48 620 Td (* *Central Scrubber:* Multi-track non-linear timeline interface:) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 48 604 Td (* Video Tracks: V1: Master Camera RAW, V2: VFX Plate Inpaint, V3: Synthetic Double Pass.) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 48 588 Td (* Audio Tracks: A1: Production Boom, A2: Lav Marcus, A3: Lav Elena.) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 48 572 Td (* Timecode Ruler: SMPTE drop-frame ruler with draggable playhead and In/Out \(I/O\) marker boundaries.) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 48 556 Td (* *Right Inspector:* Frame & Lens Metadata Panel displaying Cooke /i anamorphic lens metadata \(Focal) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 48 544 Td (length: 40mm, T-Stop: T/2.0, Entrance pupil, ACEScg color profile, SHA-256 C2PA verified stamp\).) Tj ET
+BT /F2 9.5 Tf 0.15 0.2 0.3 rg 48 522 Td (Screen 7: Professional Side-Tools & AI Studio Copilot Suite) Tj ET
+0.2 0.4 0.8 rg 52 511 3 3 re f
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 509 Td (Route: /tools/studio-copilot) Tj ET
+0.2 0.4 0.8 rg 52 497 3 3 re f
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 495 Td (Target Users: Film Director, VFX Supervisor, Supervising Sound Editor.) Tj ET
+0.2 0.4 0.8 rg 52 483 3 3 re f
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 481 Td (Layout Hierarchy:) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 48 467 Td (* *Left Panel \(Conversational Copilot\):* Gemini 1.5 Pro studio assistant chat interface with prompt) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 48 455 Td (suggestions \("Audit Marcus Vance remaining seconds", "Simulate meal penalties if wrap is delayed 30) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 48 443 Td (mins", "List all unverified C2PA shots in Reel 2"\).) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 48 427 Td (* *Center-Top \(Timecoded Voice Scratchpad\):* Audio recording widget with live visualizer waveform,) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 48 415 Td (timecode lock stamp \(01:24:12:04\), real-time transcript pill, and "Assign to ShotGrid Ticket" dropdown.) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 48 399 Td (* *Center-Bottom \(Look Library A/B Split Comparator\):* Dual-buffer still comparison viewport with) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 48 387 Td (interactive draggable wipe divider, False-Color IRE exposure toggle, and difference mode.) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 48 371 Td (* *Right Panel \(Enterprise Event Relay\):* Real-time production dispatch feed showing notifications synced) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 48 359 Td (to Slack \(#production-wrap\), Microsoft Teams \(VFX-Core\), and ShotGrid Event Daemon.) Tj ET
+0.92 0.94 0.98 rg 48 328 516 24 re f
+0.15 0.28 0.55 RG 1.5 w 48 328 m 48 352 l S
+BT /F2 12.5 Tf 0.1 0.18 0.35 rg 58 335 Td (9. REST API Specifications & Pydantic v2 Contracts \(OpenAPI 3.1\)) Tj ET
+BT /F2 10.5 Tf 0.18 0.3 0.5 rg 48 305 Td (9.1 Pydantic Data Models & Request/Response Contracts) Tj ET
+0.75 0.8 0.9 RG 0.5 w 48 302 m 564 302 l S
+0.96 0.97 0.98 rg 48 154 516 140 re f
+0.85 0.88 0.92 RG 0.5 w 48 154 516 140 re S
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 286 Td (from pydantic import BaseModel, Field) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 276.5 Td (from typing import List, Optional, Tuple) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 267.0 Td (from enum import Enum) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 257.5 Td () Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 248.0 Td (class SentryCategory\(str, Enum\):) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 238.5 Td (    TIMECODE_DRIFT = "TIMECODE_DRIFT") Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 229.0 Td (    C2PA_STRIPPED = "C2PA_STRIPPED") Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 219.5 Td (    AMBIENT_IP = "AMBIENT_IP") Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 210.0 Td (    MEAL_PENALTY = "MEAL_PENALTY") Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 200.5 Td (    ACES_CLIPPING = "ACES_CLIPPING") Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 191.0 Td (    SLATE_DESYNC = "SLATE_DESYNC") Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 181.5 Td (    PROP_DESYNC = "PROP_DESYNC") Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 172.0 Td () Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 162.5 Td (class SeverityLevel\(str, Enum\):) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 153.0 Td (    INFO = "INFO") Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 143.5 Td (    WARNING = "WARNING") Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 134.0 Td (    CRITICAL = "CRITICAL") Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 124.5 Td () Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 115.0 Td (class RippleSimulationRequest\(BaseModel\):) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 105.5 Td (    tenant_id: str = Field\(..., description="Unique studio tenant identifier", example="paramount_pictures"\)) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 96.0 Td (    project_id: str = Field\(..., description="Production project code", example="chrono_2026"\)) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 86.5 Td (    scene_id: str = Field\(..., description="Target scene identifier", example="SCENE_42B"\)) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 77.0 Td (    shot_id: str = Field\(..., description="Target shot identifier", example="SHOT_14"\)) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 67.5 Td (    proposed_action: str = Field\(..., description="Proposed production modification", example="SUBSTITUTE_SYNTHETIC) Tj ET
+endstream
+endobj
+37 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R >> >> /Contents 36 0 R >>
+endobj
+38 0 obj
+<< /Length 8028 >>
+stream
+0.2 0.25 0.35 RG 0.75 w
+48 752 m 564 752 l S
+BT /F2 8 Tf 0.3 0.35 0.45 rg 48 757 Td (CINE-SYNAPSE: Technical Architecture Document \(TAD\)) Tj ET
+BT /F1 8 Tf 0.4 0.45 0.55 rg 380 757 Td (ClickHouse Track | Google Cloud Hackathon 202) Tj ET
+0.75 0.75 0.8 RG 0.5 w
+48 42 m 564 42 l S
+BT /F1 8 Tf 0.4 0.4 0.45 rg 524 30 Td (Page 17) Tj ET
+BT /F1 8 Tf 0.4 0.4 0.45 rg 48 30 Td (CINE-SYNAPSE OS ? Architecture Baseline v2.0 Enterprise) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 725 Td (    actor_id: str = Field\(..., description="SAG-AFTRA performer identifier", example="ACTOR_MARCUS_VANCE"\)) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 715.5 Td (    duration_seconds: float = Field\(..., ge=0.0, description="Duration of synthetic replica in seconds", example=6.) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 706.0 Td () Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 696.5 Td (class SentryAlert\(BaseModel\):) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 687.0 Td (    category: SentryCategory) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 677.5 Td (    severity: SeverityLevel) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 668.0 Td (    details: str) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 658.5 Td (    financial_exposure_usd: float) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 649.0 Td (    auto_remediation: Optional[str] = None) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 639.5 Td () Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 630.0 Td (class RippleSimulationResponse\(BaseModel\):) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 620.5 Td (    verdict: str = Field\(..., example="APPROVED_WITH_AUTOMATED_REMEDIATION"\)) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 611.0 Td (    execution_time_ms: float = Field\(..., example=12.8\)) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 601.5 Td (    sag_likeness_remaining_sec: float = Field\(..., example=7.8\)) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 592.0 Td (    accrued_residual_usd: float = Field\(..., example=1860.00\)) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 582.5 Td (    gpu_cluster_allocated_node: str = Field\(..., example="h100-node-04.us-central1.internal"\)) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 573.0 Td (    active_sentry_alerts: List[SentryAlert]) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 563.5 Td (    shotgrid_ticket_id: Optional[str] = Field\(None, example="SG-TASK-9921"\)) Tj ET
+0.92 0.94 0.98 rg 48 533.0 516 24 re f
+0.15 0.28 0.55 RG 1.5 w 48 533.0 m 48 557.0 l S
+BT /F2 12.5 Tf 0.1 0.18 0.35 rg 58 540.0 Td (10. Negative Scenarios, Edge Cases & Failure Mode Analysis) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 48 518.0 Td (The CINE-SYNAPSE architecture is engineered to survive catastrophic production environments?such as) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 48 506.0 Td (remote desert shoots with unstable satellite links or corrupted camera memory cards.) Tj ET
+0.96 0.97 0.98 rg 48 354.0 516 140 re f
+0.85 0.88 0.92 RG 0.5 w 48 354.0 516 140 re S
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 486.0 Td (????????????????????????????????????????????????????????????????????????????????????????????????????????????) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 476.5 Td (?                                     NEGATIVE SCENARIO RESILIENCE MATRIX                                  ?) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 467.0 Td (????????????????????????????????????????????????????????????????????????????????????????????????????????????) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 457.5 Td (? Failure Mode          ? Root Cause                    ? CINE-SYNAPSE Self-Healing Reaction               ?) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 448.0 Td (????????????????????????????????????????????????????????????????????????????????????????????????????????????) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 438.5 Td (? 1. ClickHouse Network ? Temporary Starlink disconnect ? Local SQLite Edge cache queues telemetry writes; ?) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 429.0 Td (?    Partition \(>500ms\) ? during remote location shoot. ? auto-flushes in batch upon WAN restoration.      ?) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 419.5 Td (????????????????????????????????????????????????????????????????????????????????????????????????????????????) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 410.0 Td (? 2. Gemini API Rate    ? Concurrency spike from 6 live ? Fast fallback to deterministic Python sentry     ?) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 400.5 Td (?    Limit \(HTTP 429\)   ? camera C2C streams.           ? rules; exponential backoff with jitter on agent. ?) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 391.0 Td (????????????????????????????????????????????????????????????????????????????????????????????????????????????) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 381.5 Td (? 3. Corrupted C2PA     ? Editorial transcode engine    ? Intercepts file export; reconstructs leaf C2PA   ?) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 372.0 Td (?    Manifest Byte      ? stripped metadata chunk.      ? manifest from root RAW hash stored in ClickHouse.?) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 362.5 Td (????????????????????????????????????????????????????????????????????????????????????????????????????????????) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 353.0 Td (? 4. Out-of-Order Takes ? High-speed proxy upload race  ? ClickHouse `ReplacingMergeTree` re-orders takes  ?) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 343.5 Td (?    \(Take 4 before 1\)  ? condition over 5G uplinks.    ? deterministically by camera hardware timestamp.  ?) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 334.0 Td (????????????????????????????????????????????????????????????????????????????????????????????????????????????) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 324.5 Td (? 5. Unauthorized Actor ? Creative editor attempts to   ? Pre-render webhook blocks VFX dispatch; triggers ?) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 315.0 Td (?    Likeness Synthesis ? render likeness past cap.     ? immediate legal review ticket in Rightsline.     ?) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 305.5 Td (????????????????????????????????????????????????????????????????????????????????????????????????????????????) Tj ET
+0.92 0.94 0.98 rg 48 275.0 516 24 re f
+0.15 0.28 0.55 RG 1.5 w 48 275.0 m 48 299.0 l S
+BT /F2 12.5 Tf 0.1 0.18 0.35 rg 58 282.0 Td (11. Infrastructure, Docker Containerization & Cloud Run Deployment) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 48 260.0 Td (CINE-SYNAPSE is packaged as an enterprise container deployed across Google Cloud Run and ClickHouse) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 48 248.0 Td (Cloud.) Tj ET
+BT /F2 10.5 Tf 0.18 0.3 0.5 rg 48 224.0 Td (11.1 Production Dockerfile \(Multi-Stage Build\)) Tj ET
+0.75 0.8 0.9 RG 0.5 w 48 221.0 m 564 221.0 l S
+0.96 0.97 0.98 rg 48 73.0 516 140 re f
+0.85 0.88 0.92 RG 0.5 w 48 73.0 516 140 re S
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 205.0 Td (# Stage 1: Build & Dependency Resolution) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 195.5 Td (FROM python:3.11-slim AS builder) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 186.0 Td (WORKDIR /install) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 176.5 Td (RUN apt-get update && apt-get install -y --no-install-recommends     build-essential     curl     git     && rm -rf) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 167.0 Td () Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 157.5 Td (COPY requirements.txt .) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 148.0 Td (RUN pip install --prefix=/install --no-cache-dir -r requirements.txt) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 138.5 Td () Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 129.0 Td (# Stage 2: Hardened Runtime Container) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 119.5 Td (FROM python:3.11-slim AS runner) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 110.0 Td (WORKDIR /app) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 100.5 Td (RUN apt-get update && apt-get install -y --no-install-recommends     ffmpeg     ca-certificates     && rm -rf /var/) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 91.0 Td () Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 81.5 Td (COPY --from=builder /install /usr/local) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 72.0 Td (COPY . /app) Tj ET
+endstream
+endobj
+39 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R >> >> /Contents 38 0 R >>
+endobj
+40 0 obj
+<< /Length 4809 >>
+stream
+0.2 0.25 0.35 RG 0.75 w
+48 752 m 564 752 l S
+BT /F2 8 Tf 0.3 0.35 0.45 rg 48 757 Td (CINE-SYNAPSE: Technical Architecture Document \(TAD\)) Tj ET
+BT /F1 8 Tf 0.4 0.45 0.55 rg 380 757 Td (ClickHouse Track | Google Cloud Hackathon 202) Tj ET
+0.75 0.75 0.8 RG 0.5 w
+48 42 m 564 42 l S
+BT /F1 8 Tf 0.4 0.4 0.45 rg 524 30 Td (Page 18) Tj ET
+BT /F1 8 Tf 0.4 0.4 0.45 rg 48 30 Td (CINE-SYNAPSE OS ? Architecture Baseline v2.0 Enterprise) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 725 Td () Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 715.5 Td (# Run as non-root user for SOC 2 container security) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 706.0 Td (RUN useradd -u 1001 cinesynapse && chown -R cinesynapse:cinesynapse /app) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 696.5 Td (USER 1001) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 687.0 Td () Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 677.5 Td (ENV PORT=8080) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 668.0 Td (ENV PYTHONUNBUFFERED=1) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 658.5 Td (EXPOSE 8080) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 649.0 Td () Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 639.5 Td (HEALTHCHECK --interval=15s --timeout=3s --retries=3   CMD curl -f http://localhost:8080/healthz || exit 1) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 630.0 Td () Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 620.5 Td (CMD ["uvicorn", "backend.main:app", "--host", "0.0.0.0", "--port", "8080", "--workers", "4"]) Tj ET
+BT /F2 10.5 Tf 0.18 0.3 0.5 rg 48 597.0 Td (11.2 Infrastructure-as-Code \(Terraform / GCP Cloud Run\)) Tj ET
+0.75 0.8 0.9 RG 0.5 w 48 594.0 m 564 594.0 l S
+0.96 0.97 0.98 rg 48 446.0 516 140 re f
+0.85 0.88 0.92 RG 0.5 w 48 446.0 516 140 re S
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 578.0 Td (resource "google_cloud_run_v2_service" "cinesynapse_api" {) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 568.5 Td (  name     = "cinesynapse-studio-os") Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 559.0 Td (  location = "us-central1") Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 549.5 Td (  ingress  = "INGRESS_TRAFFIC_ALL") Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 540.0 Td () Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 530.5 Td (  template {) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 521.0 Td (    scaling {) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 511.5 Td (      min_instance_count = 2) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 502.0 Td (      max_instance_count = 50) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 492.5 Td (    }) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 483.0 Td () Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 473.5 Td (    containers {) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 464.0 Td (      image = "gcr.io/cine-synapse-prod/studio-os:v2.0") Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 454.5 Td () Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 445.0 Td (      resources {) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 435.5 Td (        limits = {) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 426.0 Td (          cpu    = "4000m") Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 416.5 Td (          memory = "8Gi") Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 407.0 Td (        }) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 397.5 Td (      }) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 388.0 Td () Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 378.5 Td (      env {) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 369.0 Td (        name  = "CLICKHOUSE_HOST") Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 359.5 Td (        value = "clickhouse.cloud.internal") Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 350.0 Td (      }) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 340.5 Td (      env {) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 331.0 Td (        name  = "GOOGLE_GENAI_MODEL") Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 321.5 Td (        value = "gemini-1.5-pro") Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 312.0 Td (      }) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 302.5 Td (      env {) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 293.0 Td (        name = "CLICKHOUSE_PASSWORD") Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 283.5 Td (        value_source {) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 274.0 Td (          secret_key_ref {) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 264.5 Td (            secret  = "clickhouse-saas-master-password") Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 255.0 Td (            version = "latest") Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 245.5 Td (          }) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 236.0 Td (        }) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 226.5 Td (      }) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 217.0 Td (    }) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 207.5 Td (  }) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 198.0 Td (}) Tj ET
+0.92 0.94 0.98 rg 48 167.5 516 24 re f
+0.15 0.28 0.55 RG 1.5 w 48 167.5 m 48 191.5 l S
+BT /F2 12.5 Tf 0.1 0.18 0.35 rg 58 174.5 Td (12. Automated Verification Matrix & Pytest Test Suite) Tj ET
+endstream
+endobj
+41 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R >> >> /Contents 40 0 R >>
+endobj
+42 0 obj
+<< /Length 6880 >>
+stream
+0.2 0.25 0.35 RG 0.75 w
+48 752 m 564 752 l S
+BT /F2 8 Tf 0.3 0.35 0.45 rg 48 757 Td (CINE-SYNAPSE: Technical Architecture Document \(TAD\)) Tj ET
+BT /F1 8 Tf 0.4 0.45 0.55 rg 380 757 Td (ClickHouse Track | Google Cloud Hackathon 202) Tj ET
+0.75 0.75 0.8 RG 0.5 w
+48 42 m 564 42 l S
+BT /F1 8 Tf 0.4 0.4 0.45 rg 524 30 Td (Page 19) Tj ET
+BT /F1 8 Tf 0.4 0.4 0.45 rg 48 30 Td (CINE-SYNAPSE OS ? Architecture Baseline v2.0 Enterprise) Tj ET
+0.96 0.97 0.98 rg 48 589 516 140 re f
+0.85 0.88 0.92 RG 0.5 w 48 589 516 140 re S
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 721 Td (import pytest) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 711.5 Td (from backend.services.sentries import verify_timecode_sync, calculate_meal_penalties) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 702.0 Td () Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 692.5 Td (def test_fractional_timecode_drift_precision\(\):) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 683.0 Td (    # 2-hour shoot: camera 23.976 fps, audio 24.000 fps) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 673.5 Td (    result = verify_timecode_sync\(camera_fps=23.976, audio_fps=24.000, duration_sec=7200.0\)) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 664.0 Td (    assert result["status"] == "CRITICAL_DRIFT_DETECTED") Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 654.5 Td (    assert result["drift_seconds"] == 7.2) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 645.0 Td (    assert result["drift_frames"] == 172.8) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 635.5 Td (    assert result["remediation"] == "APPLY_0.1_PERCENT_AUDIO_PULL_UP") Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 626.0 Td () Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 616.5 Td (def test_meal_penalty_compounding_curve\(\):) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 607.0 Td (    # 6 hours and 45 minutes elapsed \(3 intervals\) for 140 crew members) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 597.5 Td (    result = calculate_meal_penalties\(hours_since_last_meal=6.75, active_crew_size=140\)) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 588.0 Td (    assert result["status"] == "BREACHED") Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 578.5 Td (    assert result["intervals_breached"] == 3) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 569.0 Td (    # Rates: $25 + $35 + $50 = $110 per crew member * 140 crew) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 559.5 Td (    expected_exposure = \(25.0 + 35.0 + 50.0\) * 140) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 550.0 Td (    assert result["active_penalty_usd"] == expected_exposure) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 540.5 Td (    assert result["urgency"] == "CRITICAL") Tj ET
+0.92 0.94 0.98 rg 48 510.0 516 24 re f
+0.15 0.28 0.55 RG 1.5 w 48 510.0 m 48 534.0 l S
+BT /F2 12.5 Tf 0.1 0.18 0.35 rg 58 517.0 Td (13. Enterprise SRE, Observability, Storage & CI/CD Pipeline) Tj ET
+BT /F2 10.5 Tf 0.18 0.3 0.5 rg 48 487.0 Td (13.1 Global Exception Handling & RFC 7807 Problem Details) Tj ET
+0.75 0.8 0.9 RG 0.5 w 48 484.0 m 564 484.0 l S
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 48 472.0 Td (CINE-SYNAPSE implements an enterprise-grade exception handling boundary. All unexpected exceptions and) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 48 460.0 Td (domain errors are transformed into RFC 7807 Problem Details envelopes, complete with a unique) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 48 448.0 Td (correlation_id \(UUIDv4\) and tenant audit context:) Tj ET
+0.96 0.97 0.98 rg 48 296.0 516 140 re f
+0.85 0.88 0.92 RG 0.5 w 48 296.0 516 140 re S
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 428.0 Td (from fastapi import Request, status) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 418.5 Td (from fastapi.responses import JSONResponse) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 409.0 Td (import uuid) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 399.5 Td (import datetime) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 390.0 Td () Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 380.5 Td (class AppException\(Exception\):) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 371.0 Td (    def __init__\(self, status_code: int, title: str, detail: str, error_type: str = "about:blank"\):) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 361.5 Td (        self.status_code = status_code) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 352.0 Td (        self.title = title) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 342.5 Td (        self.detail = detail) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 333.0 Td (        self.error_type = error_type) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 323.5 Td () Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 314.0 Td (class LikenessCapExceededException\(AppException\):) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 304.5 Td (    def __init__\(self, actor_id: str, requested_sec: float, remaining_sec: float\):) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 295.0 Td (        super\(\).__init__\() Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 285.5 Td (            status_code=status.HTTP_403_FORBIDDEN,) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 276.0 Td (            title="SAG-AFTRA Likeness Cap Exceeded",) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 266.5 Td (            detail=f"Actor {actor_id} has {remaining_sec}s remaining, but requested shot requires {requested_sec}s.) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 257.0 Td (            error_type="https://cinesynapse.studio/errors/likeness-cap-exceeded") Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 247.5 Td (        \)) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 238.0 Td () Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 228.5 Td (async def app_exception_handler\(request: Request, exc: AppException\):) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 219.0 Td (    correlation_id = request.headers.get\("x-correlation-id", f"req-{uuid.uuid4\(\).hex[:8]}"\)) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 209.5 Td (    tenant_id = getattr\(request.state, "tenant_id", "anonymous"\)) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 200.0 Td () Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 190.5 Td (    return JSONResponse\() Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 181.0 Td (        status_code=exc.status_code,) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 171.5 Td (        content={) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 162.0 Td (            "type": exc.error_type,) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 152.5 Td (            "title": exc.title,) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 143.0 Td (            "status": exc.status_code,) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 133.5 Td (            "detail": exc.detail,) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 124.0 Td (            "instance": request.url.path,) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 114.5 Td (            "tenant_id": tenant_id,) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 105.0 Td (            "correlation_id": correlation_id,) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 95.5 Td (            "timestamp": datetime.datetime.now\(datetime.timezone.utc\).isoformat\(\)) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 86.0 Td (        }) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 76.5 Td (    \)) Tj ET
+endstream
+endobj
+43 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R >> >> /Contents 42 0 R >>
+endobj
+44 0 obj
+<< /Length 5910 >>
+stream
+0.2 0.25 0.35 RG 0.75 w
+48 752 m 564 752 l S
+BT /F2 8 Tf 0.3 0.35 0.45 rg 48 757 Td (CINE-SYNAPSE: Technical Architecture Document \(TAD\)) Tj ET
+BT /F1 8 Tf 0.4 0.45 0.55 rg 380 757 Td (ClickHouse Track | Google Cloud Hackathon 202) Tj ET
+0.75 0.75 0.8 RG 0.5 w
+48 42 m 564 42 l S
+BT /F1 8 Tf 0.4 0.4 0.45 rg 524 30 Td (Page 20) Tj ET
+BT /F1 8 Tf 0.4 0.4 0.45 rg 48 30 Td (CINE-SYNAPSE OS ? Architecture Baseline v2.0 Enterprise) Tj ET
+BT /F2 10.5 Tf 0.18 0.3 0.5 rg 48 717 Td (13.2 Structured JSON Logger & Observability Engine) Tj ET
+0.75 0.8 0.9 RG 0.5 w 48 714 m 564 714 l S
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 48 702 Td (The logging engine formats all application events as structured JSON compatible with Google Cloud Logging) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 48 690 Td (and OpenTelemetry:) Tj ET
+0.96 0.97 0.98 rg 48 556 516 122 re f
+0.85 0.88 0.92 RG 0.5 w 48 556 516 122 re S
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 670 Td ({) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 660.5 Td (  "timestamp": "2026-09-04T23:55:12.891Z",) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 651.0 Td (  "severity": "WARNING",) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 641.5 Td (  "tenant_id": "paramount_pictures",) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 632.0 Td (  "correlation_id": "req-98f4-2026",) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 622.5 Td (  "logger": "cinesynapse.sentries.meal_penalty",) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 613.0 Td (  "message": "Meal penalty interval 2 breached for CHRONO-2026",) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 603.5 Td (  "active_exposure_usd": 3500.0,) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 594.0 Td (  "elapsed_hours": 6.35,) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 584.5 Td (  "duration_ms": 4.2) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 575.0 Td (}) Tj ET
+BT /F2 10.5 Tf 0.18 0.3 0.5 rg 48 551.5 Td (13.3 Cloud Storage Architecture & Provider Abstraction) Tj ET
+0.75 0.8 0.9 RG 0.5 w 48 548.5 m 564 548.5 l S
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 48 536.5 Td (CINE-SYNAPSE abstracts media and asset persistence behind a unified IStorageProvider interface, allowing) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 48 524.5 Td (seamless switching between Google Cloud Storage \(GCS\) and local disk:) Tj ET
+0.96 0.97 0.98 rg 48 372.5 516 140 re f
+0.85 0.88 0.92 RG 0.5 w 48 372.5 516 140 re S
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 504.5 Td (from abc import ABC, abstractmethod) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 495.0 Td (import hashlib) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 485.5 Td () Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 476.0 Td (class IStorageProvider\(ABC\):) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 466.5 Td (    @abstractmethod) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 457.0 Td (    async def upload_asset\(self, bucket: str, path: str, content: bytes, content_type: str\) -> dict:) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 447.5 Td (        pass) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 438.0 Td () Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 428.5 Td (    @abstractmethod) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 419.0 Td (    async def get_download_url\(self, bucket: str, path: str, expires_seconds: int = 3600\) -> str:) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 409.5 Td (        pass) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 400.0 Td () Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 390.5 Td (    @abstractmethod) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 381.0 Td (    async def get_storage_quota\(self, tenant_id: str\) -> dict:) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 371.5 Td (        pass) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 362.0 Td () Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 352.5 Td (class GoogleCloudStorageProvider\(IStorageProvider\):) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 343.0 Td (    def __init__\(self, project_id: str\):) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 333.5 Td (        from google.cloud import storage) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 324.0 Td (        self.client = storage.Client\(project=project_id\)) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 314.5 Td () Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 305.0 Td (    async def upload_asset\(self, bucket: str, path: str, content: bytes, content_type: str\) -> dict:) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 295.5 Td (        bucket_obj = self.client.bucket\(bucket\)) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 286.0 Td (        blob = bucket_obj.blob\(path\)) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 276.5 Td (        sha256 = hashlib.sha256\(content\).hexdigest\(\)) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 267.0 Td (        blob.metadata = {"sha256": sha256, "c2pa_signed": "true"}) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 257.5 Td (        blob.upload_from_string\(content, content_type=content_type\)) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 248.0 Td (        return {"uri": f"gs://{bucket}/{path}", "size_bytes": len\(content\), "sha256": sha256}) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 238.5 Td () Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 229.0 Td (    async def get_download_url\(self, bucket: str, path: str, expires_seconds: int = 3600\) -> str:) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 219.5 Td (        blob = self.client.bucket\(bucket\).blob\(path\)) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 210.0 Td (        return blob.generate_signed_url\(expiration=expires_seconds, method="GET"\)) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 200.5 Td () Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 191.0 Td (    async def get_storage_quota\(self, tenant_id: str\) -> dict:) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 181.5 Td (        # Mocked quota calculation based on tenant bucket scans) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 172.0 Td (        return {"used_bytes": 45957382144, "quota_bytes": 1099511627776, "utilization_pct": 4.18}) Tj ET
+BT /F2 10.5 Tf 0.18 0.3 0.5 rg 48 148.5 Td (13.4 Complete GitHub Actions CI/CD Pipeline \(`.github/workflows/ci-cd.yml`\)) Tj ET
+0.75 0.8 0.9 RG 0.5 w 48 145.5 m 564 145.5 l S
+endstream
+endobj
+45 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R >> >> /Contents 44 0 R >>
+endobj
+46 0 obj
+<< /Length 6115 >>
+stream
+0.2 0.25 0.35 RG 0.75 w
+48 752 m 564 752 l S
+BT /F2 8 Tf 0.3 0.35 0.45 rg 48 757 Td (CINE-SYNAPSE: Technical Architecture Document \(TAD\)) Tj ET
+BT /F1 8 Tf 0.4 0.45 0.55 rg 380 757 Td (ClickHouse Track | Google Cloud Hackathon 202) Tj ET
+0.75 0.75 0.8 RG 0.5 w
+48 42 m 564 42 l S
+BT /F1 8 Tf 0.4 0.4 0.45 rg 524 30 Td (Page 21) Tj ET
+BT /F1 8 Tf 0.4 0.4 0.45 rg 48 30 Td (CINE-SYNAPSE OS ? Architecture Baseline v2.0 Enterprise) Tj ET
+0.96 0.97 0.98 rg 48 589 516 140 re f
+0.85 0.88 0.92 RG 0.5 w 48 589 516 140 re S
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 721 Td (name: CINE-SYNAPSE Production CI/CD Pipeline) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 711.5 Td () Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 702.0 Td (on:) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 692.5 Td (  push:) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 683.0 Td (    branches: [ main, release/* ]) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 673.5 Td (  pull_request:) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 664.0 Td (    branches: [ main ]) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 654.5 Td () Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 645.0 Td (env:) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 635.5 Td (  PROJECT_ID: cine-synapse-prod) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 626.0 Td (  REGION: us-central1) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 616.5 Td (  SERVICE_NAME: cinesynapse-studio-os) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 607.0 Td (  IMAGE_NAME: gcr.io/cine-synapse-prod/studio-os) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 597.5 Td () Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 588.0 Td (jobs:) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 578.5 Td (  lint-and-typecheck:) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 569.0 Td (    name: Code Quality & Type Safety) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 559.5 Td (    runs-on: ubuntu-latest) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 550.0 Td (    steps:) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 540.5 Td (      - uses: actions/checkout@v4) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 531.0 Td (      - name: Set up Python 3.11) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 521.5 Td (        uses: actions/setup-python@v5) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 512.0 Td (        with:) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 502.5 Td (          python-version: '3.11') Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 493.0 Td (      - name: Install Linting Tools) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 483.5 Td (        run: pip install ruff black) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 474.0 Td (      - name: Run Ruff Linter) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 464.5 Td (        run: ruff check backend/) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 455.0 Td (      - name: Run Black Code Formatter Check) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 445.5 Td (        run: black --check backend/) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 436.0 Td (      - name: Set up Node.js 20) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 426.5 Td (        uses: actions/setup-node@v4) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 417.0 Td (        with:) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 407.5 Td (          node-version: '20') Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 398.0 Td (          cache: 'npm') Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 388.5 Td (          cache-dependency-path: frontend/package-lock.json) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 379.0 Td (      - name: Install Frontend Dependencies) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 369.5 Td (        working-directory: frontend) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 360.0 Td (        run: npm ci) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 350.5 Td (      - name: TypeScript Type Check) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 341.0 Td (        working-directory: frontend) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 331.5 Td (        run: npx tsc --noEmit) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 322.0 Td () Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 312.5 Td (  backend-tests:) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 303.0 Td (    name: Pytest Automated Suite) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 293.5 Td (    runs-on: ubuntu-latest) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 284.0 Td (    steps:) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 274.5 Td (      - uses: actions/checkout@v4) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 265.0 Td (      - name: Set up Python 3.11) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 255.5 Td (        uses: actions/setup-python@v5) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 246.0 Td (        with:) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 236.5 Td (          python-version: '3.11') Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 227.0 Td (      - name: Install Dependencies) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 217.5 Td (        run: pip install -r requirements.txt pytest pytest-asyncio) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 208.0 Td (      - name: Execute Pytest Suite) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 198.5 Td (        run: pytest backend/tests/ -v --junitxml=report.xml) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 189.0 Td () Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 179.5 Td (  build-and-deploy:) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 170.0 Td (    name: Cloud Run Deployment) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 160.5 Td (    needs: [lint-and-typecheck, backend-tests]) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 151.0 Td (    if: github.ref == 'refs/heads/main') Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 141.5 Td (    runs-on: ubuntu-latest) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 132.0 Td (    steps:) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 122.5 Td (      - uses: actions/checkout@v4) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 113.0 Td (      - name: Authenticate to Google Cloud) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 103.5 Td (        uses: google-github-actions/auth@v2) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 94.0 Td (        with:) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 84.5 Td (          credentials_json: ${{ secrets.GCP_SA_KEY }}) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 75.0 Td (      - name: Set up Cloud SDK) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 65.5 Td (        uses: google-github-actions/setup-gcloud@v2) Tj ET
+endstream
+endobj
+47 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R >> >> /Contents 46 0 R >>
+endobj
+48 0 obj
+<< /Length 7636 >>
+stream
+0.2 0.25 0.35 RG 0.75 w
+48 752 m 564 752 l S
+BT /F2 8 Tf 0.3 0.35 0.45 rg 48 757 Td (CINE-SYNAPSE: Technical Architecture Document \(TAD\)) Tj ET
+BT /F1 8 Tf 0.4 0.45 0.55 rg 380 757 Td (ClickHouse Track | Google Cloud Hackathon 202) Tj ET
+0.75 0.75 0.8 RG 0.5 w
+48 42 m 564 42 l S
+BT /F1 8 Tf 0.4 0.4 0.45 rg 524 30 Td (Page 22) Tj ET
+BT /F1 8 Tf 0.4 0.4 0.45 rg 48 30 Td (CINE-SYNAPSE OS ? Architecture Baseline v2.0 Enterprise) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 725 Td (      - name: Configure Docker for Artifact Registry) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 715.5 Td (        run: gcloud auth configure-docker gcr.io --quiet) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 706.0 Td (      - name: Build and Push Production Container) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 696.5 Td (        run: |) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 687.0 Td (          docker build -t $IMAGE_NAME:${{ github.sha }} -t $IMAGE_NAME:latest .) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 677.5 Td (          docker push $IMAGE_NAME:${{ github.sha }}) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 668.0 Td (          docker push $IMAGE_NAME:latest) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 658.5 Td (      - name: Deploy to Google Cloud Run) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 649.0 Td (        uses: google-github-actions/deploy-cloudrun@v2) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 639.5 Td (        with:) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 630.0 Td (          service: ${{ env.SERVICE_NAME }}) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 620.5 Td (          image: ${{ env.IMAGE_NAME }}:${{ github.sha }}) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 611.0 Td (          region: ${{ env.REGION }}) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 601.5 Td (          flags: '--min-instances=2 --max-instances=50 --cpu=4 --memory=8Gi --port=8080') Tj ET
+BT /F2 10.5 Tf 0.18 0.3 0.5 rg 48 578.0 Td (13.5 Production SRE Telemetry & Prometheus Metrics) Tj ET
+0.75 0.8 0.9 RG 0.5 w 48 575.0 m 564 575.0 l S
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 48 563.0 Td (The backend exposes Prometheus metrics at /metrics to power Grafana and Google Cloud Monitoring:) Tj ET
+0.2 0.4 0.8 rg 52 549.0 3 3 re f
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 547.0 Td (cinesynapse_http_requests_total{method, status, tenant_id}) Tj ET
+0.2 0.4 0.8 rg 52 535.0 3 3 re f
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 533.0 Td (cinesynapse_http_request_duration_seconds{endpoint, le} \(Histogram\)) Tj ET
+0.2 0.4 0.8 rg 52 521.0 3 3 re f
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 519.0 Td (cinesynapse_clickhouse_query_duration_seconds{query_type, le} \(Histogram\)) Tj ET
+0.2 0.4 0.8 rg 52 507.0 3 3 re f
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 505.0 Td (cinesynapse_sentry_breaches_total{category, severity, tenant_id} \(Counter\)) Tj ET
+0.2 0.4 0.8 rg 52 493.0 3 3 re f
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 491.0 Td (cinesynapse_active_tenants_gauge \(Gauge\)) Tj ET
+0.2 0.4 0.8 rg 52 479.0 3 3 re f
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 477.0 Td (cinesynapse_gemini_token_consumption_total{model_id, token_type} \(Counter\)) Tj ET
+0.92 0.94 0.98 rg 48 448.0 516 24 re f
+0.15 0.28 0.55 RG 1.5 w 48 448.0 m 48 472.0 l S
+BT /F2 12.5 Tf 0.1 0.18 0.35 rg 58 455.0 Td (14. Environment-Specific Architecture & Multi-Stage Deployment Matrix) Tj ET
+BT /F2 10.5 Tf 0.18 0.3 0.5 rg 48 425.0 Td (14.1 3-Tier Environment Separation Matrix) Tj ET
+0.75 0.8 0.9 RG 0.5 w 48 422.0 m 564 422.0 l S
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 48 410.0 Td (To prevent accidental data cross-contamination between test scenarios and mission-critical theatrical) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 48 398.0 Td (shoots, CINE-SYNAPSE enforces a strict Three-Tier Twelve-Factor environment model:) Tj ET
+0.96 0.97 0.98 rg 48 246.0 516 140 re f
+0.85 0.88 0.92 RG 0.5 w 48 246.0 516 140 re S
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 378.0 Td (???????????????????????????????????????????????????????????????????????????????????????????????????????????????????) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 368.5 Td (? Architectural Property           ? Development \(`dev`\)         ? Staging \(`staging`\)         ? Production \(`produ) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 359.0 Td (???????????????????????????????????????????????????????????????????????????????????????????????????????????????????) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 349.5 Td (? Target Infrastructure            ? Local Host / Docker Compose ? Google Cloud Run Sandbox    ? Cloud Run Multi-Zo) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 340.0 Td (? ClickHouse Columnar Cluster      ? In-Memory / Dev Cluster     ? Staging ClickHouse Cloud    ? Dedicated Tier-1 C) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 330.5 Td (? Google Gemini Model Rate Limit   ? Mock Fallback / Low Quota   ? Live Gemini 1.5 Pro \(60 RPM\)? Tier-1 Dedicated \() Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 321.0 Td (? Media Storage Provider           ? Local File Vault \(`/local`\) ? GCS `gs://staging-cine-c2c` ? GCS Multi-Region +) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 311.5 Td (? Cloud KMS Key Ring               ? In-Memory Mock Envelope     ? `projects/cine-stage/kms`   ? `projects/cine-pro) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 302.0 Td (? Mock Scenarios / Judge Bar       ? Fully Enabled               ? Enabled with Auth Gate      ? Hard Disabled     ) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 292.5 Td (? UI Topbar Environment Banner     ? `[DEV: LOCAL_SIM]` \(Amber\)  ? `[STAGING: SANDBOX]` \(Cyan\) ? Hidden / `[PROD]` ) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 283.0 Td (? Database Schema Migrations       ? Auto-Apply & Auto-Seed      ? Automated CI/CD PR Deploy   ? Manual Gated & Aud) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 273.5 Td (? Minimum Container Scaling        ? 1 Worker \(Uvicorn :8000\)    ? 1 Instance \(Min 0 scale\)    ? 2 Instances \(Zero ) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 264.0 Td (???????????????????????????????????????????????????????????????????????????????????????????????????????????????????) Tj ET
+BT /F2 10.5 Tf 0.18 0.3 0.5 rg 48 240.5 Td (14.2 Environment Configuration Hierarchy \(`pydantic-settings`\)) Tj ET
+0.75 0.8 0.9 RG 0.5 w 48 237.5 m 564 237.5 l S
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 48 225.5 Td (The application dynamically configures its runtime behavior based on the APP_ENV environment variable:) Tj ET
+0.96 0.97 0.98 rg 48 73.5 516 140 re f
+0.85 0.88 0.92 RG 0.5 w 48 73.5 516 140 re S
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 205.5 Td (from pydantic_settings import BaseSettings, SettingsConfigDict) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 196.0 Td (from typing import Literal, Optional) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 186.5 Td () Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 177.0 Td (class Settings\(BaseSettings\):) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 167.5 Td (    APP_ENV: Literal["development", "staging", "production"] = "development") Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 158.0 Td (    PROJECT_NAME: str = "CINE-SYNAPSE Studio OS") Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 148.5 Td (    API_V1_PREFIX: str = "/api/v1") Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 139.0 Td () Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 129.5 Td (    # ClickHouse Cloud) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 120.0 Td (    CLICKHOUSE_HOST: str = "localhost") Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 110.5 Td (    CLICKHOUSE_PORT: int = 8443) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 101.0 Td (    CLICKHOUSE_USER: str = "default") Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 91.5 Td (    CLICKHOUSE_PASSWORD: str = "") Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 82.0 Td (    CLICKHOUSE_SECURE: bool = True) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 72.5 Td (    CLICKHOUSE_MOCK_FALLBACK: bool = True) Tj ET
+endstream
+endobj
+49 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R >> >> /Contents 48 0 R >>
+endobj
+50 0 obj
+<< /Length 4081 >>
+stream
+0.2 0.25 0.35 RG 0.75 w
+48 752 m 564 752 l S
+BT /F2 8 Tf 0.3 0.35 0.45 rg 48 757 Td (CINE-SYNAPSE: Technical Architecture Document \(TAD\)) Tj ET
+BT /F1 8 Tf 0.4 0.45 0.55 rg 380 757 Td (ClickHouse Track | Google Cloud Hackathon 202) Tj ET
+0.75 0.75 0.8 RG 0.5 w
+48 42 m 564 42 l S
+BT /F1 8 Tf 0.4 0.4 0.45 rg 524 30 Td (Page 23) Tj ET
+BT /F1 8 Tf 0.4 0.4 0.45 rg 48 30 Td (CINE-SYNAPSE OS ? Architecture Baseline v2.0 Enterprise) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 725 Td () Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 715.5 Td (    # Gemini AI Engine) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 706.0 Td (    GEMINI_API_KEY: Optional[str] = None) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 696.5 Td (    GEMINI_MODEL_ID: str = "gemini-1.5-pro") Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 687.0 Td () Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 677.5 Td (    # Storage Configuration) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 668.0 Td (    STORAGE_PROVIDER: Literal["local", "gcs"] = "local") Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 658.5 Td (    GCS_BUCKET_VAULT: str = "cine-synapse-local-vault") Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 649.0 Td () Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 639.5 Td (    # Security) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 630.0 Td (    JWT_SECRET: str = "dev-insecure-secret-key-change-in-prod") Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 620.5 Td (    RATE_LIMIT_ENABLED: bool = True) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 611.0 Td () Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 601.5 Td (    model_config = SettingsConfigDict\() Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 592.0 Td (        env_file=\(".env", f".env.{os.getenv\('APP_ENV', 'development'\)}"\),) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 582.5 Td (        env_file_encoding="utf-8",) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 573.0 Td (        extra="ignore") Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 563.5 Td (    \)) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 554.0 Td () Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 544.5 Td (settings = Settings\(\)) Tj ET
+BT /F2 10.5 Tf 0.18 0.3 0.5 rg 48 521.0 Td (14.3 Multi-Stage Dockerfile Targets) Tj ET
+0.75 0.8 0.9 RG 0.5 w 48 518.0 m 564 518.0 l S
+0.96 0.97 0.98 rg 48 370.0 516 140 re f
+0.85 0.88 0.92 RG 0.5 w 48 370.0 516 140 re S
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 502.0 Td (# Development Target with Hot Reloading) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 492.5 Td (FROM python:3.11-slim AS development) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 483.0 Td (WORKDIR /app) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 473.5 Td (COPY requirements.txt .) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 464.0 Td (RUN pip install --no-cache-dir -r requirements.txt) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 454.5 Td (COPY . .) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 445.0 Td (ENV APP_ENV=development) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 435.5 Td (CMD ["uvicorn", "backend.main:app", "--host", "0.0.0.0", "--port", "8000", "--reload"]) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 426.0 Td () Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 416.5 Td (# Production Hardened Target) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 407.0 Td (FROM python:3.11-slim AS production) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 397.5 Td (WORKDIR /app) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 388.0 Td (COPY requirements.txt .) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 378.5 Td (RUN pip install --no-cache-dir --prefix=/install -r requirements.txt) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 369.0 Td (COPY . .) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 359.5 Td (RUN useradd -u 1001 cinesynapse && chown -R cinesynapse:cinesynapse /app) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 350.0 Td (USER 1001) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 340.5 Td (ENV APP_ENV=production) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 331.0 Td (ENV PORT=8080) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 321.5 Td (CMD ["uvicorn", "backend.main:app", "--host", "0.0.0.0", "--port", "8080", "--workers", "4"]) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 48 306.0 Td (*End of Master Technical Architecture Document \(CINE-SYNAPSE-TAD-V2.0-ENTERPRISE\)*) Tj ET
+endstream
+endobj
+51 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R >> >> /Contents 50 0 R >>
+endobj
+xref
+0 52
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000269 00000 n 
+0000000366 00000 n 
+0000000468 00000 n 
+0000000563 00000 n 
+0000005965 00000 n 
+0000006111 00000 n 
+0000014163 00000 n 
+0000014309 00000 n 
+0000019898 00000 n 
+0000020046 00000 n 
+0000026494 00000 n 
+0000026642 00000 n 
+0000032691 00000 n 
+0000032839 00000 n 
+0000039594 00000 n 
+0000039742 00000 n 
+0000046095 00000 n 
+0000046243 00000 n 
+0000052183 00000 n 
+0000052331 00000 n 
+0000060303 00000 n 
+0000060451 00000 n 
+0000067652 00000 n 
+0000067800 00000 n 
+0000074854 00000 n 
+0000075002 00000 n 
+0000080817 00000 n 
+0000080965 00000 n 
+0000087525 00000 n 
+0000087673 00000 n 
+0000094418 00000 n 
+0000094566 00000 n 
+0000100537 00000 n 
+0000100685 00000 n 
+0000107211 00000 n 
+0000107359 00000 n 
+0000115440 00000 n 
+0000115588 00000 n 
+0000120450 00000 n 
+0000120598 00000 n 
+0000127531 00000 n 
+0000127679 00000 n 
+0000133642 00000 n 
+0000133790 00000 n 
+0000139958 00000 n 
+0000140106 00000 n 
+0000147795 00000 n 
+0000147943 00000 n 
+0000152077 00000 n 
+trailer
+<< /Size 52 /Root 1 0 R >>
+startxref
+152225
+%%EOF

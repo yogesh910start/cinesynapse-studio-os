@@ -1,0 +1,55 @@
+{
+  "c2pa_version": "2.1",
+  "claim_generator": "ARRI Alexa 35 Firmware v2.1.0 / Cooke /i Lens Interface v3.4",
+  "title": "Scene42B_T04_A002C014_RAW.MOV",
+  "format": "video/quicktime",
+  "instance_id": "urn:uuid:7f83b165-7ff1-fc53-b92d-c18148a1d65d",
+  "assertions": [
+    {
+      "label": "c2pa.actions",
+      "data": {
+        "actions": [
+          {
+            "action": "c2pa.captured",
+            "when": "2026-09-04T22:15:32.416Z",
+            "softwareAgent": "ARRI CAP-C2C Sentry v2.0"
+          }
+        ]
+      }
+    },
+    {
+      "label": "stds.schema-org.CreativeWork",
+      "data": {
+        "@context": "https://schema.org",
+        "@type": "MovieClip",
+        "name": "CHRONO Scene 42B Take 4",
+        "producer": "Paramount Pictures",
+        "director": "Denis Villeneuve",
+        "cinematographer": "Greig Fraser, ASC, ACS"
+      }
+    },
+    {
+      "label": "cine.camera.hardware",
+      "data": {
+        "camera_make": "ARRI",
+        "camera_model": "Alexa 35",
+        "sensor_fps": 24.000,
+        "timecode_base": "24.000 fps SMPTE",
+        "lens_serial": "CK-ANAMORPHIC-40-8819",
+        "lens_model": "Cooke Anamorphic /i Full Frame Plus 40mm T/2.0",
+        "t_stop": "T/2.0",
+        "focal_length_mm": 40.0,
+        "focus_distance_m": 2.45,
+        "shutter_angle": "180.0 deg",
+        "exposure_index": "800 ASA",
+        "white_balance_kelvin": 3200
+      }
+    }
+  ],
+  "signature": {
+    "issuer": "CN=ARRI Secure Hardware Root CA, O=ARRI AG, C=DE",
+    "algorithm": "ES256",
+    "timestamp": "2026-09-04T22:15:33Z",
+    "digest": "sha256:7f83b1657ff1fc53b92dc18148a1d65dfc2d4b1fa3d677284addd200126d9069"
+  }
+}

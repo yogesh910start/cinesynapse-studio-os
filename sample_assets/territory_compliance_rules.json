@@ -1,0 +1,58 @@
+{
+  "ruleset_version": "2026.3-SPHEREX",
+  "territories": [
+    {
+      "iso_code": "SA",
+      "territory_name": "Saudi Arabia / Gulf Cooperation Council",
+      "rating_board": "GCAM (General Commission for Audiovisual Media)",
+      "prohibited_content": [
+        "Alcoholic beverages / bar branded signage",
+        "Religious blasphemy or overt symbols",
+        "Uncensored adult intimacy or graphic nudity"
+      ],
+      "required_mitigation": "Automated Neural Inpaint or Alternate Plate Insertion",
+      "sla_hours": 4.0,
+      "compliance_status": "ACTION_REQUIRED",
+      "shotgrid_task_template": "INPAINT_VFX_CENSORSHIP"
+    },
+    {
+      "iso_code": "SG",
+      "territory_name": "Singapore",
+      "rating_board": "IMDA (Infocomm Media Development Authority)",
+      "prohibited_content": [
+        "Drug trafficking glorification",
+        "Racial or religious vilification"
+      ],
+      "required_mitigation": "Frame Mute or Dialogue Bleep",
+      "sla_hours": 12.0,
+      "compliance_status": "CLEARED",
+      "shotgrid_task_template": "AUDIO_BLEEP_TASK"
+    },
+    {
+      "iso_code": "GB",
+      "territory_name": "United Kingdom",
+      "rating_board": "BBFC (British Board of Film Classification)",
+      "prohibited_content": [
+        "Dangerous imitable techniques (hanging / knife combat tutorials)",
+        "Unjustified animal cruelty"
+      ],
+      "required_mitigation": "Editorial Trim or Optical Zoom Reframing",
+      "sla_hours": 24.0,
+      "compliance_status": "CLEARED",
+      "shotgrid_task_template": "EDITORIAL_REFRAME_TASK"
+    },
+    {
+      "iso_code": "US",
+      "territory_name": "United States",
+      "rating_board": "CARA / MPA (Motion Picture Association)",
+      "prohibited_content": [
+        "Excessive gratuitous violence (PG-13 to R threshold)",
+        "Hard drug consumption by minors"
+      ],
+      "required_mitigation": "Rating Appeal or MPA Alternate Reel",
+      "sla_hours": 48.0,
+      "compliance_status": "CLEARED",
+      "shotgrid_task_template": "MPA_RECUT_DISPATCH"
+    }
+  ]
+}

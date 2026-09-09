@@ -1,0 +1,11 @@
+<ColorCorrection id="Scene42B_T04_Grade">
+  <SOPNode>
+    <Slope>1.0500 0.9800 1.1200</Slope>
+    <Offset>-0.0200 0.0100 -0.0150</Offset>
+    <Power>0.9500 1.0200 0.9100</Power>
+  </SOPNode>
+  <SatNode>
+    <Saturation>1.1500</Saturation>
+  </SatNode>
+  <Description>Cooke Anamorphic /i 40mm T/2.0 Look - Night Exterior Rain Match</Description>
+</ColorCorrection>

@@ -1,0 +1,1087 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [7 0 R 9 0 R 11 0 R 13 0 R 15 0 R 17 0 R 19 0 R 21 0 R 23 0 R 25 0 R 27 0 R 29 0 R 31 0 R] /Count 13 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica /Encoding /WinAnsiEncoding >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding >>
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Courier /Encoding /WinAnsiEncoding >>
+endobj
+6 0 obj
+<< /Length 5601 >>
+stream
+0.75 0.75 0.8 RG 0.5 w
+48 42 m 564 42 l S
+BT /F1 8 Tf 0.4 0.4 0.45 rg 524 30 Td (Page 1) Tj ET
+BT /F1 8 Tf 0.4 0.4 0.45 rg 48 30 Td (CINE-SYNAPSE Studio OS ? Production Playbook v2.0 Enterprise) Tj ET
+0.08 0.12 0.25 rg 0 760 612 32 re f
+0.2 0.4 0.8 rg 0 754 612 6 re f
+BT /F2 10 Tf 0.25 0.4 0.7 rg 48 710 Td (GOOGLE CLOUD AGENTIC CINEMA HACKATHON 2026 | PRODUCTION ONBOARDING & ROLES PLAYBOOK) Tj ET
+BT /F2 26 Tf 0.08 0.12 0.25 rg 48 660 Td (CINE-SYNAPSE) Tj ET
+BT /F2 15 Tf 0.2 0.3 0.45 rg 48 635 Td (Enterprise Setup, 8 Filmmaking Personas & Production Testing Resources) Tj ET
+BT /F1 10.5 Tf 0.35 0.4 0.5 rg 48 615 Td (Enterprise Multi-Agent Production Graph & Orchestration Fabric for 2026 Cinema) Tj ET
+0.2 0.4 0.8 RG 2 w 48 598 m 564 598 l S
+0.95 0.96 0.98 rg 48 495 516 85 re f
+0.8 0.83 0.9 RG 1 w 48 495 516 85 re S
+BT /F2 8.5 Tf 0.15 0.2 0.3 rg 60 562 Td (Primary Partner Track:) Tj ET
+BT /F1 8.5 Tf 0.25 0.3 0.35 rg 205 562 Td (ClickHouse Track \(Runtime mcp-clickhouse Server\)) Tj ET
+BT /F2 8.5 Tf 0.15 0.2 0.3 rg 60 548 Td (Secondary Ecosystem:) Tj ET
+BT /F1 8.5 Tf 0.25 0.3 0.35 rg 205 548 Td (Parallel Web Search API, OpenTimelineIO \(OTIO\), C2PA / CAI) Tj ET
+BT /F2 8.5 Tf 0.15 0.2 0.3 rg 60 534 Td (Core AI Engine:) Tj ET
+BT /F1 8.5 Tf 0.25 0.3 0.35 rg 205 534 Td (Google Cloud Gemini 1.5 Pro \(via google-genai SDK\)) Tj ET
+BT /F2 8.5 Tf 0.15 0.2 0.3 rg 60 520 Td (Document Version & Date:) Tj ET
+BT /F1 8.5 Tf 0.25 0.3 0.35 rg 205 520 Td (Version 2.0 \(Enterprise Multi-Tenant SaaS\) | September 2026) Tj ET
+BT /F2 8.5 Tf 0.15 0.2 0.3 rg 60 506 Td (Compliance & Security:) Tj ET
+BT /F1 8.5 Tf 0.25 0.3 0.35 rg 205 506 Td (SOC 2 Type II, MPAA Content Security, Federal NO FAKES Act of 2026) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 48 465 Td (The Autonomous Studio Operating System \(Studio OS\) for Next-Generation Cinema) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 48 449 Td (*Publication Date: September 2026 | Document Classification: Enterprise Confidential / Studio Standard*) Tj ET
+0.92 0.94 0.98 rg 48 418 516 24 re f
+0.15 0.28 0.55 RG 1.5 w 48 418 m 48 442 l S
+BT /F2 12.5 Tf 0.1 0.18 0.35 rg 58 425 Td (1. Executive Summary & Operational Mandate) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 48 403 Td (The modern motion picture industry operates on a razor's edge. A Tier-1 Hollywood tentpole \($150M?$300M) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 48 391 Td (budget\) generates over 45 terabytes of raw camera digital negatives \(DNG/ARRIRAW\), thousands of lens) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 48 379 Td (telemetry records, hundreds of contractual likeness provisions under the Federal NO FAKES Act of 2026,) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 48 367 Td (and simultaneous day-and-date theatrical distribution across 190 international territories.) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 48 351 Td (Historically, this sprawling operational fabric has been maintained across disconnected legacy silos:) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 48 339 Td (call sheets in PDF emails, dailies in PIX or Frame.io, visual effects tracking in Autodesk Flow) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 48 327 Td (\(ShotGrid\), contractual likeness riders in filing cabinets or legal doc repositories, and color grades) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 48 315 Td (trapped inside DIT carts. When an on-set drift occurs?such as a 23.976 fps pull-down mismatch on a) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 48 303 Td (secondary B-camera, an unscripted brand label in a frame scheduled for Saudi Arabia, or an actor's) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 48 291 Td (digital double exceeding their contracted SAG-AFTRA likeness seconds?the error is rarely caught until) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 48 279 Td (weeks or months later in post-production. The resulting reshoots, union penalty grievances, and delayed) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 48 267 Td (distributor deliveries cost studios tens of millions of dollars per production.) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 48 251 Td (CINE-SYNAPSE resolves this existential crisis by serving as the industry's first Autonomous Studio) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 48 239 Td (Operating System \(Studio OS\). Built upon a unified Multi-Agent Production Graph powered by ClickHouse) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 48 227 Td (Cloud columnar analytics and Google Cloud Gemini 1.5 Pro, CINE-SYNAPSE correlates every single frame of) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 48 215 Td (captured footage with its hardware C2PA provenance, optical lens telemetry, union labor clock,) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 48 203 Td (contractual likeness rights, and international distribution clearance in sub-second real time.) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 48 187 Td (This document serves as the authoritative, end-to-end production setup manual and operational playbook) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 48 175 Td (for enterprise studio tenants, system administrators, and all eight core filmmaking roles.) Tj ET
+0.92 0.94 0.98 rg 48 144 516 24 re f
+0.15 0.28 0.55 RG 1.5 w 48 144 m 48 168 l S
+BT /F2 12.5 Tf 0.1 0.18 0.35 rg 58 151 Td (2. Enterprise Onboarding & Setup Runbook \(Step-by-Step\)) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 48 129 Td (Before any camera rolls or creative assets are ingested, production infrastructure must be provisioned) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 48 117 Td (according to strict Trusted Partner Network \(TPN+ Level 3\) security guidelines and Content Authenticity) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 48 105 Td (Initiative \(C2PA v2.1\) standards. Follow these seven mandatory onboarding phases in sequence.) Tj ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 7273 >>
+stream
+0.2 0.25 0.35 RG 0.75 w
+48 752 m 564 752 l S
+BT /F2 8 Tf 0.3 0.35 0.45 rg 48 757 Td (CINE-SYNAPSE: Production Onboarding & 8-Role Playbook) Tj ET
+BT /F1 8 Tf 0.4 0.45 0.55 rg 380 757 Td (ClickHouse Track | Google Cloud Hackathon 202) Tj ET
+0.75 0.75 0.8 RG 0.5 w
+48 42 m 564 42 l S
+BT /F1 8 Tf 0.4 0.4 0.45 rg 524 30 Td (Page 2) Tj ET
+BT /F1 8 Tf 0.4 0.4 0.45 rg 48 30 Td (CINE-SYNAPSE Studio OS ? Production Playbook v2.0 Enterprise) Tj ET
+0.96 0.97 0.98 rg 48 589 516 140 re f
+0.85 0.88 0.92 RG 0.5 w 48 589 516 140 re S
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 721 Td (+---------------------------------------------------------------------------------------------------+) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 711.5 Td (|                            CINE-SYNAPSE 7-STEP PRODUCTION ONBOARDING FLOW                         |) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 702.0 Td (+---------------------------------------------------------------------------------------------------+) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 692.5 Td (|  [Step 1: Tenant & KMS]       Provision Studio Tenant, GCS Vault & Customer-Managed KMS Key      |) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 683.0 Td (|           |                                                                                       |) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 673.5 Td (|  [Step 2: SSO & RBAC]         Federate Okta/Google Workspace OIDC, Map Roles & ClickHouse RLS    |) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 664.0 Td (|           |                                                                                       |) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 654.5 Td (|  [Step 3: Cinema Baseline]    Init Project, Bind ACEScg Gamut, ARRI/RED Webhooks & Cooke /i Lenses|) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 645.0 Td (|           |                                                                                       |) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 635.5 Td (|  [Step 4: Legal Ledger]       Seed SAG-AFTRA Sched A Riders, Seconds Caps & NO FAKES Consent     |) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 626.0 Td (|           |                                                                                       |) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 616.5 Td (|  [Step 5: Global Compliance]  Configure Spherex 190-Territory Rules \(BBFC, GCAM, IMDA, MPAA\)     |) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 607.0 Td (|           |                                                                                       |) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 597.5 Td (|  [Step 6: Hardware C2C]       Pair Camera-to-Cloud Edge Sentries & NexGuard Watermarking Nodes    |) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 588.0 Td (|           |                                                                                       |) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 578.5 Td (|  [Step 7: Day 1 Validation]   Run Automated Pytest Suite, Synthetic Ripple & SRE Health Probes    |) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 569.0 Td (+---------------------------------------------------------------------------------------------------+) Tj ET
+BT /F2 10.5 Tf 0.18 0.3 0.5 rg 48 545.5 Td (Step 1: Studio Tenant Provisioning & Customer-Managed Encryption Keys \(CMEK\)) Tj ET
+0.75 0.8 0.9 RG 0.5 w 48 542.5 m 564 542.5 l S
+0.2 0.4 0.8 rg 52 532.5 3 3 re f
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 530.5 Td (1. Tenant ID & Namespace Allocation: The studio enterprise administrator provisions a globally unique) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 518.5 Td (tenant identifier \(e.g., tenant-paramount-01, tenant-a24-01, tenant-wbd-01\).) Tj ET
+0.2 0.4 0.8 rg 52 506.5 3 3 re f
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 504.5 Td (2. KMS Keyring Generation: Create a dedicated Cloud KMS Keyring in us-central1 with automatic 90-day) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 492.5 Td (rotation:) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 48 478.5 Td (- Primary Key:) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 48 466.5 Td (projects/cine-synapse-prod/locations/us-central1/keyRings/studio-vault/cryptoKeys/paramount-master-key) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 48 450.5 Td (- Algorithm: GOOGLE_SYMMETRIC_ENCRYPTION \(AES-256-GCM\)) Tj ET
+0.2 0.4 0.8 rg 52 436.5 3 3 re f
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 434.5 Td (3. Dedicated Object Storage Bucket: Provision a Cloud Storage bucket with uniform bucket-level access) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 422.5 Td (and CMEK enforcement:) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 48 408.5 Td (- URI: gs://cine-synapse-paramount-vault-prod) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 48 392.5 Td (- Lifecycle rule: Coldline transition at 365 days; immutability retention lock enabled for raw camera) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 48 380.5 Td (master digital negatives.) Tj ET
+0.2 0.4 0.8 rg 52 366.5 3 3 re f
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 364.5 Td (4. ClickHouse Multi-Tenant Database Namespace: ClickHouse Cloud creates a dedicated partition schema) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 352.5 Td (isolated by tenant_id. All analytical queries dynamically inject tenant scoping to enforce physical) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 340.5 Td (data isolation.) Tj ET
+BT /F2 10.5 Tf 0.18 0.3 0.5 rg 48 318.5 Td (Step 2: Identity Federation, SSO & Row-Level Security \(RLS\)) Tj ET
+0.75 0.8 0.9 RG 0.5 w 48 315.5 m 564 315.5 l S
+0.2 0.4 0.8 rg 52 305.5 3 3 re f
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 303.5 Td (1. OIDC Federation: Connect the studio's enterprise identity provider \(Okta Studio Cloud, Microsoft) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 291.5 Td (Entra ID, or Google Workspace BeyondCorp\).) Tj ET
+0.2 0.4 0.8 rg 52 279.5 3 3 re f
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 277.5 Td (2. JWT Issuer & Claims Mapping: Configure the RS256 token verification endpoint with expected audience) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 265.5 Td (cine-synapse-api and claims:) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 48 251.5 Td (- sub: Unique user UUID) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 48 235.5 Td (- tenant_id: Tenant identifier) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 48 219.5 Td (- role: One of the 8 authorized production personas) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 48 203.5 Td (- clearance_level: TPN+ Level 1 through 3) Tj ET
+0.2 0.4 0.8 rg 52 189.5 3 3 re f
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 187.5 Td (3. ClickHouse Row-Level Security Policy: ClickHouse enforces cryptographic data fences preventing any) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 175.5 Td (cross-tenant data leakage at the database engine level:) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 48 161.5 Td (sql) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 48 145.5 Td (CREATE ROW POLICY tenant_isolation_policy ON production_graph_nodes) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 48 129.5 Td (FOR SELECT USING \(tenant_id = current_user_tenant_id\(\)\);) Tj ET
+BT /F2 10.5 Tf 0.18 0.3 0.5 rg 48 101.5 Td (Step 3: Studio Project Initialization & Cinema Hardware Baseline) Tj ET
+0.75 0.8 0.9 RG 0.5 w 48 98.5 m 564 98.5 l S
+0.2 0.4 0.8 rg 52 88.5 3 3 re f
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 86.5 Td (1. Create Project Entity: In Screen 5 \(Tenant Login Portal\) or via REST API \(POST /api/projects\),) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 74.5 Td (initialize the project container \(e.g., CHRONO-2026, 120-day principal photography window\).) Tj ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R >> >> /Contents 8 0 R >>
+endobj
+10 0 obj
+<< /Length 6589 >>
+stream
+0.2 0.25 0.35 RG 0.75 w
+48 752 m 564 752 l S
+BT /F2 8 Tf 0.3 0.35 0.45 rg 48 757 Td (CINE-SYNAPSE: Production Onboarding & 8-Role Playbook) Tj ET
+BT /F1 8 Tf 0.4 0.45 0.55 rg 380 757 Td (ClickHouse Track | Google Cloud Hackathon 202) Tj ET
+0.75 0.75 0.8 RG 0.5 w
+48 42 m 564 42 l S
+BT /F1 8 Tf 0.4 0.4 0.45 rg 524 30 Td (Page 3) Tj ET
+BT /F1 8 Tf 0.4 0.4 0.45 rg 48 30 Td (CINE-SYNAPSE Studio OS ? Production Playbook v2.0 Enterprise) Tj ET
+0.2 0.4 0.8 rg 52 727 3 3 re f
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 725 Td (2. Color Management Standardization: Lock the master color pipeline to Academy Color Encoding System) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 713 Td (\(ACES 1.3 / ACEScg\) with an SMPTE ST 2065-1 archival swap. No sRGB or uncalibrated Rec.709 footage may) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 701 Td (enter the timeline without automated IDT \(Input Device Transform\) normalization.) Tj ET
+0.2 0.4 0.8 rg 52 689 3 3 re f
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 687 Td (3. Timecode & Frame Rate Master Clock: Establish the master production timecode base:) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 48 673 Td (- Cinema Standard: 24.000 fps SMPTE non-drop frame.) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 48 657 Td (- Broadcast Pull-Down Alert: Any secondary camera or auxiliary recorder operating at 23.976 fps or 29.97) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 48 645 Td (fps triggers an immediate warning flag for automated 0.1% pull-up resampling.) Tj ET
+0.2 0.4 0.8 rg 52 631 3 3 re f
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 629 Td (4. Lens Telemetry Protocols: Enable Cooke /i Technology, ARRI LDS-2, or Zeiss eXtended Data telemetry) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 617 Td (ingestion via the camera metadata stream.) Tj ET
+BT /F2 10.5 Tf 0.18 0.3 0.5 rg 48 595 Td (Step 4: Legal Likeness Ledger Seeding & NO FAKES Act Compliance) Tj ET
+0.75 0.8 0.9 RG 0.5 w 48 592 m 564 592 l S
+0.2 0.4 0.8 rg 52 582 3 3 re f
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 580 Td (1. Performer Roster Ingestion: In Screen 3 \(SAG Likeness Ledger\), seed all principal and supporting) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 568 Td (talent contracts under the SAG-AFTRA 2023?2026 Theatrical Agreement.) Tj ET
+0.2 0.4 0.8 rg 52 556 3 3 re f
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 554 Td (2. Digital Replica Seconds Cap Allocation: Define the exact contractual seconds allowed for synthetic) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 542 Td (digital doubles:) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 48 528 Td (- Example: *Marcus Vance \(Commander Vance\)*: 60.0 authorized seconds; \\$1,500.00/second overage penalty.) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 48 512 Td (- Example: *Elena Rostova \(Dr. Elena\)*: 120.0 authorized seconds; \\$2,200.00/second overage penalty.) Tj ET
+0.2 0.4 0.8 rg 52 498 3 3 re f
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 496 Td (3. NO FAKES Act of 2026 Verification: Upload the cryptographically signed consent rider verifying) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 484 Td (statutory compliance with 17 U.S.C. Section 1301. The system generates a SHA-256 consent digest and) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 472 Td (links it to the actor's KMS public key.) Tj ET
+BT /F2 10.5 Tf 0.18 0.3 0.5 rg 48 450 Td (Step 5: 190-Country Global Compliance & Localization Matrix) Tj ET
+0.75 0.8 0.9 RG 0.5 w 48 447 m 564 447 l S
+0.2 0.4 0.8 rg 52 437 3 3 re f
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 435 Td (1. Spherex Ruleset Initialization: In Screen 4 \(Global Compliance\), activate the automated compliance) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 423 Td (engine covering all 190 distribution territories.) Tj ET
+0.2 0.4 0.8 rg 52 411 3 3 re f
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 409 Td (2. Territory Cultural Flag Parameters: Ingest regional regulatory standards:) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 48 395 Td (- United States \(CARA/MPA\): Violence, language, PG-13 vs. R thresholds.) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 48 379 Td (- United Kingdom \(BBFC\): Imitable dangerous techniques, knife combat mechanics.) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 48 363 Td (- Saudi Arabia / GCC \(GCAM\): Alcohol branding, overt religious blasphemy, intimacy.) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 48 347 Td (- Singapore \(IMDA\): Drug consumption glorification, racial discord.) Tj ET
+0.2 0.4 0.8 rg 52 333 3 3 re f
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 331 Td (3. Automated Inpaint Dispatch Routing: Configure webhook endpoints to Autodesk Flow \(ShotGrid\) or) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 319 Td (Foundry Nuke pipelines so detected infractions immediately spawn neural inpainting tickets.) Tj ET
+BT /F2 10.5 Tf 0.18 0.3 0.5 rg 48 297 Td (Step 6: On-Set Hardware C2C Sentry Edge Ingestion & TPN+ Network) Tj ET
+0.75 0.8 0.9 RG 0.5 w 48 294 m 564 294 l S
+0.2 0.4 0.8 rg 52 284 3 3 re f
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 282 Td (1. Edge Sentry Deployment: Configure on-set ingest stations \(QTAKE, Codex, Teradek Prism, ARRI) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 270 Td (Camera-to-Cloud\) with the CINE-SYNAPSE C2C webhook URL:) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 258 Td (https://api.cine-synapse.com/api/sentry/c2c-ingest.) Tj ET
+0.2 0.4 0.8 rg 52 246 3 3 re f
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 244 Td (2. Hardware C2PA Provenance Binding: Ingested clips must include hardware-signed C2PA manifests) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 232 Td (verifying sensor authenticity, camera serial numbers, and lens metadata.) Tj ET
+0.2 0.4 0.8 rg 52 220 3 3 re f
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 218 Td (3. Forensic Watermarking Engine: Activate NAGRA NexGuard dynamic watermarking. Every streamed daily,) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 206 Td (review cut, and WebRTC war room session receives an imperceptible forensic watermark embedding viewer) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 194 Td (ID, timestamp, and IP address.) Tj ET
+BT /F2 10.5 Tf 0.18 0.3 0.5 rg 48 172 Td (Step 7: Day 1 Automated Health Check & Sentinel Validation) Tj ET
+0.75 0.8 0.9 RG 0.5 w 48 169 m 564 169 l S
+0.2 0.4 0.8 rg 52 159 3 3 re f
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 157 Td (1. Run Automated Test Suite: Execute the complete pytest validation suite:) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 48 143 Td (bash) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 48 127 Td (.venv/bin/pytest backend/tests/ -v) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 48 107 Td (*Expected Result: 21 passed in <0.30s.*) Tj ET
+0.2 0.4 0.8 rg 52 93 3 3 re f
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 91 Td (2. Execute SRE Probes: Validate service health endpoints:) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 48 77 Td (- GET /healthz -> {"status": "healthy", "engine": "clickhouse", "version": "2.0.0"}) Tj ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R >> >> /Contents 10 0 R >>
+endobj
+12 0 obj
+<< /Length 7763 >>
+stream
+0.2 0.25 0.35 RG 0.75 w
+48 752 m 564 752 l S
+BT /F2 8 Tf 0.3 0.35 0.45 rg 48 757 Td (CINE-SYNAPSE: Production Onboarding & 8-Role Playbook) Tj ET
+BT /F1 8 Tf 0.4 0.45 0.55 rg 380 757 Td (ClickHouse Track | Google Cloud Hackathon 202) Tj ET
+0.75 0.75 0.8 RG 0.5 w
+48 42 m 564 42 l S
+BT /F1 8 Tf 0.4 0.4 0.45 rg 524 30 Td (Page 4) Tj ET
+BT /F1 8 Tf 0.4 0.4 0.45 rg 48 30 Td (CINE-SYNAPSE Studio OS ? Production Playbook v2.0 Enterprise) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 48 725 Td (- GET /readyz -> {"status": "ready", "database_connected": true, "gemini_api_online": true}) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 48 709 Td (- GET /metrics -> Prometheus metrics for sentry processing latency and memory usage.) Tj ET
+0.2 0.4 0.8 rg 52 695 3 3 re f
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 693 Td (3. Synthetic Production Ripple: Trigger the 5D Consensus Simulation on Screen 1 to verify that) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 681 Td (real-time notifications propagate across Legal, VFX, Editorial, Sound, and Executive nodes in under) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 669 Td (200 milliseconds.) Tj ET
+0.92 0.94 0.98 rg 48 640 516 24 re f
+0.15 0.28 0.55 RG 1.5 w 48 640 m 48 664 l S
+BT /F2 12.5 Tf 0.1 0.18 0.35 rg 58 647 Td (3. The 8 Professional Studio Roles: Comprehensive Deep-Dive) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 48 625 Td (CINE-SYNAPSE is specifically tailored to the real-world operational workflows of eight distinct cinema) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 48 613 Td (roles. Below is the exhaustive breakdown of each role's responsibilities, historical nightmares, legacy) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 48 601 Td (workflows, CINE-SYNAPSE procedures, and realistic test scenarios.) Tj ET
+0.96 0.97 0.98 rg 48 457 516 132 re f
+0.85 0.88 0.92 RG 0.5 w 48 457 516 132 re S
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 581 Td (+---------------------------------------------------------------------------------------------------+) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 571.5 Td (|                                 THE 8 PROFESSIONAL STUDIO ROLES                                   |) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 562.0 Td (+---------------------------------------------------------------------------------------------------+) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 552.5 Td (|  1. Studio Head / Exec Producer   | Macro financial health, greenlight governance, delivery gates  |) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 543.0 Td (|  2. Production Legal Counsel       | SAG-AFTRA riders, NO FAKES Act compliance, likeness caps       |) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 533.5 Td (|  3. Director                       | Creative storytelling, lens continuity, performance integrity  |) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 524.0 Td (|  4. 1st Assistant Director \(1st AD\)| On-set operational tempo, IATSE meal penalties, safety clocks  |) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 514.5 Td (|  5. Lead DIT / Cinematographer \(DP\)| ACEScg color pipeline, camera sync, false color exposure, C2PA |) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 505.0 Td (|  6. Picture Editor / Lead Post     | OTIO conforms, 24fps audio lock, optical VFX pull verification |) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 495.5 Td (|  7. VFX Supervisor / Virtual Prod  | Digital doubles, neural inpainting, lens distortion profiles   |) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 486.0 Td (|  8. VP of International Distrib.   | 190-country day-and-date theatrical delivery, Spherex ratings  |) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 476.5 Td (+---------------------------------------------------------------------------------------------------+) Tj ET
+BT /F2 10.5 Tf 0.18 0.3 0.5 rg 48 453.0 Td (Role 1: Studio Head / Executive Producer \(The Visionary & Financial Fiduciary\)) Tj ET
+0.75 0.8 0.9 RG 0.5 w 48 450.0 m 564 450.0 l S
+BT /F2 9.5 Tf 0.15 0.2 0.3 rg 48 432.0 Td (Role Mandate & Operational Responsibilities) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 48 419.0 Td (The Studio Head and Executive Producers manage the macroeconomic health of the production. They are) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 48 407.0 Td (responsible for keeping a \\$200M picture on schedule and on budget, ensuring compliance with parent) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 48 395.0 Td (studio covenants \(e.g., Paramount Global, Warner Bros. Discovery\), authorizing massive contingent) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 48 383.0 Td (payouts, and safeguarding the studio against catastrophic copyright or breach-of-contract lawsuits.) Tj ET
+BT /F2 9.5 Tf 0.15 0.2 0.3 rg 48 361.0 Td (Real-Life Production Nightmares) Tj ET
+0.2 0.4 0.8 rg 52 350.0 3 3 re f
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 348.0 Td (The \\$12 Million Late Reshoot: Principal photography wraps in Budapest. Three months later during test) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 336.0 Td (screenings in Burbank, legal discovers that an uncredited background extra signed an outdated release) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 324.0 Td (form that did not permit worldwide theatrical exploitation. Because the actor's face is prominent in) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 312.0 Td (five key emotional scenes, the studio is forced to spend \\$12 million re-assembling the cast, crew,) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 300.0 Td (and lighting stages for emergency reshoots.) Tj ET
+0.2 0.4 0.8 rg 52 288.0 3 3 re f
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 286.0 Td (Overlapping VFX Budget Blowouts: The production greenlights 1,400 visual effects shots. Because) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 274.0 Td (editorial and VFX work in disconnected databases, 200 shots are rendered to final photorealism by) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 262.0 Td (vendors in Montreal only to be cut from the final theatrical edit by the director two weeks later.) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 250.0 Td (\\$4.2 million in rendering and artist fees are instantly vaporized.) Tj ET
+BT /F2 9.5 Tf 0.15 0.2 0.3 rg 48 230.0 Td (How They Work in Legacy Platforms) Tj ET
+0.2 0.4 0.8 rg 52 219.0 3 3 re f
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 217.0 Td (Fragmented PDF Cost Reports: Producers receive weekly 80-page PDF "Cost-to-Complete" reports generated) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 205.0 Td (from Movie Magic Budgeting and SAP. These documents are already 5 to 7 days out of date when received.) Tj ET
+0.2 0.4 0.8 rg 52 193.0 3 3 re f
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 191.0 Td (Email & Phone Panic: To find out why Day 24 went 3 hours over schedule, the producer must call the) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 179.0 Td (Line Producer or exchange frantic emails with the Unit Production Manager \(UPM\).) Tj ET
+BT /F2 9.5 Tf 0.15 0.2 0.3 rg 48 159.0 Td (How They Use CINE-SYNAPSE) Tj ET
+0.2 0.4 0.8 rg 52 148.0 3 3 re f
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 146.0 Td (1. Access Screen 1 \(Production Graph\): Opens the macro view to inspect real-time production velocity,) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 134.0 Td (total frame count ingested, budget burn rate, and cross-departmental alignment.) Tj ET
+0.2 0.4 0.8 rg 52 122.0 3 3 re f
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 120.0 Td (2. Execute 5-Dimensional Consensus Simulation: Clicks the "Simulate 5D Consensus" button to) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 108.0 Td (stress-test the production graph against unforeseen budget shocks, schedule shifts, or legal) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 96.0 Td (injunctions.) Tj ET
+0.2 0.4 0.8 rg 52 84.0 3 3 re f
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 82.0 Td (3. Query the AI Studio Copilot \(Screen 7\): Types or speaks natural language queries:) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 48 68.0 Td (- *"What is our current financial liability for SAG-AFTRA likeness extensions across all cast members?"*) Tj ET
+endstream
+endobj
+13 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R >> >> /Contents 12 0 R >>
+endobj
+14 0 obj
+<< /Length 6998 >>
+stream
+0.2 0.25 0.35 RG 0.75 w
+48 752 m 564 752 l S
+BT /F2 8 Tf 0.3 0.35 0.45 rg 48 757 Td (CINE-SYNAPSE: Production Onboarding & 8-Role Playbook) Tj ET
+BT /F1 8 Tf 0.4 0.45 0.55 rg 380 757 Td (ClickHouse Track | Google Cloud Hackathon 202) Tj ET
+0.75 0.75 0.8 RG 0.5 w
+48 42 m 564 42 l S
+BT /F1 8 Tf 0.4 0.4 0.45 rg 524 30 Td (Page 5) Tj ET
+BT /F1 8 Tf 0.4 0.4 0.45 rg 48 30 Td (CINE-SYNAPSE Studio OS ? Production Playbook v2.0 Enterprise) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 48 725 Td (- *"List all VFX shots currently in progress that touch scenes modified in the latest editorial) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 48 713 Td (conform."*) Tj ET
+0.2 0.4 0.8 rg 52 699 3 3 re f
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 697 Td (4. Host Executive War Room Sessions \(Screen 8\): Joins encrypted TPN+ Level 3 huddles with legal and) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 685 Td (post heads to approve budget variances in real time with hardware-burned forensic watermarks.) Tj ET
+BT /F2 9.5 Tf 0.15 0.2 0.3 rg 48 665 Td (Realistic Production Scenarios) Tj ET
+0.2 0.4 0.8 rg 52 654 3 3 re f
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 652 Td (Scenario A \(Nominal\): The Executive Producer reviews the daily wrap report at 20:00. The Production) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 640 Td (Graph shows 1,420 frames ingested, 100% C2PA hardware verification, 0 union meal penalties, and SAG) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 628 Td (likeness usage at 58.5s of 60.0s authorized. The producer clicks "Acknowledge Daily Gate" and the) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 616 Td (daily telemetry is committed to ClickHouse.) Tj ET
+0.2 0.4 0.8 rg 52 604 3 3 re f
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 602 Td (Scenario B \(Crisis / Audit\): Editorial extends an intense car chase sequence featuring Marcus Vance's) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 590 Td (digital double, pushing total likeness usage to 73.5 seconds \(13.5 seconds over the cap\). The system) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 578 Td (immediately flashes a crimson overage banner. The Executive Producer receives a high-priority alert.) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 566 Td (In Screen 3, they inspect the financial impact \(\\$20,250 overage fee\), review the legal rider, and) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 554 Td (click "Extend Seconds \(+15s\)" to authorize the variance before VFX vendors begin rendering.) Tj ET
+BT /F2 9.5 Tf 0.15 0.2 0.3 rg 48 534 Td (Testing Resources & Sample Files) Tj ET
+0.2 0.4 0.8 rg 52 523 3 3 re f
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 521 Td (Asset: OpenTimelineIO master cut \(sample_assets/chrono_reel01.otio\)) Tj ET
+0.2 0.4 0.8 rg 52 509 3 3 re f
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 507 Td (Test Verification: Navigate to Screen 1, trigger the 5D Consensus simulation, and verify that all five) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 495 Td (departmental nodes report sub-200ms latency and 100% consensus convergence.) Tj ET
+BT /F2 10.5 Tf 0.18 0.3 0.5 rg 48 473 Td (Role 2: Production Legal Counsel / Entertainment Attorney \(The Compliance & Rights Gatekeeper\)) Tj ET
+0.75 0.8 0.9 RG 0.5 w 48 470 m 564 470 l S
+BT /F2 9.5 Tf 0.15 0.2 0.3 rg 48 452 Td (Role Mandate & Operational Responsibilities) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 48 439 Td (Entertainment attorneys and studio legal counsel ensure that every frame of captured footage complies) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 48 427 Td (with state, federal, and international law. With the passage of the Federal NO FAKES Act of 2026 and the) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 48 415 Td (2023?2026 SAG-AFTRA Agreement, legal counsel must guarantee that no actor's voice, face, or digital) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 48 403 Td (likeness is replicated using generative AI without clear, cryptographically verifiable, and uncoerced) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 48 391 Td (statutory consent.) Tj ET
+BT /F2 9.5 Tf 0.15 0.2 0.3 rg 48 369 Td (Real-Life Production Nightmares) Tj ET
+0.2 0.4 0.8 rg 52 358 3 3 re f
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 356 Td (Federal NO FAKES Act Injunction: A rogue visual effects subcontractor uses an in-house generative) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 344 Td (adversarial network \(GAN\) to touch up a stunt double's face to match the lead actor's appearance) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 332 Td (during a high-speed motorcycle jump. Because statutory written consent was not executed prior to) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 320 Td (rendering, the actor's representation files a federal injunction under 17 U.S.C. Section 1301. The) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 308 Td (court issues a temporary restraining order \(TRO\) halting the film's marketing campaign and theatrical) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 296 Td (release 10 days before the world premiere.) Tj ET
+BT /F2 9.5 Tf 0.15 0.2 0.3 rg 48 276 Td (How They Work in Legacy Platforms) Tj ET
+0.2 0.4 0.8 rg 52 265 3 3 re f
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 263 Td (Paper Filing Cabinets & DocuSign Silos: Attorneys store actor contracts, riders, and day-player) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 251 Td (releases across disjointed cloud storage drives and email threads.) Tj ET
+0.2 0.4 0.8 rg 52 239 3 3 re f
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 237 Td (Manual Visual Auditing: When a rough cut is delivered, junior attorneys must manually scrub through) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 225 Td (hundreds of hours of footage with a stopwatch, attempting to tally every second a digital replica) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 213 Td (appears on screen.) Tj ET
+BT /F2 9.5 Tf 0.15 0.2 0.3 rg 48 193 Td (How They Use CINE-SYNAPSE) Tj ET
+0.2 0.4 0.8 rg 52 182 3 3 re f
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 180 Td (1. Access Screen 3 \(SAG Likeness Ledger\): Views real-time contractual ledgers for all performers. The) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 168 Td (screen displays total contracted seconds, accrued seconds used in the current editorial cut, overage) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 156 Td (rates, and NO FAKES Act statutory compliance badges.) Tj ET
+0.2 0.4 0.8 rg 52 144 3 3 re f
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 142 Td (2. Inspect Cryptographic Provenance: Clicks "Audit Contract" on any performer to view their KMS public) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 130 Td (key ID, SHA-256 consent digest, and C2PA root of trust.) Tj ET
+0.2 0.4 0.8 rg 52 118 3 3 re f
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 116 Td (3. Execute Likeness Extensions: When post-production requests additional synthetic seconds, counsel) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 104 Td (reviews the business terms and clicks "Extend Seconds \(+15s\)" to authorize the transaction. The ledger) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 92 Td (automatically logs the approval with an immutable ClickHouse timestamp.) Tj ET
+0.2 0.4 0.8 rg 52 80 3 3 re f
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 78 Td (4. Add New Talent Riders: Uses the "Add Performer Rider" modal to onboard day players, stunt doubles,) Tj ET
+endstream
+endobj
+15 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R >> >> /Contents 14 0 R >>
+endobj
+16 0 obj
+<< /Length 6996 >>
+stream
+0.2 0.25 0.35 RG 0.75 w
+48 752 m 564 752 l S
+BT /F2 8 Tf 0.3 0.35 0.45 rg 48 757 Td (CINE-SYNAPSE: Production Onboarding & 8-Role Playbook) Tj ET
+BT /F1 8 Tf 0.4 0.45 0.55 rg 380 757 Td (ClickHouse Track | Google Cloud Hackathon 202) Tj ET
+0.75 0.75 0.8 RG 0.5 w
+48 42 m 564 42 l S
+BT /F1 8 Tf 0.4 0.4 0.45 rg 524 30 Td (Page 6) Tj ET
+BT /F1 8 Tf 0.4 0.4 0.45 rg 48 30 Td (CINE-SYNAPSE Studio OS ? Production Playbook v2.0 Enterprise) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 725 Td (and voice actors directly into the active production graph.) Tj ET
+BT /F2 9.5 Tf 0.15 0.2 0.3 rg 48 705 Td (Realistic Production Scenarios) Tj ET
+0.2 0.4 0.8 rg 52 694 3 3 re f
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 692 Td (Scenario A \(Nominal\): Legal counsel inspects the daily ledger. Marcus Vance's digital replica has) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 680 Td (accrued 58.5s against a 60.0s cap. Consent is cryptographically verified under 17 U.S.C. Section 1301) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 668 Td (with expiry in December 2027. Status displays "APPROVED / COMPLIANT".) Tj ET
+0.2 0.4 0.8 rg 52 656 3 3 re f
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 654 Td (Scenario B \(Crisis / Audit\): An editor imports an unapproved VFX plate where a secondary actor's face) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 642 Td (was synthetically transferred onto a stunt body without an executed Schedule A rider. ClickHouse) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 630 Td (immediately triggers a hard render block \(UNAUTHORIZED_DIGITAL_REPLICA_BREACH\). Counsel receives an) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 618 Td (emergency alert, inspects the clip in Screen 6, contacts the actor's talent agency via the Screen 8) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 606 Td (War Room, uploads the executed rider, and clears the freeze.) Tj ET
+BT /F2 9.5 Tf 0.15 0.2 0.3 rg 48 586 Td (Testing Resources & Sample Files) Tj ET
+0.2 0.4 0.8 rg 52 575 3 3 re f
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 573 Td (Asset: SAG-AFTRA Rider JSON \(sample_assets/sag_aftra_schedule_a_rider.json\)) Tj ET
+0.2 0.4 0.8 rg 52 561 3 3 re f
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 559 Td (Test Verification: In Screen 3, click "Extend Seconds \(+15s\)" on Marcus Vance. Verify that authorized) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 547 Td (seconds increase from 60.0s to 75.0s, total cost updates by +$22,500.00, and ClickHouse records the) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 535 Td (mutation.) Tj ET
+BT /F2 10.5 Tf 0.18 0.3 0.5 rg 48 513 Td (Role 3: Director \(The Creative General & Storyteller\)) Tj ET
+0.75 0.8 0.9 RG 0.5 w 48 510 m 564 510 l S
+BT /F2 9.5 Tf 0.15 0.2 0.3 rg 48 492 Td (Role Mandate & Operational Responsibilities) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 48 479 Td (The Director holds ultimate creative responsibility for the motion picture. Their mandate is to realize) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 48 467 Td (the emotional, dramatic, and visual vision of the script. On set, they direct actors, collaborate with) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 48 455 Td (the DP on camera blocking and lighting, select takes, and ensure that visual continuity and narrative) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 48 443 Td (pacing remain unbroken across months of non-linear shooting schedules.) Tj ET
+BT /F2 9.5 Tf 0.15 0.2 0.3 rg 48 421 Td (Real-Life Production Nightmares) Tj ET
+0.2 0.4 0.8 rg 52 410 3 3 re f
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 408 Td (The Disastrous Prop Discontinuity: Scene 42B is a critical confrontation between two lead characters) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 396 Td (in a rain-slicked neon alley. Take 3 \(the master two-shot\) was filmed on Stage 4 in October. Take 7) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 384 Td (\(the tight close-up of the protagonist\) is filmed on Stage 2 three weeks later in November. During) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 372 Td (color timing in post, the director notices that in the master shot the whiskey glass on the table is) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 360 Td (40% full, but in the close-up it is 80% full with fresh ice. The continuity break destroys the) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 348 Td (emotional intensity of the scene. Re-shooting is impossible because the set has been struck. The) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 336 Td (studio must pay \\$85,000 for VFX rotoscoping and fluid replacement.) Tj ET
+BT /F2 9.5 Tf 0.15 0.2 0.3 rg 48 316 Td (How They Work in Legacy Platforms) Tj ET
+0.2 0.4 0.8 rg 52 305 3 3 re f
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 303 Td (Paper Continuity Binders: The Script Supervisor sits next to the director with a paper binder full of) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 291 Td (Polaroids and hand-written stopwatch notes. In the rush of a 14-hour shooting day, details slip) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 279 Td (through the cracks.) Tj ET
+0.2 0.4 0.8 rg 52 267 3 3 re f
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 265 Td (Slow Playback Scrubbing: Reviewing past takes requires the director to walk over to the video village) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 253 Td (cart, ask the playback operator to find the right digital file, and wait 3 to 5 minutes while the tape) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 241 Td (or drive is cued.) Tj ET
+BT /F2 9.5 Tf 0.15 0.2 0.3 rg 48 221 Td (How They Use CINE-SYNAPSE) Tj ET
+0.2 0.4 0.8 rg 52 210 3 3 re f
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 208 Td (1. Access Screen 2 \(On-Set Camera Sentry\): Monitors live camera feeds with interactive 2.39:1 scope) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 196 Td (guides, SMPTE timecode clocks, and False Color exposure heatmaps.) Tj ET
+0.2 0.4 0.8 rg 52 184 3 3 re f
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 182 Td (2. Review Meniscus Continuity: When shooting reverse angles or follow-up takes, clicks "Compare) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 170 Td (Meniscus Stills" to open an automated computer vision comparison between the current live frame and) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 158 Td (the master take. If prop fill levels or wardrobe states deviate by more than 15%, an amber delta alert) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 146 Td (appears on screen.) Tj ET
+0.2 0.4 0.8 rg 52 134 3 3 re f
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 132 Td (3. Use the Timecoded Voice Scratchpad \(Screen 7\): Taps the microphone icon during playback and speaks:) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 120 Td (*"Note for editor: print Take 4 for performance, but splice in the opening camera pan from Take 2."*) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 108 Td (Gemini automatically transcribes the memo, tags the SMPTE frame, and inserts a marker into the master) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 96 Td (OpenTimelineIO sequence.) Tj ET
+0.2 0.4 0.8 rg 52 84 3 3 re f
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 82 Td (4. Compare Visual Looks in the Look Library \(Screen 7\): Uses the A/B split-screen wipe to compare the) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 70 Td (live grade against the reference look created during pre-production.) Tj ET
+endstream
+endobj
+17 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R >> >> /Contents 16 0 R >>
+endobj
+18 0 obj
+<< /Length 7190 >>
+stream
+0.2 0.25 0.35 RG 0.75 w
+48 752 m 564 752 l S
+BT /F2 8 Tf 0.3 0.35 0.45 rg 48 757 Td (CINE-SYNAPSE: Production Onboarding & 8-Role Playbook) Tj ET
+BT /F1 8 Tf 0.4 0.45 0.55 rg 380 757 Td (ClickHouse Track | Google Cloud Hackathon 202) Tj ET
+0.75 0.75 0.8 RG 0.5 w
+48 42 m 564 42 l S
+BT /F1 8 Tf 0.4 0.4 0.45 rg 524 30 Td (Page 7) Tj ET
+BT /F1 8 Tf 0.4 0.4 0.45 rg 48 30 Td (CINE-SYNAPSE Studio OS ? Production Playbook v2.0 Enterprise) Tj ET
+BT /F2 9.5 Tf 0.15 0.2 0.3 rg 48 719 Td (Realistic Production Scenarios) Tj ET
+0.2 0.4 0.8 rg 52 708 3 3 re f
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 706 Td (Scenario A \(Nominal\): Director wraps Scene 42A and moves to Scene 42B. The On-Set Sentry confirms that) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 694 Td (Camera A \(Cooke Anamorphic 40mm\) matches the optical distortion profile of Scene 42A. The director) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 682 Td (records two voice memos on Screen 7, marks Take 4 as the circle take, and proceeds to the next setup.) Tj ET
+0.2 0.4 0.8 rg 52 670 3 3 re f
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 668 Td (Scenario B \(Crisis / Audit\): The props master refills the actor's whiskey glass between takes. Before) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 656 Td (rolling Camera A on Take 4, the Meniscus CV sentry detects an 18.5% liquid level deviation compared to) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 644 Td (the reference frame in Take 1. An alert flashes on the director's monitor. The director pauses the) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 632 Td (roll, instructs the prop assistant to siphon 30ml of liquid to match the 42% waterline, and avoids an) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 620 Td (expensive VFX fix in post.) Tj ET
+BT /F2 9.5 Tf 0.15 0.2 0.3 rg 48 600 Td (Testing Resources & Sample Files) Tj ET
+0.2 0.4 0.8 rg 52 589 3 3 re f
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 587 Td (Asset: Script Breakdown & Continuity Notes \(sample_assets/chrono_script_breakdown.txt\)) Tj ET
+0.2 0.4 0.8 rg 52 575 3 3 re f
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 573 Td (Test Verification: In Screen 2, click "Compare Meniscus Stills" and verify that Take 3 \(Reference 42%) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 561 Td (waterline\) and Take 4 \(Current 60.5% waterline\) render with a red 18.5% delta warning flag.) Tj ET
+BT /F2 10.5 Tf 0.18 0.3 0.5 rg 48 539 Td (Role 4: 1st Assistant Director / 1st AD \(The On-Set General & Operational Drillmaster\)) Tj ET
+0.75 0.8 0.9 RG 0.5 w 48 536 m 564 536 l S
+BT /F2 9.5 Tf 0.15 0.2 0.3 rg 48 518 Td (Role Mandate & Operational Responsibilities) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 48 505 Td (The 1st Assistant Director is the chief operating officer of the movie set. Their sole mission is to run) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 48 493 Td (the shooting schedule, enforce cast and crew safety protocols, manage background extras, and ensure that) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 48 481 Td (the production adheres strictly to union labor rules established by the International Alliance of) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 48 469 Td (Theatrical Stage Employees \(IATSE\), the Directors Guild of America \(DGA\), and Teamsters Local 399.) Tj ET
+BT /F2 9.5 Tf 0.15 0.2 0.3 rg 48 447 Td (Real-Life Production Nightmares) Tj ET
+0.2 0.4 0.8 rg 52 436 3 3 re f
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 434 Td (The \\$150,000 Meal Penalty Cascading Catastrophe: Under the IATSE Basic Agreement, crew members must) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 422 Td (be provided a meal break within 6 hours of their initial call time. If the company works past 6 hours) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 410 Td (without calling a meal, penalties accrue at escalating rates per crew member for every 30 minutes of) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 398 Td (delay. During an intricate night exterior stunt with rain towers and 250 crew members, the director) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 386 Td (demands "one last take." The 1st AD loses track of the exact call time by 18 minutes. The entire) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 374 Td (250-person crew enters triple-tier penalty status, costing the production \\$157,500 in unbudgeted) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 362 Td (union fines in a single evening.) Tj ET
+BT /F2 9.5 Tf 0.15 0.2 0.3 rg 48 342 Td (How They Work in Legacy Platforms) Tj ET
+0.2 0.4 0.8 rg 52 331 3 3 re f
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 329 Td (Paper Call Sheets & Mechanical Stopwatches: The 1st AD wears two physical stopwatches around their) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 317 Td (neck and checks a crumpled paper call sheet tucked into their back pocket.) Tj ET
+0.2 0.4 0.8 rg 52 305 3 3 re f
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 303 Td (Radio Shoutouts: The 1st AD repeatedly yells over Motorola walkie-talkie Channel 1: *"How many minutes) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 291 Td (until meal penalty?"* Catering is frequently caught off guard when wrap is called unexpectedly.) Tj ET
+BT /F2 9.5 Tf 0.15 0.2 0.3 rg 48 271 Td (How They Use CINE-SYNAPSE) Tj ET
+0.2 0.4 0.8 rg 52 260 3 3 re f
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 258 Td (1. Monitor Screen 2 \(On-Set Camera Sentry\): Watches the live IATSE Meal Penalty Countdown Clock. The) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 246 Td (clock counts down to the exact second when the 6-hour work period expires.) Tj ET
+0.2 0.4 0.8 rg 52 234 3 3 re f
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 232 Td (2. Trigger Grace Period Remediations: When the clock drops below 15 minutes, the banner turns amber.) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 220 Td (The 1st AD can assess whether to call a 12-minute meal grace period \(if camera is actively rolling\) or) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 208 Td (immediately call wrap.) Tj ET
+0.2 0.4 0.8 rg 52 196 3 3 re f
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 194 Td (3. Execute "Call Catering Wrap": Clicks the crimson "Call Catering Wrap" button on Screen 2. This) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 182 Td (immediately caps financial exposure, resets the penalty accrual counter, and automatically broadcasts) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 170 Td (a webhook alert to catering and production management.) Tj ET
+0.2 0.4 0.8 rg 52 158 3 3 re f
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 156 Td (4. Dispatch Cross-Departmental Alerts \(Screen 7\): Uses the Slack/Teams bridge to broadcast instant) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 144 Td (company-wide updates to #chrono-stage4-catering and #first-ad-logistics.) Tj ET
+BT /F2 9.5 Tf 0.15 0.2 0.3 rg 48 124 Td (Realistic Production Scenarios) Tj ET
+0.2 0.4 0.8 rg 52 113 3 3 re f
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 111 Td (Scenario A \(Nominal\): At 12:45, the IATSE clock indicates 45 minutes remaining until the first meal) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 99 Td (break. The 1st AD assesses the current lighting setup, announces "Two more takes before lunch," and) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 87 Td (successfully calls catering wrap at 13:15 with 15 minutes to spare. Financial penalty: \\$0.00.) Tj ET
+0.2 0.4 0.8 rg 52 75 3 3 re f
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 73 Td (Scenario B \(Crisis / Audit\): The director is in the middle of an emotional take at 13:22. The meal) Tj ET
+endstream
+endobj
+19 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R >> >> /Contents 18 0 R >>
+endobj
+20 0 obj
+<< /Length 7142 >>
+stream
+0.2 0.25 0.35 RG 0.75 w
+48 752 m 564 752 l S
+BT /F2 8 Tf 0.3 0.35 0.45 rg 48 757 Td (CINE-SYNAPSE: Production Onboarding & 8-Role Playbook) Tj ET
+BT /F1 8 Tf 0.4 0.45 0.55 rg 380 757 Td (ClickHouse Track | Google Cloud Hackathon 202) Tj ET
+0.75 0.75 0.8 RG 0.5 w
+48 42 m 564 42 l S
+BT /F1 8 Tf 0.4 0.4 0.45 rg 524 30 Td (Page 8) Tj ET
+BT /F1 8 Tf 0.4 0.4 0.45 rg 48 30 Td (CINE-SYNAPSE Studio OS ? Production Playbook v2.0 Enterprise) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 725 Td (penalty clock breaches the 00:00 threshold and begins counting into the red \(PENALTY ACCRUING:) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 713 Td (+00:04:12, financial exposure \\$1,420.00\). The 1st AD taps "Call Catering Wrap" on Screen 2. The) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 701 Td (platform instantly records the wrap timecode, logs the exact penalty amount into ClickHouse for) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 689 Td (payroll reconciliation, and notifies catering that the crew is standing down.) Tj ET
+BT /F2 9.5 Tf 0.15 0.2 0.3 rg 48 669 Td (Testing Resources & Sample Files) Tj ET
+0.2 0.4 0.8 rg 52 658 3 3 re f
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 656 Td (Asset: Automated Sentry Pytest Suite \(backend/tests/test_sentries.py::test_meal_penalty_breached\)) Tj ET
+0.2 0.4 0.8 rg 52 644 3 3 re f
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 642 Td (Test Verification: In Screen 2, inspect the IATSE meal penalty module, verify countdown status, click) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 630 Td ("Call Catering Wrap", and verify that the timer locks and status switches to "WRAP CALLED".) Tj ET
+BT /F2 10.5 Tf 0.18 0.3 0.5 rg 48 608 Td (Role 5: Lead DIT / Director of Photography \(The Visual Engineers & Color Custodians\)) Tj ET
+0.75 0.8 0.9 RG 0.5 w 48 605 m 564 605 l S
+BT /F2 9.5 Tf 0.15 0.2 0.3 rg 48 587 Td (Role Mandate & Operational Responsibilities) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 48 574 Td (The Director of Photography \(DP\) designs the lighting, camera movement, and visual grammar of the film.) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 48 562 Td (The Digital Imaging Technician \(DIT\) works alongside the DP at the DIT cart on set, acting as the bridge) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 48 550 Td (between camera capture and post-production. They calibrate reference OLED monitors, manage on-set live) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 48 538 Td (grades using ASC CDL \(Color Decision Lists\), verify sensor exposure using False Color IRE, check lens) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 48 526 Td (distortion profiles, and ensure that digital negative files are securely ingested without bit rot or) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 48 514 Td (metadata loss.) Tj ET
+BT /F2 9.5 Tf 0.15 0.2 0.3 rg 48 492 Td (Real-Life Production Nightmares) Tj ET
+0.2 0.4 0.8 rg 52 481 3 3 re f
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 479 Td (The Fatal 23.976 fps vs. 24.000 fps Audio Drift: A second-unit B-camera is shipped in from a local) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 467 Td (rental house for a multi-camera stunt sequence. The camera operator mistakenly leaves the internal) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 455 Td (project rate set to 23.976 fps \(NTSC fractional standard\) while primary Camera A and the Sound Devices) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 443 Td (sound recorder are set to 24.000 fps true cinema. Because the DIT does not have an automated ingest) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 431 Td (sentry, the mistake is unnoticed on set. Three weeks later in editorial, the dialogue begins drifting) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 419 Td (out of sync with the actor's lips at a rate of 1 frame every 41.7 seconds \(86.4 frames per hour\).) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 407 Td (Fixing the drift across 40 hours of multi-cam footage requires manual audio elastic-time stretching) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 395 Td (that costs \\$180,000 in editorial overtime.) Tj ET
+BT /F2 9.5 Tf 0.15 0.2 0.3 rg 48 375 Td (How They Work in Legacy Platforms) Tj ET
+0.2 0.4 0.8 rg 52 364 3 3 re f
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 362 Td (Manual Silverstack Offloading: The DIT runs Pomfort Silverstack or ShotPut Pro on a Mac Studio,) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 350 Td (verifying MD5/xxHash checksums onto local RAID drives.) Tj ET
+0.2 0.4 0.8 rg 52 338 3 3 re f
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 336 Td (Isolated LiveGrade Setups: Color corrections are adjusted inside Pomfort LiveGrade and exported as) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 324 Td (.cdl files onto USB thumb drives to be handed to the dailies colorist at the end of the night.) Tj ET
+0.2 0.4 0.8 rg 52 312 3 3 re f
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 310 Td (No Real-Time Provenance: There is no cryptographically signed mechanism to verify that an uploaded) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 298 Td (camera file originated from an authentic ARRI or RED camera sensor rather than an AI-manipulated) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 286 Td (deepfake.) Tj ET
+BT /F2 9.5 Tf 0.15 0.2 0.3 rg 48 266 Td (How They Use CINE-SYNAPSE) Tj ET
+0.2 0.4 0.8 rg 52 255 3 3 re f
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 253 Td (1. Monitor Screen 2 \(On-Set Camera Sentry\): Inspects incoming camera streams for frame rate) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 241 Td (synchronization, audio timecode lock, and C2PA cryptographic hardware verification.) Tj ET
+0.2 0.4 0.8 rg 52 229 3 3 re f
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 227 Td (2. Remediate Fractional Timecode Drift: If a camera feed registers a 23.976 fps mismatch, the sentry) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 215 Td (flashes a crimson alert: TIMECODE DRIFT DETECTED \(-0.1% NTSC PULL-DOWN\). The DIT clicks "Apply 0.1%) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 203 Td (Audio Pull-Up" to resample audio and lock timecodes in real time.) Tj ET
+0.2 0.4 0.8 rg 52 191 3 3 re f
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 189 Td (3. Verify Lens Metadata & False Color: Inspects Cooke /i lens telemetry \(focal length, T-stop, focus) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 177 Td (distance in meters\) and toggles the False Color IRE overlay to verify exposure ratios.) Tj ET
+0.2 0.4 0.8 rg 52 165 3 3 re f
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 163 Td (4. Calibrate Color Grades in Look Library \(Screen 7\): Manipulates interactive ASC CDL sliders \(Slope,) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 151 Td (Offset, Power, Saturation\) in the Look Library A/B comparator, matching live shots against pre-graded) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 139 Td (reference looks.) Tj ET
+BT /F2 9.5 Tf 0.15 0.2 0.3 rg 48 119 Td (Realistic Production Scenarios) Tj ET
+0.2 0.4 0.8 rg 52 108 3 3 re f
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 106 Td (Scenario A \(Nominal\): Camera A \(ARRI Alexa 35\) rolls on Scene 42B Take 4. Incoming stream registers) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 94 Td (24.000 fps, audio locked at 0.000ms delta, Cooke /i 40mm T/2.0 anamorphic lens confirmed, C2PA) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 82 Td (manifest signed by ARRI hardware root certificate. Sentry banner displays bright green: TIMECODE) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 70 Td (LOCKED \(24.000 FPS\).) Tj ET
+endstream
+endobj
+21 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R >> >> /Contents 20 0 R >>
+endobj
+22 0 obj
+<< /Length 6649 >>
+stream
+0.2 0.25 0.35 RG 0.75 w
+48 752 m 564 752 l S
+BT /F2 8 Tf 0.3 0.35 0.45 rg 48 757 Td (CINE-SYNAPSE: Production Onboarding & 8-Role Playbook) Tj ET
+BT /F1 8 Tf 0.4 0.45 0.55 rg 380 757 Td (ClickHouse Track | Google Cloud Hackathon 202) Tj ET
+0.75 0.75 0.8 RG 0.5 w
+48 42 m 564 42 l S
+BT /F1 8 Tf 0.4 0.4 0.45 rg 524 30 Td (Page 9) Tj ET
+BT /F1 8 Tf 0.4 0.4 0.45 rg 48 30 Td (CINE-SYNAPSE Studio OS ? Production Playbook v2.0 Enterprise) Tj ET
+0.2 0.4 0.8 rg 52 727 3 3 re f
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 725 Td (Scenario B \(Crisis / Audit\): B-camera feed arrives with a 23.976 fps fractional pull-down. Timecode) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 713 Td (drift indicator turns crimson \(DRIFT: +1.0010x\). The DIT clicks "Apply 0.1% Audio Pull-Up". The) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 701 Td (platform executes an automated audio resample calculation, locks the audio track to the video) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 689 Td (timeline, and sends a notification to editorial that Take 4 has been synchronized at source.) Tj ET
+BT /F2 9.5 Tf 0.15 0.2 0.3 rg 48 669 Td (Testing Resources & Sample Files) Tj ET
+0.2 0.4 0.8 rg 52 658 3 3 re f
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 656 Td (Asset: C2PA Camera Manifest \(sample_assets/c2pa_camera_manifest.json\)) Tj ET
+0.2 0.4 0.8 rg 52 644 3 3 re f
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 642 Td (Asset: ASC CDL Look Grade \(sample_assets/scene42b_look_grade.cdl\)) Tj ET
+0.2 0.4 0.8 rg 52 630 3 3 re f
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 628 Td (Test Verification: In Screen 2, click "Apply 0.1% Audio Pull-Up", verify banner switches to green) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 616 Td ("Timecode Locked \(24.000 fps\)", and inspect CDL sliders in Screen 7.) Tj ET
+BT /F2 10.5 Tf 0.18 0.3 0.5 rg 48 594 Td (Role 6: Picture Editor / Lead Post-Production Editor \(The Assembly Master & Temporal Architect\)) Tj ET
+0.75 0.8 0.9 RG 0.5 w 48 591 m 564 591 l S
+BT /F2 9.5 Tf 0.15 0.2 0.3 rg 48 573 Td (Role Mandate & Operational Responsibilities) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 48 560 Td (The Lead Picture Editor shapes the raw footage into a compelling cinematic narrative. Working in an Avid) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 48 548 Td (Media Composer or Apple Final Cut Pro suite, they assemble scenes, craft the pacing of performances,) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 48 536 Td (select the best takes, and build the initial audio soundscape. Once the picture is locked, they generate) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 48 524 Td (conform lists \(EDL, XML, OpenTimelineIO\) to turn over editorial cuts to the sound, color grading, and) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 48 512 Td (visual effects departments.) Tj ET
+BT /F2 9.5 Tf 0.15 0.2 0.3 rg 48 490 Td (Real-Life Production Nightmares) Tj ET
+0.2 0.4 0.8 rg 52 479 3 3 re f
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 477 Td (The "Phantom Frame" Conform Disaster: Editorial cuts Scene 14 using low-resolution ProRes Proxy) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 465 Td (offline files. When turning over the sequence to the DI \(Digital Intermediate\) colorist and VFX) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 453 Td (vendors via traditional EDL \(Edit Decision List\), an undetected 1-frame timecode rounding error on an) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 441 Td (optical dissolve causes 45 VFX shots to be pulled with a 1-frame offset. Every composite element,) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 429 Td (muzzle flash, and wire removal rendered by the VFX vendors is off-by-one, resulting in a \\$350,000) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 417 Td (re-render invoice.) Tj ET
+BT /F2 9.5 Tf 0.15 0.2 0.3 rg 48 397 Td (How They Work in Legacy Platforms) Tj ET
+0.2 0.4 0.8 rg 52 386 3 3 re f
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 384 Td (Ancient CMX 3600 EDL Files: Editors still rely on the 1980s-era CMX 3600 EDL format, which is limited) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 372 Td (to 8-character reel names, lacks support for complex multi-track audio, and completely strips all) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 360 Td (camera, lens, and color metadata.) Tj ET
+0.2 0.4 0.8 rg 52 348 3 3 re f
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 346 Td (Endless Conformance Slates: Assistant editors spend 40 hours per week manually conforming offline) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 334 Td (proxy edits to camera raw files, cross-referencing paper camera logs and sound reports line by line.) Tj ET
+BT /F2 9.5 Tf 0.15 0.2 0.3 rg 48 314 Td (How They Use CINE-SYNAPSE) Tj ET
+0.2 0.4 0.8 rg 52 303 3 3 re f
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 301 Td (1. Access Screen 6 \(Media Ingestion & Multi-Track Timeline Scrubber Hub\): Ingests and inspects complex) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 289 Td (timelines using the modern OpenTimelineIO \(.otio\) standard.) Tj ET
+0.2 0.4 0.8 rg 52 277 3 3 re f
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 275 Td (2. Interactive 24.000 fps Scrubber: Controls playback with standard J-K-L transport shortcuts, scrub) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 263 Td (bars, and advancing SMPTE timecode displays.) Tj ET
+0.2 0.4 0.8 rg 52 251 3 3 re f
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 249 Td (3. Clip Inspector Drawer: Clicks on any clip in the timeline track \(e.g., Scene42A_T01, Scene42B_T04,) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 237 Td (Inpaint_Billboard_VFX\) to reveal rich metadata:) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 48 223 Td (- Source raw clip name and reel ID) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 48 207 Td (- Cooke /i anamorphic focal length and T-stop) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 48 191 Td (- Master color space \(ACEScg\)) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 48 175 Td (- Accrued SAG-AFTRA likeness seconds) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 48 159 Td (- Associated C2PA cryptographic container hash) Tj ET
+0.2 0.4 0.8 rg 52 145 3 3 re f
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 143 Td (4. One-Click OTIO Export: Clicks "Export OTIO" to download a lossless, conformed timeline AST) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 131 Td (containing all lens, color, and legal metadata for immediate downstream turnover to DI and VFX.) Tj ET
+BT /F2 9.5 Tf 0.15 0.2 0.3 rg 48 111 Td (Realistic Production Scenarios) Tj ET
+0.2 0.4 0.8 rg 52 100 3 3 re f
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 98 Td (Scenario A \(Nominal\): Editor loads chrono_reel01_conform.otio. The timeline renders three video tracks) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 86 Td (\(V1 Raw Masters, V2 VFX Composites, V3 Legal Replacements\) and two audio tracks. Every clip links) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 74 Td (perfectly to its raw camera negative in the GCS vault. Timecode continuity is validated with zero) Tj ET
+endstream
+endobj
+23 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R >> >> /Contents 22 0 R >>
+endobj
+24 0 obj
+<< /Length 6714 >>
+stream
+0.2 0.25 0.35 RG 0.75 w
+48 752 m 564 752 l S
+BT /F2 8 Tf 0.3 0.35 0.45 rg 48 757 Td (CINE-SYNAPSE: Production Onboarding & 8-Role Playbook) Tj ET
+BT /F1 8 Tf 0.4 0.45 0.55 rg 380 757 Td (ClickHouse Track | Google Cloud Hackathon 202) Tj ET
+0.75 0.75 0.8 RG 0.5 w
+48 42 m 564 42 l S
+BT /F1 8 Tf 0.4 0.4 0.45 rg 524 30 Td (Page 10) Tj ET
+BT /F1 8 Tf 0.4 0.4 0.45 rg 48 30 Td (CINE-SYNAPSE Studio OS ? Production Playbook v2.0 Enterprise) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 725 Td (dropped frames.) Tj ET
+0.2 0.4 0.8 rg 52 713 3 3 re f
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 711 Td (Scenario B \(Crisis / Audit\): Editor imports an outdated Avid EDL \(chrono_scene42b.edl\) where Clip 002) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 699 Td (is flagged with TIMECODE_DRIFT_23_976. CINE-SYNAPSE highlights the clip in amber on the timeline) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 687 Td (track, identifies the missing lens metadata, and offers an automatic 1-click "Conform to Master OTIO") Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 675 Td (button that repairs the timecode base and links the clip back to its C2PA hardware manifest.) Tj ET
+BT /F2 9.5 Tf 0.15 0.2 0.3 rg 48 655 Td (Testing Resources & Sample Files) Tj ET
+0.2 0.4 0.8 rg 52 644 3 3 re f
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 642 Td (Asset: OpenTimelineIO Sequence \(sample_assets/chrono_reel01.otio\)) Tj ET
+0.2 0.4 0.8 rg 52 630 3 3 re f
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 628 Td (Asset: CMX 3600 EDL \(sample_assets/chrono_scene42b.edl\)) Tj ET
+0.2 0.4 0.8 rg 52 616 3 3 re f
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 614 Td (Test Verification: In Screen 6, click "Load chrono_reel01.otio", verify multi-track rendering, click) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 602 Td ("Play \(24fps\)", scrub to frame 01:00:15:00, and click "Export OTIO" to verify JSON payload download.) Tj ET
+BT /F2 10.5 Tf 0.18 0.3 0.5 rg 48 580 Td (Role 7: VFX Supervisor / Virtual Production Lead \(The Synthetic Reality Architect\)) Tj ET
+0.75 0.8 0.9 RG 0.5 w 48 577 m 564 577 l S
+BT /F2 9.5 Tf 0.15 0.2 0.3 rg 48 559 Td (Role Mandate & Operational Responsibilities) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 48 546 Td (The VFX Supervisor designs, oversees, and integrates all computer-generated imagery \(CGI\), virtual) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 48 534 Td (production LED volumes, digital doubles, and neural visual effects. They ensure that synthetic elements) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 48 522 Td (blend seamlessly with live-action plates in perspective, lighting, color gamut \(ACEScg\), and optical lens) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 48 510 Td (characteristics \(chromatic aberration, anamorphic bokeh, lens distortion grids\).) Tj ET
+BT /F2 9.5 Tf 0.15 0.2 0.3 rg 48 488 Td (Real-Life Production Nightmares) Tj ET
+0.2 0.4 0.8 rg 52 477 3 3 re f
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 475 Td (The Missing Anamorphic Lens Grid: Live-action plates for an alien invasion sequence are filmed using) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 463 Td (vintage anamorphic lenses. The camera crew neglects to shoot lens calibration distortion grids at) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 451 Td (wrap. When the visual effects vendor in London attempts to composite 3D spacecraft into the footage,) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 439 Td (the CG models do not track properly against the distorted edges of the frame. The vendor must spend 6) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 427 Td (weeks manually hand-tracking 80 shots at an emergency cost of \\$420,000.) Tj ET
+BT /F2 9.5 Tf 0.15 0.2 0.3 rg 48 407 Td (How They Work in Legacy Platforms) Tj ET
+0.2 0.4 0.8 rg 52 396 3 3 re f
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 394 Td (Siloed ShotGrid & Asana Boards: VFX coordinators manually copy cut lengths from editorial turnover) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 382 Td (emails into Autodesk Flow \(ShotGrid\).) Tj ET
+0.2 0.4 0.8 rg 52 370 3 3 re f
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 368 Td (FTP & Aspera Data Drops: Camera plates and EXR sequences are transferred via Aspera without automated) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 356 Td (validation of whether the plate includes authorized actor likeness seconds or complies with foreign) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 344 Td (censorship rules.) Tj ET
+BT /F2 9.5 Tf 0.15 0.2 0.3 rg 48 324 Td (How They Use CINE-SYNAPSE) Tj ET
+0.2 0.4 0.8 rg 52 313 3 3 re f
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 311 Td (1. Access Screen 4 \(Global Compliance & Inpaint Hub\): Inspects frames requiring regional content) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 299 Td (modification \(e.g., removing alcohol signage for Middle Eastern release\).) Tj ET
+0.2 0.4 0.8 rg 52 287 3 3 re f
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 285 Td (2. Before/After Inpaint Preview: Uses the interactive pixel crossfade slider to compare the raw) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 273 Td (live-action plate against the neural inpaint composite.) Tj ET
+0.2 0.4 0.8 rg 52 261 3 3 re f
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 259 Td (3. Dispatch Automated ShotGrid Tasks: Clicks "Dispatch Inpaint Task" to automatically create an) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 247 Td (enriched ticket in Autodesk Flow \(ShotGrid\) containing:) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 48 233 Td (- Precise SMPTE start and end timecode frames) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 48 217 Td (- Cooke /i anamorphic lens metadata \(40mm, focus distance 2.45m\)) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 48 201 Td (- ACEScg color profile) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 48 185 Td (- Spherex compliance rule reference \(e.g., GCAM Saudi Arabia alcohol ban\)) Tj ET
+0.2 0.4 0.8 rg 52 171 3 3 re f
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 169 Td (4. Monitor SAG Likeness Seconds \(Screen 3\): Checks real-time digital double usage against contractual) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 157 Td (limits before launching expensive high-resolution AI renders.) Tj ET
+BT /F2 9.5 Tf 0.15 0.2 0.3 rg 48 137 Td (Realistic Production Scenarios) Tj ET
+0.2 0.4 0.8 rg 52 126 3 3 re f
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 124 Td (Scenario A \(Nominal\): VFX Supervisor reviews Scene 42B Take 4. The Cooke /i lens interface has) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 112 Td (recorded exact per-frame focal length \(40.0mm\) and entrance pupil coordinates. The supervisor) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 100 Td (dispatches the plate to the CG vendor with full lens distortion parameters attached. First-pass 3D) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 88 Td (tracking achieves a 0.2-pixel residual error on the first attempt.) Tj ET
+0.2 0.4 0.8 rg 52 76 3 3 re f
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 74 Td (Scenario B \(Crisis / Audit\): An inpaint plate prepared for Singapore theatrical distribution) Tj ET
+endstream
+endobj
+25 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R >> >> /Contents 24 0 R >>
+endobj
+26 0 obj
+<< /Length 6813 >>
+stream
+0.2 0.25 0.35 RG 0.75 w
+48 752 m 564 752 l S
+BT /F2 8 Tf 0.3 0.35 0.45 rg 48 757 Td (CINE-SYNAPSE: Production Onboarding & 8-Role Playbook) Tj ET
+BT /F1 8 Tf 0.4 0.45 0.55 rg 380 757 Td (ClickHouse Track | Google Cloud Hackathon 202) Tj ET
+0.75 0.75 0.8 RG 0.5 w
+48 42 m 564 42 l S
+BT /F1 8 Tf 0.4 0.4 0.45 rg 524 30 Td (Page 11) Tj ET
+BT /F1 8 Tf 0.4 0.4 0.45 rg 48 30 Td (CINE-SYNAPSE Studio OS ? Production Playbook v2.0 Enterprise) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 725 Td (accidentally leaves a cigarette package visible in the protagonist's hand. The Spherex sentry flags) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 713 Td (the infraction \(IMDA_RESTRICTED_ITEM\). The supervisor opens Screen 4, previews the neural inpaint) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 701 Td (mask, dispatches an urgent clean-up ticket to ShotGrid, and clears the compliance hold within 2 hours.) Tj ET
+BT /F2 9.5 Tf 0.15 0.2 0.3 rg 48 681 Td (Testing Resources & Sample Files) Tj ET
+0.2 0.4 0.8 rg 52 670 3 3 re f
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 668 Td (Asset: Territory Compliance Rules \(sample_assets/territory_compliance_rules.json\)) Tj ET
+0.2 0.4 0.8 rg 52 656 3 3 re f
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 654 Td (Test Verification: In Screen 4, select "Saudi Arabia", toggle between "Original Plate" and "Neural) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 642 Td (Inpaint", click "Dispatch Inpaint Task", and verify that a ShotGrid dispatch confirmation is returned) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 630 Td (with SLA of 4.0 hours.) Tj ET
+BT /F2 10.5 Tf 0.18 0.3 0.5 rg 48 608 Td (Role 8: VP of International Distribution / Localization Head \(The Global Monetization Commander\)) Tj ET
+0.75 0.8 0.9 RG 0.5 w 48 605 m 564 605 l S
+BT /F2 9.5 Tf 0.15 0.2 0.3 rg 48 587 Td (Role Mandate & Operational Responsibilities) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 48 574 Td (The VP of International Distribution is responsible for commercializing the motion picture across 190) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 48 562 Td (countries worldwide. In the era of global day-and-date theatrical and streaming releases, their mandate) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 48 550 Td (is to deliver localized, culturally compliant, and censorship-cleared Digital Cinema Packages \(DCPs\) and) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 48 538 Td (Interoperable Master Formats \(IMFs\) to thousands of cinema screens simultaneously without missing release) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 48 526 Td (windows.) Tj ET
+BT /F2 9.5 Tf 0.15 0.2 0.3 rg 48 504 Td (Real-Life Production Nightmares) Tj ET
+0.2 0.4 0.8 rg 52 493 3 3 re f
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 491 Td (The Custom Border Release Cancellation: A \\$180M superhero blockbuster is scheduled for a simultaneous) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 479 Td (worldwide release on Friday across 65 countries. On Wednesday morning, the censorship board of a major) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 467 Td (international market rejects the film's master DCP because an unedited regional slur appears on) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 455 Td (background graffiti in a 3-second subway scene. Because traditional physical reel replacement takes 7) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 443 Td (business days, the film misses its opening weekend across 450 screens, resulting in an immediate \\$8.5) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 431 Td (million box office forfeit.) Tj ET
+BT /F2 9.5 Tf 0.15 0.2 0.3 rg 48 411 Td (How They Work in Legacy Platforms) Tj ET
+0.2 0.4 0.8 rg 52 400 3 3 re f
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 398 Td (Massive Excel Spreadsheets: Localization teams track censorship notes across 190 countries in) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 386 Td (unversioned 5,000-row Excel spreadsheets.) Tj ET
+0.2 0.4 0.8 rg 52 374 3 3 re f
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 372 Td (Fragmented Post Houses: Different localization facilities in London, Tokyo, and Mumbai work on) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 360 Td (separate cuts without unified oversight, leading to contradictory versions that fail local) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 348 Td (classification boards.) Tj ET
+BT /F2 9.5 Tf 0.15 0.2 0.3 rg 48 328 Td (How They Use CINE-SYNAPSE) Tj ET
+0.2 0.4 0.8 rg 52 317 3 3 re f
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 315 Td (1. Access Screen 4 \(190-Territory Compliance & Inpaint Hub\): Views an interactive world map and) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 303 Td (dropdown covering all 190 distribution territories.) Tj ET
+0.2 0.4 0.8 rg 52 291 3 3 re f
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 289 Td (2. Inspect Regulatory Classifications: Checks real-time certification status across CARA \(US\), BBFC) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 277 Td (\(UK\), GCAM \(Middle East\), and IMDA \(Singapore\).) Tj ET
+0.2 0.4 0.8 rg 52 265 3 3 re f
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 263 Td (3. Filter by Compliance Status: Identifies which territories have cleared all compliance gates) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 251 Td (\(CLEARED\) and which require visual or audio mitigations \(ACTION_REQUIRED\).) Tj ET
+0.2 0.4 0.8 rg 52 239 3 3 re f
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 237 Td (4. Monitor Localization Delivery Pipelines: Verifies that all automated neural inpainting, optical) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 225 Td (reframing, and dialogue bleeping tasks have been dispatched to post-production and completed within) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 213 Td (their defined SLAs.) Tj ET
+BT /F2 9.5 Tf 0.15 0.2 0.3 rg 48 193 Td (Realistic Production Scenarios) Tj ET
+0.2 0.4 0.8 rg 52 182 3 3 re f
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 180 Td (Scenario A \(Nominal\): The VP selects "United Kingdom" in Screen 4. The BBFC classification engine) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 168 Td (reports CLEARED: 12A THEATRICAL. No violent imitable techniques are detected. The UK master DCP) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 156 Td (delivery gate is unlocked.) Tj ET
+0.2 0.4 0.8 rg 52 144 3 3 re f
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 142 Td (Scenario B \(Crisis / Audit\): The VP selects "Saudi Arabia". Status reports ACTION_REQUIRED: GCAM) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 130 Td (PROHIBITED CONTENT \(Alcohol Signage in Scene 42B\). The VP reviews the inpaint preview, confirms that) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 118 Td (the ShotGrid task was completed and verified by the VFX Supervisor, and clicks "Approve Territorial) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 106 Td (Clearance". Status immediately switches to green CLEARED, authorizing the regional master render.) Tj ET
+BT /F2 9.5 Tf 0.15 0.2 0.3 rg 48 86 Td (Testing Resources & Sample Files) Tj ET
+0.2 0.4 0.8 rg 52 75 3 3 re f
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 73 Td (Asset: Spherex Ruleset JSON \(sample_assets/territory_compliance_rules.json\)) Tj ET
+endstream
+endobj
+27 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R >> >> /Contents 26 0 R >>
+endobj
+28 0 obj
+<< /Length 6709 >>
+stream
+0.2 0.25 0.35 RG 0.75 w
+48 752 m 564 752 l S
+BT /F2 8 Tf 0.3 0.35 0.45 rg 48 757 Td (CINE-SYNAPSE: Production Onboarding & 8-Role Playbook) Tj ET
+BT /F1 8 Tf 0.4 0.45 0.55 rg 380 757 Td (ClickHouse Track | Google Cloud Hackathon 202) Tj ET
+0.75 0.75 0.8 RG 0.5 w
+48 42 m 564 42 l S
+BT /F1 8 Tf 0.4 0.4 0.45 rg 524 30 Td (Page 12) Tj ET
+BT /F1 8 Tf 0.4 0.4 0.45 rg 48 30 Td (CINE-SYNAPSE Studio OS ? Production Playbook v2.0 Enterprise) Tj ET
+0.2 0.4 0.8 rg 52 727 3 3 re f
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 725 Td (Test Verification: In Screen 4, select "Saudi Arabia", verify the red banner "Action Required: Alcohol) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 713 Td (branding prohibited", toggle inpaint preview, and click "Dispatch Inpaint Task" to clear the) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 701 Td (territory.) Tj ET
+0.92 0.94 0.98 rg 48 672 516 24 re f
+0.15 0.28 0.55 RG 1.5 w 48 672 m 48 696 l S
+BT /F2 12.5 Tf 0.1 0.18 0.35 rg 58 679 Td (4. Testing Resource Repository & Sample Files Guide) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 48 657 Td (To allow studio evaluators, quality assurance engineers, and hackathon judges to verify every role and) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 48 645 Td (workflow under authentic production conditions, CINE-SYNAPSE bundles a comprehensive suite of) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 48 633 Td (industry-standard test files in the sample_assets/ directory.) Tj ET
+BT /F2 10.5 Tf 0.18 0.3 0.5 rg 48 609 Td (Asset 1: OpenTimelineIO Master Cut \(`chrono_reel01.otio`\)) Tj ET
+0.75 0.8 0.9 RG 0.5 w 48 606 m 564 606 l S
+0.2 0.4 0.8 rg 52 596 3 3 re f
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 594 Td (File Location: sample_assets/chrono_reel01.otio) Tj ET
+0.2 0.4 0.8 rg 52 582 3 3 re f
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 580 Td (Industry Standard: OpenTimelineIO \(OTIO\) v1.0 / Academy Software Foundation) Tj ET
+0.2 0.4 0.8 rg 52 568 3 3 re f
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 566 Td (Contents: Multi-track timeline schema containing video master clips \(Scene42A_T01, Scene42B_T04,) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 554 Td (Scene43_T02\), Cooke /i anamorphic lens metadata, ACEScg color gamut tags, and C2PA cryptographic) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 542 Td (container hashes.) Tj ET
+0.2 0.4 0.8 rg 52 530 3 3 re f
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 528 Td (Test Application: Load into Screen 6 \(Media Ingest & Timeline Scrubber Hub\) to test 24.000 fps) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 516 Td (playback, clip inspection, and OTIO JSON export.) Tj ET
+BT /F2 10.5 Tf 0.18 0.3 0.5 rg 48 494 Td (Asset 2: Avid CMX 3600 Edit Decision List \(`chrono_scene42b.edl`\)) Tj ET
+0.75 0.8 0.9 RG 0.5 w 48 491 m 564 491 l S
+0.2 0.4 0.8 rg 52 481 3 3 re f
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 479 Td (File Location: sample_assets/chrono_scene42b.edl) Tj ET
+0.2 0.4 0.8 rg 52 467 3 3 re f
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 465 Td (Industry Standard: CMX 3600 Drop Frame EDL) Tj ET
+0.2 0.4 0.8 rg 52 453 3 3 re f
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 451 Td (Contents: Offline editorial cut list containing optical comments, source reel names, SMPTE timecode) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 439 Td (in/out points, and sentry drift flags \(SENTRY_FLAG: TIMECODE_DRIFT_23_976\).) Tj ET
+0.2 0.4 0.8 rg 52 427 3 3 re f
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 425 Td (Test Application: Load into Screen 6 to test legacy EDL parsing, timecode drift detection, and conform) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 413 Td (synchronization.) Tj ET
+BT /F2 10.5 Tf 0.18 0.3 0.5 rg 48 391 Td (Asset 3: ASC Color Decision List \(`scene42b_look_grade.cdl`\)) Tj ET
+0.75 0.8 0.9 RG 0.5 w 48 388 m 564 388 l S
+0.2 0.4 0.8 rg 52 378 3 3 re f
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 376 Td (File Location: sample_assets/scene42b_look_grade.cdl) Tj ET
+0.2 0.4 0.8 rg 52 364 3 3 re f
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 362 Td (Industry Standard: American Society of Cinematographers \(ASC\) CDL XML v1.2) Tj ET
+0.2 0.4 0.8 rg 52 350 3 3 re f
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 348 Td (Contents: Color correction parameters \(Slope 1.05 0.98 1.12, Offset -0.02 0.01 -0.015, Power 0.95 1.02) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 336 Td (0.91, Saturation 1.15\) calibrated for Cooke Anamorphic 40mm night exterior scenes.) Tj ET
+0.2 0.4 0.8 rg 52 324 3 3 re f
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 322 Td (Test Application: Inspect in Screen 7 \(Look Library A/B Comparator\) to test live color slider) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 310 Td (adjustments and reference frame grading.) Tj ET
+BT /F2 10.5 Tf 0.18 0.3 0.5 rg 48 288 Td (Asset 4: SAG-AFTRA Digital Double Agreement Rider \(`sag_aftra_schedule_a_rider.json`\)) Tj ET
+0.75 0.8 0.9 RG 0.5 w 48 285 m 564 285 l S
+0.2 0.4 0.8 rg 52 275 3 3 re f
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 273 Td (File Location: sample_assets/sag_aftra_schedule_a_rider.json) Tj ET
+0.2 0.4 0.8 rg 52 261 3 3 re f
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 259 Td (Industry Standard: SAG-AFTRA Theatrical Schedule A Digital Replica Provision) Tj ET
+0.2 0.4 0.8 rg 52 247 3 3 re f
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 245 Td (Contents: Contractual rider for Marcus Vance \(Commander Vance\) specifying 60.0 authorized likeness) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 233 Td (seconds, \\$1,500/second overage penalty, statutory consent under the Federal NO FAKES Act of 2026, and) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 221 Td (KMS public key signature digests.) Tj ET
+0.2 0.4 0.8 rg 52 209 3 3 re f
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 207 Td (Test Application: Audit in Screen 3 \(SAG Likeness Ledger\) to test consent verification and the) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 195 Td (interactive "Extend Seconds \(+15s\)" mutation.) Tj ET
+BT /F2 10.5 Tf 0.18 0.3 0.5 rg 48 173 Td (Asset 5: C2PA Hardware Provenance Manifest \(`c2pa_camera_manifest.json`\)) Tj ET
+0.75 0.8 0.9 RG 0.5 w 48 170 m 564 170 l S
+0.2 0.4 0.8 rg 52 160 3 3 re f
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 158 Td (File Location: sample_assets/c2pa_camera_manifest.json) Tj ET
+0.2 0.4 0.8 rg 52 146 3 3 re f
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 144 Td (Industry Standard: Coalition for Content Provenance and Authenticity \(C2PA\) v2.1) Tj ET
+0.2 0.4 0.8 rg 52 132 3 3 re f
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 130 Td (Contents: Cryptographic assertions signed by ARRI Alexa 35 hardware root certificates, confirming) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 118 Td (sensor authenticity, Cooke /i lens serial numbers, exposure index \(800 ASA\), and SHA-256 media digest.) Tj ET
+0.2 0.4 0.8 rg 52 106 3 3 re f
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 104 Td (Test Application: Ingest into Screen 2 \(On-Set Camera Sentry\) to verify hardware root-of-trust) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 92 Td (authentication and deepfake prevention.) Tj ET
+endstream
+endobj
+29 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R >> >> /Contents 28 0 R >>
+endobj
+30 0 obj
+<< /Length 7033 >>
+stream
+0.2 0.25 0.35 RG 0.75 w
+48 752 m 564 752 l S
+BT /F2 8 Tf 0.3 0.35 0.45 rg 48 757 Td (CINE-SYNAPSE: Production Onboarding & 8-Role Playbook) Tj ET
+BT /F1 8 Tf 0.4 0.45 0.55 rg 380 757 Td (ClickHouse Track | Google Cloud Hackathon 202) Tj ET
+0.75 0.75 0.8 RG 0.5 w
+48 42 m 564 42 l S
+BT /F1 8 Tf 0.4 0.4 0.45 rg 524 30 Td (Page 13) Tj ET
+BT /F1 8 Tf 0.4 0.4 0.45 rg 48 30 Td (CINE-SYNAPSE Studio OS ? Production Playbook v2.0 Enterprise) Tj ET
+BT /F2 10.5 Tf 0.18 0.3 0.5 rg 48 717 Td (Asset 6: Script Breakdown & Continuity Notes \(`chrono_script_breakdown.txt`\)) Tj ET
+0.75 0.8 0.9 RG 0.5 w 48 714 m 564 714 l S
+0.2 0.4 0.8 rg 52 704 3 3 re f
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 702 Td (File Location: sample_assets/chrono_script_breakdown.txt) Tj ET
+0.2 0.4 0.8 rg 52 690 3 3 re f
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 688 Td (Industry Standard: Assistant Director / Script Supervisor Production Breakdown) Tj ET
+0.2 0.4 0.8 rg 52 676 3 3 re f
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 674 Td (Contents: Scene slugline, cast roster, prop continuity locks \(whiskey glass 42% waterline\), set) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 662 Td (dressing clearance warnings, and camera package specifications.) Tj ET
+0.2 0.4 0.8 rg 52 650 3 3 re f
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 648 Td (Test Application: Load into Screen 6 and Screen 2 to test prop meniscus CV continuity analysis.) Tj ET
+BT /F2 10.5 Tf 0.18 0.3 0.5 rg 48 626 Td (Asset 7: Spherex Global Distribution Ruleset \(`territory_compliance_rules.json`\)) Tj ET
+0.75 0.8 0.9 RG 0.5 w 48 623 m 564 623 l S
+0.2 0.4 0.8 rg 52 613 3 3 re f
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 611 Td (File Location: sample_assets/territory_compliance_rules.json) Tj ET
+0.2 0.4 0.8 rg 52 599 3 3 re f
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 597 Td (Industry Standard: Spherex 190-Territory Entertainment Compliance Schema) Tj ET
+0.2 0.4 0.8 rg 52 585 3 3 re f
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 583 Td (Contents: Regulatory profiles for Saudi Arabia \(GCAM\), Singapore \(IMDA\), United Kingdom \(BBFC\), and) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 571 Td (United States \(MPA\), specifying prohibited content, required mitigations, and ShotGrid task templates.) Tj ET
+0.2 0.4 0.8 rg 52 559 3 3 re f
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 557 Td (Test Application: Test territory selection, before/after inpaint preview, and ShotGrid dispatch in) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 545 Td (Screen 4.) Tj ET
+0.92 0.94 0.98 rg 48 516 516 24 re f
+0.15 0.28 0.55 RG 1.5 w 48 516 m 48 540 l S
+BT /F2 12.5 Tf 0.1 0.18 0.35 rg 58 523 Td (5. Production Deployment, SRE Monitoring & Verification Runbook) Tj ET
+BT /F2 10.5 Tf 0.18 0.3 0.5 rg 48 493 Td (Service Boot & Local Execution) Tj ET
+0.75 0.8 0.9 RG 0.5 w 48 490 m 564 490 l S
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 48 478 Td (To boot the full multi-tenant stack locally:) Tj ET
+0.96 0.97 0.98 rg 48 404 516 62 re f
+0.85 0.88 0.92 RG 0.5 w 48 404 516 62 re S
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 458 Td (# Navigate to project root) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 448.5 Td (cd /Users/ymore/.gemini/antigravity/scratch/cine_synapse) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 439.0 Td () Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 429.5 Td (# Execute turnkey boot script \(provisions .venv, installs dependencies, launches FastAPI & Vite\)) Tj ET
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 420.0 Td (./run.sh) Tj ET
+BT /F2 10.5 Tf 0.18 0.3 0.5 rg 48 396.5 Td (Accessing Endpoints) Tj ET
+0.75 0.8 0.9 RG 0.5 w 48 393.5 m 564 393.5 l S
+0.2 0.4 0.8 rg 52 383.5 3 3 re f
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 381.5 Td (Studio Master Dashboard: http://localhost:5173) Tj ET
+0.2 0.4 0.8 rg 52 369.5 3 3 re f
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 367.5 Td (Interactive OpenAPI 3.1 Swagger Docs: http://localhost:8000/docs) Tj ET
+0.2 0.4 0.8 rg 52 355.5 3 3 re f
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 353.5 Td (Prometheus SRE Metrics Probe: http://localhost:8000/metrics) Tj ET
+0.2 0.4 0.8 rg 52 341.5 3 3 re f
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 339.5 Td (Kubernetes Liveness Probe: http://localhost:8000/healthz) Tj ET
+0.2 0.4 0.8 rg 52 327.5 3 3 re f
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 62 325.5 Td (Kubernetes Readiness Probe: http://localhost:8000/readyz) Tj ET
+BT /F2 10.5 Tf 0.18 0.3 0.5 rg 48 303.5 Td (Comprehensive Automated Test Execution) Tj ET
+0.75 0.8 0.9 RG 0.5 w 48 300.5 m 564 300.5 l S
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 48 288.5 Td (Run the full 21-test automated validation suite:) Tj ET
+0.96 0.97 0.98 rg 48 254.5 516 22 re f
+0.85 0.88 0.92 RG 0.5 w 48 254.5 516 22 re S
+BT /F3 6.8 Tf 0.08 0.2 0.18 rg 56 268.5 Td (.venv/bin/pytest backend/tests/ -v) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 48 253.0 Td (All tests validate mathematical sentry invariants, multi-tenant isolation, SAG-AFTRA likeness extensions,) Tj ET
+BT /F1 8.5 Tf 0.2 0.2 0.22 rg 48 241.0 Td (190-country inpaint dispatches, timeline ingestion, and TPN+ Level 3 encrypted war room channels.) Tj ET
+0.92 0.94 0.98 rg 48 210.0 516 24 re f
+0.15 0.28 0.55 RG 1.5 w 48 210.0 m 48 234.0 l S
+BT /F2 12.5 Tf 0.1 0.18 0.35 rg 58 217.0 Td (6. Document Metadata & Authorization Sign-Off) Tj ET
+0.88 0.92 0.97 rg 48 183.0 516 15 re f
+0.7 0.78 0.88 RG 0.5 w 48 183.0 516 15 re S
+BT /F2 7.5 Tf 0.1 0.2 0.35 rg 52.0 187.0 Td (Field) Tj ET
+BT /F2 7.5 Tf 0.1 0.2 0.35 rg 310.0 187.0 Td (Production Value) Tj ET
+0.98 0.98 0.99 rg 48 168.0 516 15 re f
+0.85 0.88 0.92 RG 0.5 w 48 168.0 516 15 re S
+BT /F1 7.2 Tf 0.2 0.2 0.25 rg 52.0 172.0 Td (Document Title) Tj ET
+BT /F1 7.2 Tf 0.2 0.2 0.25 rg 310.0 172.0 Td (CINE-SYNAPSE: Production Onboarding & 8-Role Operation) Tj ET
+1.0 1.0 1.0 rg 48 153.0 516 15 re f
+0.85 0.88 0.92 RG 0.5 w 48 153.0 516 15 re S
+BT /F1 7.2 Tf 0.2 0.2 0.25 rg 52.0 157.0 Td (Baseline Version) Tj ET
+BT /F1 7.2 Tf 0.2 0.2 0.25 rg 310.0 157.0 Td (Version 2.0 Enterprise SaaS) Tj ET
+0.98 0.98 0.99 rg 48 138.0 516 15 re f
+0.85 0.88 0.92 RG 0.5 w 48 138.0 516 15 re S
+BT /F1 7.2 Tf 0.2 0.2 0.25 rg 52.0 142.0 Td (Target Release Year) Tj ET
+BT /F1 7.2 Tf 0.2 0.2 0.25 rg 310.0 142.0 Td (2026 Theatrical & Streaming Standard) Tj ET
+1.0 1.0 1.0 rg 48 123.0 516 15 re f
+0.85 0.88 0.92 RG 0.5 w 48 123.0 516 15 re S
+BT /F1 7.2 Tf 0.2 0.2 0.25 rg 52.0 127.0 Td (Security Classification) Tj ET
+BT /F1 7.2 Tf 0.2 0.2 0.25 rg 310.0 127.0 Td (TPN+ Level 3 / Trusted Partner Network Multi-Tenant Ce) Tj ET
+0.98 0.98 0.99 rg 48 108.0 516 15 re f
+0.85 0.88 0.92 RG 0.5 w 48 108.0 516 15 re S
+BT /F1 7.2 Tf 0.2 0.2 0.25 rg 52.0 112.0 Td (AI Core Engine) Tj ET
+BT /F1 7.2 Tf 0.2 0.2 0.25 rg 310.0 112.0 Td (Google Cloud Gemini 1.5 Pro via google-genai SDK) Tj ET
+1.0 1.0 1.0 rg 48 93.0 516 15 re f
+0.85 0.88 0.92 RG 0.5 w 48 93.0 516 15 re S
+BT /F1 7.2 Tf 0.2 0.2 0.25 rg 52.0 97.0 Td (Columnar Database) Tj ET
+BT /F1 7.2 Tf 0.2 0.2 0.25 rg 310.0 97.0 Td (ClickHouse Cloud Enterprise \(mcp-clickhouse\)) Tj ET
+0.98 0.98 0.99 rg 48 78.0 516 15 re f
+0.85 0.88 0.92 RG 0.5 w 48 78.0 516 15 re S
+BT /F1 7.2 Tf 0.2 0.2 0.25 rg 52.0 82.0 Td (Sign-Off Authority) Tj ET
+BT /F1 7.2 Tf 0.2 0.2 0.25 rg 310.0 82.0 Td (Studio Technology Executive Committee & Production Leg) Tj ET
+endstream
+endobj
+31 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R >> >> /Contents 30 0 R >>
+endobj
+xref
+0 32
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000199 00000 n 
+0000000296 00000 n 
+0000000398 00000 n 
+0000000493 00000 n 
+0000006146 00000 n 
+0000006292 00000 n 
+0000013617 00000 n 
+0000013763 00000 n 
+0000020405 00000 n 
+0000020553 00000 n 
+0000028369 00000 n 
+0000028517 00000 n 
+0000035568 00000 n 
+0000035716 00000 n 
+0000042765 00000 n 
+0000042913 00000 n 
+0000050156 00000 n 
+0000050304 00000 n 
+0000057499 00000 n 
+0000057647 00000 n 
+0000064349 00000 n 
+0000064497 00000 n 
+0000071264 00000 n 
+0000071412 00000 n 
+0000078278 00000 n 
+0000078426 00000 n 
+0000085188 00000 n 
+0000085336 00000 n 
+0000092422 00000 n 
+trailer
+<< /Size 32 /Root 1 0 R >>
+startxref
+92570
+%%EOF

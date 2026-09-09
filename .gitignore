@@ -1,0 +1,69 @@
+# ==============================================================================
+# CineSynapse Studio OS - Production .gitignore
+# ==============================================================================
+
+# Python Virtual Environments & Packages
+.venv/
+venv/
+ENV/
+env/
+*.egg-info/
+dist/
+build/
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Testing & Coverage
+.pytest_cache/
+.coverage
+.coverage.*
+htmlcov/
+nosetests.xml
+coverage.xml
+
+# Node.js & Frontend Build Outputs
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+frontend/npm-debug.log*
+frontend/yarn-debug.log*
+frontend/yarn-error.log*
+node_modules/
+
+# Local Media & Heavy Assets (>100MB Git Limit)
+media/
+*.zip
+deliverables.zip
+horror_scene_link
+
+# Environment & Sensitive Secrets
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+*.pem
+*.key
+*.cert
+
+# Operating System & IDE Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+*.swo
+.chrome_temp/
+.chrome-profile/
+
+# Local Storage Runtime Logs & Cache
+storage/local/temp/
+*.log
+backend/storage/local/audio-scratchpad/*.wav
+backend/storage/local/audio-scratchpad/*.mp3

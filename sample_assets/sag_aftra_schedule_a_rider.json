@@ -1,0 +1,30 @@
+{
+  "rider_id": "SAG-2026-CHRONO-MV-01",
+  "actor_name": "Marcus Vance",
+  "character_name": "Commander Vance",
+  "agreement_type": "SAG-AFTRA Schedule A (Theatrical Feature)",
+  "production_title": "CHRONO (2026)",
+  "authorized_digital_replica_seconds": 60.0,
+  "used_digital_replica_seconds": 58.5,
+  "rate_per_additional_second_usd": 1500.0,
+  "federal_compliance": {
+    "no_fakes_act_2026": true,
+    "statutory_consent_verified": true,
+    "consent_expiry_date": "2027-12-31T23:59:59Z"
+  },
+  "cryptographic_signatures": {
+    "performer_key_id": "kms:us-central1:sag:mv-vault-key-01",
+    "sha256_consent_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "c2pa_manifest_uri": "c2pa:sha256:42a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a5b6c7d8e9f0a1"
+  },
+  "permitted_uses": [
+    "VFX digital double background stunt replication",
+    "Dangerous wirework replacement in Scene 42B",
+    "Extreme environment facial composite"
+  ],
+  "prohibited_uses": [
+    "Dialogue generation unscripted by principal author",
+    "Posthumous continuation without secondary estate consent",
+    "Commercial merchandising endorsement without rider B"
+  ]
+}

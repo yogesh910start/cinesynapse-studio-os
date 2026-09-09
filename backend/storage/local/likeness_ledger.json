@@ -1,0 +1,3340 @@
+{
+  "paramount_pictures": [
+    {
+      "actor_id": "ACTOR_MARCUS_VANCE",
+      "actor_name": "Marcus Vance",
+      "character_name": "Commander Vance",
+      "contract_id": "SAG-SCH-A-8942",
+      "union_affiliation": "SAG_AFTRA",
+      "schedule_code": "SCHEDULE_A",
+      "performer_type": "Digital Stunt Double & Facial Stabilizer",
+      "authorized_seconds": 1320.0,
+      "used_seconds": 62.5,
+      "residual_rate_per_sec": 300.0,
+      "accrued_residuals_usd": 28310.0,
+      "consent_expiry": "2027-12-31",
+      "c2pa_hash": "c2pa:sha256:7f83b1657ff1fc53b92dc18148a1d65dfc2d4b1fa3d677284addd200126d9069",
+      "status": "CLEARED",
+      "permitted_uses": [
+        "VFX digital double background stunt replication",
+        "Dangerous wirework replacement in Scene 42B",
+        "Extreme environment cockpit facial composite in Scene 42A",
+        "High-G facial turbulence stabilizer"
+      ],
+      "prohibited_uses": [
+        "Dialogue generation unscripted by principal author",
+        "Posthumous continuation without secondary estate consent",
+        "Commercial merchandising endorsement without Rider B",
+        "Third-party AI foundation model training"
+      ],
+      "cryptographic_signatures": {
+        "performer_key_id": "kms:us-central1:sag:mv-vault-key-01",
+        "sha256_consent_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "c2pa_manifest_uri": "c2pa:sha256:42a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a5b6c7d8e9f0a1",
+        "root_of_trust": "ARRI Alexa 35 Hardware Enclave CA",
+        "x509_issuer": "DigiCert Studio CA v3 / SAG-AFTRA Trust Network",
+        "tsa_timestamp": "2026-03-14T08:12:44Z",
+        "integrity_status": "VERIFIED_VALID"
+      },
+      "synthetic_double_assets": {
+        "scan_fidelity": 99.85,
+        "landmark_deviation_mm": 0.012,
+        "gamut_match": "ACEScg SMPTE ST 2065-1",
+        "topology_points": 148200,
+        "render_engine": "Neural Gaussian Splatting v4.2 / Unreal Substrate",
+        "raw_scan_tag": "MV_HEADSCAN_POLARIZED_RAW_v04",
+        "neural_render_tag": "MV_NEURAL_COMP_ACEScg_v12",
+        "topology_coordinates": [
+          {
+            "index": 0,
+            "name": "V_000_POGONION",
+            "region": "jaw",
+            "x": 0.0,
+            "y": 64.2,
+            "z": 24.1,
+            "deviation": 0.012
+          }
+        ],
+        "c2pa_hash": "c2pa:sha256:test_hash_conformed",
+        "source_frame": "01:24:14:10",
+        "status": "CERTIFIED_RECONSTRUCTED"
+      },
+      "shot_attributions": [
+        {
+          "attribution_id": "attr-mv-01",
+          "scene_id": "SCENE_42B",
+          "scene_display": "Scene 42B",
+          "take_number": 4,
+          "shot_id": "SHOT_14",
+          "description": "Wirework stunt platform drop & backward flip",
+          "used_seconds": 6.2,
+          "rendered_by": "VFX_GPU_NODE_12",
+          "timecode": "01:24:14:10",
+          "timestamp": "2026-09-04T23:10:00Z",
+          "status": "CONFORMED"
+        },
+        {
+          "attribution_id": "attr-mv-02",
+          "scene_id": "SCENE_42B",
+          "scene_display": "Scene 42B",
+          "take_number": 2,
+          "shot_id": "SHOT_11",
+          "description": "Explosion concussion shockwave head replacement",
+          "used_seconds": 4.1,
+          "rendered_by": "VFX_GPU_NODE_08",
+          "timecode": "01:24:18:00",
+          "timestamp": "2026-09-04T22:50:00Z",
+          "status": "CONFORMED"
+        },
+        {
+          "attribution_id": "attr-mv-03",
+          "scene_id": "SCENE_42A",
+          "scene_display": "Scene 42A",
+          "take_number": 8,
+          "shot_id": "SHOT_08",
+          "description": "Cockpit turbulence high-G facial stabilizer",
+          "used_seconds": 5.4,
+          "rendered_by": "VFX_GPU_NODE_04",
+          "timecode": "01:18:04:12",
+          "timestamp": "2026-09-04T21:40:00Z",
+          "status": "CONFORMED"
+        },
+        {
+          "attribution_id": "attr-mv-04",
+          "scene_id": "SCENE_41",
+          "scene_display": "Scene 41",
+          "take_number": 3,
+          "shot_id": "SHOT_02",
+          "description": "Dune sandstorm digital double wide shot background",
+          "used_seconds": 18.5,
+          "rendered_by": "VFX_GPU_NODE_02",
+          "timecode": "01:10:12:00",
+          "timestamp": "2026-09-03T19:20:00Z",
+          "status": "CONFORMED"
+        },
+        {
+          "attribution_id": "attr-mv-05",
+          "scene_id": "SCENE_38",
+          "scene_display": "Scene 38",
+          "take_number": 1,
+          "shot_id": "SHOT_01",
+          "description": "De-aging flashback sequence (age 24 retro-composite)",
+          "used_seconds": 18.0,
+          "rendered_by": "VFX_GPU_NODE_06",
+          "timecode": "00:54:10:00",
+          "timestamp": "2026-09-02T16:15:00Z",
+          "status": "CONFORMED"
+        }
+      ],
+      "extension_history": [
+        {
+          "timestamp": "2026-09-06T16:58:15.637626+00:00",
+          "added_seconds": 15.0,
+          "new_total_authorized": 75.0,
+          "authorized_by": "Elena Rostova (Production Attorney)",
+          "note": "Authorized NO FAKES Act extension"
+        },
+        {
+          "timestamp": "2026-09-06T16:58:15.690983+00:00",
+          "added_seconds": 15.0,
+          "new_total_authorized": 90.0,
+          "authorized_by": "Elena Rostova (Production Attorney)",
+          "note": "Authorized NO FAKES Act extension"
+        },
+        {
+          "timestamp": "2026-09-06T17:25:43.304784+00:00",
+          "added_seconds": 15.0,
+          "new_total_authorized": 105.0,
+          "authorized_by": "Elena Rostova (Production Attorney)",
+          "note": "Authorized NO FAKES Act extension"
+        },
+        {
+          "timestamp": "2026-09-06T17:25:44.586280+00:00",
+          "added_seconds": 15.0,
+          "new_total_authorized": 120.0,
+          "authorized_by": "Elena Rostova (Production Attorney)",
+          "note": "Authorized NO FAKES Act extension"
+        },
+        {
+          "timestamp": "2026-09-06T17:26:53.029683+00:00",
+          "added_seconds": 15.0,
+          "new_total_authorized": 135.0,
+          "authorized_by": "Elena Rostova (Production Attorney)",
+          "note": "Authorized NO FAKES Act extension"
+        },
+        {
+          "timestamp": "2026-09-06T17:58:19.808344+00:00",
+          "added_seconds": 15.0,
+          "new_total_authorized": 150.0,
+          "authorized_by": "Elena Rostova (Production Attorney)",
+          "note": "Authorized NO FAKES Act extension"
+        },
+        {
+          "timestamp": "2026-09-06T17:58:19.858714+00:00",
+          "added_seconds": 15.0,
+          "new_total_authorized": 165.0,
+          "authorized_by": "Elena Rostova (Production Attorney)",
+          "note": "Authorized NO FAKES Act extension"
+        },
+        {
+          "timestamp": "2026-09-06T17:59:20.678702+00:00",
+          "added_seconds": 15.0,
+          "new_total_authorized": 180.0,
+          "authorized_by": "Elena Rostova (Production Attorney)",
+          "note": "Authorized NO FAKES Act extension"
+        },
+        {
+          "timestamp": "2026-09-06T18:00:09.220584+00:00",
+          "added_seconds": 15.0,
+          "new_total_authorized": 195.0,
+          "authorized_by": "Elena Rostova (Production Attorney)",
+          "note": "Authorized NO FAKES Act extension"
+        },
+        {
+          "timestamp": "2026-09-06T18:00:09.281609+00:00",
+          "added_seconds": 15.0,
+          "new_total_authorized": 210.0,
+          "authorized_by": "Elena Rostova (Production Attorney)",
+          "note": "Authorized NO FAKES Act extension"
+        },
+        {
+          "timestamp": "2026-09-06T18:00:29.112096+00:00",
+          "added_seconds": 15.0,
+          "new_total_authorized": 225.0,
+          "authorized_by": "Elena Rostova (Production Attorney)",
+          "note": "Authorized NO FAKES Act extension"
+        },
+        {
+          "timestamp": "2026-09-06T18:00:29.165845+00:00",
+          "added_seconds": 15.0,
+          "new_total_authorized": 240.0,
+          "authorized_by": "Elena Rostova (Production Attorney)",
+          "note": "Authorized NO FAKES Act extension"
+        },
+        {
+          "timestamp": "2026-09-06T18:00:37.742802+00:00",
+          "added_seconds": 15.0,
+          "new_total_authorized": 255.0,
+          "authorized_by": "Elena Rostova (Production Attorney)",
+          "note": "Authorized NO FAKES Act extension"
+        },
+        {
+          "timestamp": "2026-09-06T18:00:37.793188+00:00",
+          "added_seconds": 15.0,
+          "new_total_authorized": 270.0,
+          "authorized_by": "Elena Rostova (Production Attorney)",
+          "note": "Authorized NO FAKES Act extension"
+        },
+        {
+          "timestamp": "2026-09-06T18:00:46.889157+00:00",
+          "added_seconds": 15.0,
+          "new_total_authorized": 285.0,
+          "authorized_by": "Elena Rostova (Production Attorney)",
+          "note": "Authorized NO FAKES Act extension"
+        },
+        {
+          "timestamp": "2026-09-06T18:00:46.942001+00:00",
+          "added_seconds": 15.0,
+          "new_total_authorized": 300.0,
+          "authorized_by": "Elena Rostova (Production Attorney)",
+          "note": "Authorized NO FAKES Act extension"
+        },
+        {
+          "timestamp": "2026-09-06T18:06:14.978480+00:00",
+          "added_seconds": 15.0,
+          "new_total_authorized": 315.0,
+          "authorized_by": "Elena Rostova (Production Attorney)",
+          "note": "Authorized NO FAKES Act extension"
+        },
+        {
+          "timestamp": "2026-09-06T18:06:15.033205+00:00",
+          "added_seconds": 15.0,
+          "new_total_authorized": 330.0,
+          "authorized_by": "Elena Rostova (Production Attorney)",
+          "note": "Authorized NO FAKES Act extension"
+        },
+        {
+          "timestamp": "2026-09-06T18:07:23.433661+00:00",
+          "added_seconds": 15.0,
+          "new_total_authorized": 345.0,
+          "authorized_by": "Elena Rostova (Production Attorney)",
+          "note": "Authorized NO FAKES Act extension"
+        },
+        {
+          "timestamp": "2026-09-06T18:07:23.488316+00:00",
+          "added_seconds": 15.0,
+          "new_total_authorized": 360.0,
+          "authorized_by": "Elena Rostova (Production Attorney)",
+          "note": "Authorized NO FAKES Act extension"
+        },
+        {
+          "timestamp": "2026-09-06T18:07:38.703675+00:00",
+          "added_seconds": 15.0,
+          "new_total_authorized": 375.0,
+          "authorized_by": "Elena Rostova (Production Attorney)",
+          "note": "Authorized NO FAKES Act extension"
+        },
+        {
+          "timestamp": "2026-09-06T18:07:38.757814+00:00",
+          "added_seconds": 15.0,
+          "new_total_authorized": 390.0,
+          "authorized_by": "Elena Rostova (Production Attorney)",
+          "note": "Authorized NO FAKES Act extension"
+        },
+        {
+          "timestamp": "2026-09-06T18:07:45.524377+00:00",
+          "added_seconds": 15.0,
+          "new_total_authorized": 405.0,
+          "authorized_by": "Elena Rostova (Production Attorney)",
+          "note": "Authorized NO FAKES Act extension"
+        },
+        {
+          "timestamp": "2026-09-06T18:07:45.581213+00:00",
+          "added_seconds": 15.0,
+          "new_total_authorized": 420.0,
+          "authorized_by": "Elena Rostova (Production Attorney)",
+          "note": "Authorized NO FAKES Act extension"
+        },
+        {
+          "timestamp": "2026-09-06T18:07:48.137455+00:00",
+          "added_seconds": 15.0,
+          "new_total_authorized": 435.0,
+          "authorized_by": "Elena Rostova (Production Attorney)",
+          "note": "Authorized NO FAKES Act extension"
+        },
+        {
+          "timestamp": "2026-09-06T18:07:48.191548+00:00",
+          "added_seconds": 15.0,
+          "new_total_authorized": 450.0,
+          "authorized_by": "Elena Rostova (Production Attorney)",
+          "note": "Authorized NO FAKES Act extension"
+        },
+        {
+          "timestamp": "2026-09-06T18:09:34.996175+00:00",
+          "added_seconds": 15.0,
+          "new_total_authorized": 465.0,
+          "authorized_by": "Elena Rostova (Production Attorney)",
+          "note": "Authorized NO FAKES Act extension"
+        },
+        {
+          "timestamp": "2026-09-06T18:09:35.051814+00:00",
+          "added_seconds": 15.0,
+          "new_total_authorized": 480.0,
+          "authorized_by": "Elena Rostova (Production Attorney)",
+          "note": "Authorized NO FAKES Act extension"
+        },
+        {
+          "timestamp": "2026-09-06T18:24:13.990613+00:00",
+          "added_seconds": 15.0,
+          "new_total_authorized": 495.0,
+          "authorized_by": "Elena Rostova (Production Attorney)",
+          "note": "Authorized NO FAKES Act extension"
+        },
+        {
+          "timestamp": "2026-09-06T18:24:14.044931+00:00",
+          "added_seconds": 15.0,
+          "new_total_authorized": 510.0,
+          "authorized_by": "Elena Rostova (Production Attorney)",
+          "note": "Authorized NO FAKES Act extension"
+        },
+        {
+          "timestamp": "2026-09-06T18:26:00.651638+00:00",
+          "added_seconds": 15.0,
+          "new_total_authorized": 525.0,
+          "authorized_by": "Elena Rostova (Production Attorney)",
+          "note": "Authorized NO FAKES Act extension"
+        },
+        {
+          "timestamp": "2026-09-06T18:26:00.710720+00:00",
+          "added_seconds": 15.0,
+          "new_total_authorized": 540.0,
+          "authorized_by": "Elena Rostova (Production Attorney)",
+          "note": "Authorized NO FAKES Act extension"
+        },
+        {
+          "timestamp": "2026-09-06T19:53:08.408736+00:00",
+          "added_seconds": 15.0,
+          "new_total_authorized": 555.0,
+          "authorized_by": "Elena Rostova (Production Attorney)",
+          "note": "Authorized NO FAKES Act extension"
+        },
+        {
+          "timestamp": "2026-09-06T19:53:08.470385+00:00",
+          "added_seconds": 15.0,
+          "new_total_authorized": 570.0,
+          "authorized_by": "Elena Rostova (Production Attorney)",
+          "note": "Authorized NO FAKES Act extension"
+        },
+        {
+          "timestamp": "2026-09-06T20:12:18.649396+00:00",
+          "added_seconds": 15.0,
+          "new_total_authorized": 585.0,
+          "authorized_by": "Elena Rostova (Production Attorney)",
+          "note": "Authorized NO FAKES Act extension"
+        },
+        {
+          "timestamp": "2026-09-06T20:12:18.710531+00:00",
+          "added_seconds": 15.0,
+          "new_total_authorized": 600.0,
+          "authorized_by": "Elena Rostova (Production Attorney)",
+          "note": "Authorized NO FAKES Act extension"
+        },
+        {
+          "timestamp": "2026-09-06T20:15:37.931302+00:00",
+          "added_seconds": 15.0,
+          "new_total_authorized": 615.0,
+          "authorized_by": "Elena Rostova (Production Attorney)",
+          "note": "Authorized NO FAKES Act extension"
+        },
+        {
+          "timestamp": "2026-09-06T20:15:37.990677+00:00",
+          "added_seconds": 15.0,
+          "new_total_authorized": 630.0,
+          "authorized_by": "Elena Rostova (Production Attorney)",
+          "note": "Authorized NO FAKES Act extension"
+        },
+        {
+          "timestamp": "2026-09-07T10:13:42.597491+00:00",
+          "added_seconds": 15.0,
+          "new_total_authorized": 645.0,
+          "authorized_by": "Elena Rostova (Production Attorney)",
+          "note": "Authorized NO FAKES Act extension"
+        },
+        {
+          "timestamp": "2026-09-07T10:13:42.681346+00:00",
+          "added_seconds": 15.0,
+          "new_total_authorized": 660.0,
+          "authorized_by": "Elena Rostova (Production Attorney)",
+          "note": "Authorized NO FAKES Act extension"
+        },
+        {
+          "timestamp": "2026-09-07T10:14:45.513215+00:00",
+          "added_seconds": 15.0,
+          "new_total_authorized": 675.0,
+          "authorized_by": "Elena Rostova (Production Attorney)",
+          "note": "Authorized NO FAKES Act extension"
+        },
+        {
+          "timestamp": "2026-09-07T10:14:45.577210+00:00",
+          "added_seconds": 15.0,
+          "new_total_authorized": 690.0,
+          "authorized_by": "Elena Rostova (Production Attorney)",
+          "note": "Authorized NO FAKES Act extension"
+        },
+        {
+          "timestamp": "2026-09-07T16:54:16.396924+00:00",
+          "added_seconds": 15.0,
+          "new_total_authorized": 705.0,
+          "authorized_by": "Elena Rostova (Production Attorney)",
+          "note": "Authorized NO FAKES Act extension"
+        },
+        {
+          "timestamp": "2026-09-07T16:54:16.473992+00:00",
+          "added_seconds": 15.0,
+          "new_total_authorized": 720.0,
+          "authorized_by": "Elena Rostova (Production Attorney)",
+          "note": "Authorized NO FAKES Act extension"
+        },
+        {
+          "timestamp": "2026-09-07T16:54:35.222854+00:00",
+          "added_seconds": 15.0,
+          "new_total_authorized": 735.0,
+          "authorized_by": "Elena Rostova (Production Attorney)",
+          "note": "Authorized NO FAKES Act extension"
+        },
+        {
+          "timestamp": "2026-09-07T16:54:35.303558+00:00",
+          "added_seconds": 15.0,
+          "new_total_authorized": 750.0,
+          "authorized_by": "Elena Rostova (Production Attorney)",
+          "note": "Authorized NO FAKES Act extension"
+        },
+        {
+          "timestamp": "2026-09-07T17:22:04.111879+00:00",
+          "added_seconds": 15.0,
+          "new_total_authorized": 765.0,
+          "authorized_by": "Elena Rostova (Production Attorney)",
+          "note": "Authorized NO FAKES Act extension"
+        },
+        {
+          "timestamp": "2026-09-07T17:22:04.178490+00:00",
+          "added_seconds": 15.0,
+          "new_total_authorized": 780.0,
+          "authorized_by": "Elena Rostova (Production Attorney)",
+          "note": "Authorized NO FAKES Act extension"
+        },
+        {
+          "timestamp": "2026-09-07T17:22:12.876226+00:00",
+          "added_seconds": 15.0,
+          "new_total_authorized": 795.0,
+          "authorized_by": "Elena Rostova (Production Attorney)",
+          "note": "Authorized NO FAKES Act extension"
+        },
+        {
+          "timestamp": "2026-09-07T17:22:12.944386+00:00",
+          "added_seconds": 15.0,
+          "new_total_authorized": 810.0,
+          "authorized_by": "Elena Rostova (Production Attorney)",
+          "note": "Authorized NO FAKES Act extension"
+        },
+        {
+          "timestamp": "2026-09-07T17:22:25.581648+00:00",
+          "added_seconds": 15.0,
+          "new_total_authorized": 825.0,
+          "authorized_by": "Elena Rostova (Production Attorney)",
+          "note": "Authorized NO FAKES Act extension"
+        },
+        {
+          "timestamp": "2026-09-07T17:22:25.668150+00:00",
+          "added_seconds": 15.0,
+          "new_total_authorized": 840.0,
+          "authorized_by": "Elena Rostova (Production Attorney)",
+          "note": "Authorized NO FAKES Act extension"
+        },
+        {
+          "timestamp": "2026-09-07T17:24:14.408337+00:00",
+          "added_seconds": 15.0,
+          "new_total_authorized": 855.0,
+          "authorized_by": "Elena Rostova (Production Attorney)",
+          "note": "Authorized NO FAKES Act extension"
+        },
+        {
+          "timestamp": "2026-09-07T17:24:14.478120+00:00",
+          "added_seconds": 15.0,
+          "new_total_authorized": 870.0,
+          "authorized_by": "Elena Rostova (Production Attorney)",
+          "note": "Authorized NO FAKES Act extension"
+        },
+        {
+          "timestamp": "2026-09-07T17:43:44.461470+00:00",
+          "added_seconds": 15.0,
+          "new_total_authorized": 885.0,
+          "authorized_by": "Elena Rostova (Production Attorney)",
+          "note": "Authorized NO FAKES Act extension"
+        },
+        {
+          "timestamp": "2026-09-07T17:43:44.542233+00:00",
+          "added_seconds": 15.0,
+          "new_total_authorized": 900.0,
+          "authorized_by": "Elena Rostova (Production Attorney)",
+          "note": "Authorized NO FAKES Act extension"
+        },
+        {
+          "timestamp": "2026-09-07T17:43:54.715342+00:00",
+          "added_seconds": 15.0,
+          "new_total_authorized": 915.0,
+          "authorized_by": "Elena Rostova (Production Attorney)",
+          "note": "Authorized NO FAKES Act extension"
+        },
+        {
+          "timestamp": "2026-09-07T17:43:54.783018+00:00",
+          "added_seconds": 15.0,
+          "new_total_authorized": 930.0,
+          "authorized_by": "Elena Rostova (Production Attorney)",
+          "note": "Authorized NO FAKES Act extension"
+        },
+        {
+          "timestamp": "2026-09-07T17:44:17.629056+00:00",
+          "added_seconds": 15.0,
+          "new_total_authorized": 945.0,
+          "authorized_by": "Elena Rostova (Production Attorney)",
+          "note": "Authorized NO FAKES Act extension"
+        },
+        {
+          "timestamp": "2026-09-07T17:44:17.697933+00:00",
+          "added_seconds": 15.0,
+          "new_total_authorized": 960.0,
+          "authorized_by": "Elena Rostova (Production Attorney)",
+          "note": "Authorized NO FAKES Act extension"
+        },
+        {
+          "timestamp": "2026-09-07T17:44:41.974919+00:00",
+          "added_seconds": 15.0,
+          "new_total_authorized": 975.0,
+          "authorized_by": "Elena Rostova (Production Attorney)",
+          "note": "Authorized NO FAKES Act extension"
+        },
+        {
+          "timestamp": "2026-09-07T17:44:42.050170+00:00",
+          "added_seconds": 15.0,
+          "new_total_authorized": 990.0,
+          "authorized_by": "Elena Rostova (Production Attorney)",
+          "note": "Authorized NO FAKES Act extension"
+        },
+        {
+          "timestamp": "2026-09-07T17:58:50.514088+00:00",
+          "added_seconds": 15.0,
+          "new_total_authorized": 1005.0,
+          "authorized_by": "Elena Rostova (Production Attorney)",
+          "note": "Authorized NO FAKES Act extension"
+        },
+        {
+          "timestamp": "2026-09-07T17:58:50.586853+00:00",
+          "added_seconds": 15.0,
+          "new_total_authorized": 1020.0,
+          "authorized_by": "Elena Rostova (Production Attorney)",
+          "note": "Authorized NO FAKES Act extension"
+        },
+        {
+          "timestamp": "2026-09-07T18:13:33.371200+00:00",
+          "added_seconds": 15.0,
+          "new_total_authorized": 1035.0,
+          "authorized_by": "Elena Rostova (Production Attorney)",
+          "note": "Authorized NO FAKES Act extension"
+        },
+        {
+          "timestamp": "2026-09-07T18:13:33.466546+00:00",
+          "added_seconds": 15.0,
+          "new_total_authorized": 1050.0,
+          "authorized_by": "Elena Rostova (Production Attorney)",
+          "note": "Authorized NO FAKES Act extension"
+        },
+        {
+          "timestamp": "2026-09-07T18:14:08.030139+00:00",
+          "added_seconds": 15.0,
+          "new_total_authorized": 1065.0,
+          "authorized_by": "Elena Rostova (Production Attorney)",
+          "note": "Authorized NO FAKES Act extension"
+        },
+        {
+          "timestamp": "2026-09-07T18:14:08.102982+00:00",
+          "added_seconds": 15.0,
+          "new_total_authorized": 1080.0,
+          "authorized_by": "Elena Rostova (Production Attorney)",
+          "note": "Authorized NO FAKES Act extension"
+        },
+        {
+          "timestamp": "2026-09-09T18:45:03.569528+00:00",
+          "added_seconds": 15.0,
+          "new_total_authorized": 1095.0,
+          "authorized_by": "Elena Rostova (Production Attorney)",
+          "note": "Authorized NO FAKES Act extension"
+        },
+        {
+          "timestamp": "2026-09-09T18:45:03.668354+00:00",
+          "added_seconds": 15.0,
+          "new_total_authorized": 1110.0,
+          "authorized_by": "Elena Rostova (Production Attorney)",
+          "note": "Authorized NO FAKES Act extension"
+        },
+        {
+          "timestamp": "2026-09-09T18:45:15.201760+00:00",
+          "added_seconds": 15.0,
+          "new_total_authorized": 1125.0,
+          "authorized_by": "Elena Rostova (Production Attorney)",
+          "note": "Authorized NO FAKES Act extension"
+        },
+        {
+          "timestamp": "2026-09-09T18:45:15.277528+00:00",
+          "added_seconds": 15.0,
+          "new_total_authorized": 1140.0,
+          "authorized_by": "Elena Rostova (Production Attorney)",
+          "note": "Authorized NO FAKES Act extension"
+        },
+        {
+          "timestamp": "2026-09-09T18:45:26.832221+00:00",
+          "added_seconds": 15.0,
+          "new_total_authorized": 1155.0,
+          "authorized_by": "Elena Rostova (Production Attorney)",
+          "note": "Authorized NO FAKES Act extension"
+        },
+        {
+          "timestamp": "2026-09-09T18:45:26.911649+00:00",
+          "added_seconds": 15.0,
+          "new_total_authorized": 1170.0,
+          "authorized_by": "Elena Rostova (Production Attorney)",
+          "note": "Authorized NO FAKES Act extension"
+        },
+        {
+          "timestamp": "2026-09-09T18:56:57.934934+00:00",
+          "added_seconds": 15.0,
+          "new_total_authorized": 1185.0,
+          "authorized_by": "Elena Rostova (Production Attorney)",
+          "note": "Authorized NO FAKES Act extension"
+        },
+        {
+          "timestamp": "2026-09-09T18:56:58.041155+00:00",
+          "added_seconds": 15.0,
+          "new_total_authorized": 1200.0,
+          "authorized_by": "Elena Rostova (Production Attorney)",
+          "note": "Authorized NO FAKES Act extension"
+        },
+        {
+          "timestamp": "2026-09-09T19:22:46.041357+00:00",
+          "added_seconds": 15.0,
+          "new_total_authorized": 1215.0,
+          "authorized_by": "Elena Rostova (Production Attorney)",
+          "note": "Authorized NO FAKES Act extension"
+        },
+        {
+          "timestamp": "2026-09-09T19:22:46.145004+00:00",
+          "added_seconds": 15.0,
+          "new_total_authorized": 1230.0,
+          "authorized_by": "Elena Rostova (Production Attorney)",
+          "note": "Authorized NO FAKES Act extension"
+        },
+        {
+          "timestamp": "2026-09-09T19:23:15.854333+00:00",
+          "added_seconds": 15.0,
+          "new_total_authorized": 1245.0,
+          "authorized_by": "Elena Rostova (Production Attorney)",
+          "note": "Authorized NO FAKES Act extension"
+        },
+        {
+          "timestamp": "2026-09-09T19:23:15.918410+00:00",
+          "added_seconds": 15.0,
+          "new_total_authorized": 1260.0,
+          "authorized_by": "Elena Rostova (Production Attorney)",
+          "note": "Authorized NO FAKES Act extension"
+        },
+        {
+          "timestamp": "2026-09-09T19:41:17.811958+00:00",
+          "added_seconds": 15.0,
+          "new_total_authorized": 1275.0,
+          "authorized_by": "Elena Rostova (Production Attorney)",
+          "note": "Authorized NO FAKES Act extension"
+        },
+        {
+          "timestamp": "2026-09-09T19:41:17.873058+00:00",
+          "added_seconds": 15.0,
+          "new_total_authorized": 1290.0,
+          "authorized_by": "Elena Rostova (Production Attorney)",
+          "note": "Authorized NO FAKES Act extension"
+        },
+        {
+          "timestamp": "2026-09-09T19:42:27.735166+00:00",
+          "added_seconds": 15.0,
+          "new_total_authorized": 1305.0,
+          "authorized_by": "Elena Rostova (Production Attorney)",
+          "note": "Authorized NO FAKES Act extension"
+        },
+        {
+          "timestamp": "2026-09-09T19:42:27.796639+00:00",
+          "added_seconds": 15.0,
+          "new_total_authorized": 1320.0,
+          "authorized_by": "Elena Rostova (Production Attorney)",
+          "note": "Authorized NO FAKES Act extension"
+        }
+      ]
+    },
+    {
+      "actor_id": "ACTOR_ELENA_ROSTOVA",
+      "actor_name": "Elena Rostova",
+      "character_name": "Dr. Aris Thorne",
+      "contract_id": "SAG-SCH-F-1102",
+      "union_affiliation": "SAG_AFTRA",
+      "schedule_code": "SCHEDULE_F",
+      "performer_type": "Principal Cast Theatrical Buyout",
+      "authorized_seconds": 120.0,
+      "used_seconds": 44.5,
+      "residual_rate_per_sec": 450.0,
+      "accrued_residuals_usd": 20025.0,
+      "consent_expiry": "2028-06-30",
+      "c2pa_hash": "c2pa:sha256:1a2b3c4d5e6f7a8b9c0d1e2f3a4b5c6d7e8f9a0b1c2d3e4f5a6b7c8d9e0f1a2b",
+      "status": "CLEARED",
+      "permitted_uses": [
+        "Sub-zero environmental breath condensation composite",
+        "High-altitude atmospheric descent stunt plate",
+        "Extreme lighting HDR facial re-illumination"
+      ],
+      "prohibited_uses": [
+        "Dialogue generation unscripted by principal author",
+        "Synthetic vocal timbre modification"
+      ],
+      "cryptographic_signatures": {
+        "performer_key_id": "kms:us-central1:sag:er-vault-key-02",
+        "sha256_consent_hash": "b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a5b6c7d8e9f0a1b2c3",
+        "c2pa_manifest_uri": "c2pa:sha256:8899aabbccddeeff00112233445566778899aabbccddeeff0011223344556677",
+        "root_of_trust": "Sony CineAlta Venice 2 Hardware Enclave CA",
+        "x509_issuer": "DigiCert Studio CA v3 / SAG-AFTRA Trust Network",
+        "tsa_timestamp": "2026-04-02T11:20:10Z",
+        "integrity_status": "VERIFIED_VALID"
+      },
+      "synthetic_double_assets": {
+        "scan_fidelity": 99.8,
+        "landmark_deviation_mm": 0.024,
+        "gamut_match": "ACEScg SMPTE ST 2065-1",
+        "topology_points": 162000,
+        "render_engine": "Neural Gaussian Splatting v4.2 / Unreal Substrate",
+        "raw_scan_tag": "ER_HEADSCAN_POLARIZED_RAW_v02",
+        "neural_render_tag": "ER_NEURAL_COMP_ACEScg_v09"
+      },
+      "shot_attributions": [
+        {
+          "attribution_id": "attr-er-01",
+          "scene_id": "SCENE_34",
+          "scene_display": "Scene 34",
+          "take_number": 2,
+          "shot_id": "SHOT_05",
+          "description": "Sub-zero cryo-chamber condensation double",
+          "used_seconds": 14.5,
+          "rendered_by": "VFX_GPU_NODE_03",
+          "timecode": "00:48:12:00",
+          "timestamp": "2026-09-01T14:10:00Z",
+          "status": "CONFORMED"
+        },
+        {
+          "attribution_id": "attr-er-02",
+          "scene_id": "SCENE_28",
+          "scene_display": "Scene 28",
+          "take_number": 5,
+          "shot_id": "SHOT_09",
+          "description": "High altitude atmospheric descent exterior harness",
+          "used_seconds": 30.0,
+          "rendered_by": "VFX_GPU_NODE_07",
+          "timecode": "00:39:20:00",
+          "timestamp": "2026-08-28T18:30:00Z",
+          "status": "CONFORMED"
+        }
+      ]
+    },
+    {
+      "actor_id": "ACTOR_DAVID_KALU",
+      "actor_name": "David Kalu",
+      "character_name": "Lt. Joseph Vance",
+      "contract_id": "SAG-SCH-B-4401",
+      "union_affiliation": "SAG_AFTRA",
+      "schedule_code": "SCHEDULE_B",
+      "performer_type": "Secondary Cast Stunt Replica",
+      "authorized_seconds": 60.0,
+      "used_seconds": 42.0,
+      "residual_rate_per_sec": 250.0,
+      "accrued_residuals_usd": 10500.0,
+      "consent_expiry": "2027-09-15",
+      "c2pa_hash": "c2pa:sha256:883bf12c99182a39df4a1023901bce44a192837465abc1234567890abcdef123",
+      "status": "CLEARED",
+      "permitted_uses": [
+        "Corridor combat wirework body double replacement",
+        "Pyrotechnic concussion blast roll in Scene 42B"
+      ],
+      "prohibited_uses": [
+        "Voice replication unapproved by performer",
+        "Standalone merchandising digital avatars"
+      ],
+      "cryptographic_signatures": {
+        "performer_key_id": "kms:us-central1:sag:dk-vault-key-03",
+        "sha256_consent_hash": "c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a5b6c7d8e9f0a1b2c3d4",
+        "c2pa_manifest_uri": "c2pa:sha256:9900aabbccddeeff00112233445566778899aabbccddeeff0011223344556688",
+        "root_of_trust": "RED V-Raptor XL Hardware Enclave CA",
+        "x509_issuer": "DigiCert Studio CA v3 / SAG-AFTRA Trust Network",
+        "tsa_timestamp": "2026-05-19T14:40:02Z",
+        "integrity_status": "VERIFIED_VALID"
+      },
+      "synthetic_double_assets": {
+        "scan_fidelity": 99.2,
+        "landmark_deviation_mm": 0.045,
+        "gamut_match": "ACEScg SMPTE ST 2065-1",
+        "topology_points": 139000,
+        "render_engine": "Neural Gaussian Splatting v4.2 / Unreal Substrate",
+        "raw_scan_tag": "DK_HEADSCAN_POLARIZED_RAW_v01",
+        "neural_render_tag": "DK_NEURAL_COMP_ACEScg_v04"
+      },
+      "shot_attributions": [
+        {
+          "attribution_id": "attr-dk-01",
+          "scene_id": "SCENE_42B",
+          "scene_display": "Scene 42B",
+          "take_number": 3,
+          "shot_id": "SHOT_12",
+          "description": "Vault gunfight floor tumble and blast rebound",
+          "used_seconds": 12.0,
+          "rendered_by": "VFX_GPU_NODE_10",
+          "timecode": "01:24:22:04",
+          "timestamp": "2026-09-04T22:30:00Z",
+          "status": "CONFORMED"
+        },
+        {
+          "attribution_id": "attr-dk-02",
+          "scene_id": "SCENE_14",
+          "scene_display": "Scene 14",
+          "take_number": 2,
+          "shot_id": "SHOT_04",
+          "description": "Hangar explosion blast wave kinetic trajectory",
+          "used_seconds": 30.0,
+          "rendered_by": "VFX_GPU_NODE_05",
+          "timecode": "00:21:10:00",
+          "timestamp": "2026-08-20T11:00:00Z",
+          "status": "CONFORMED"
+        }
+      ],
+      "extension_history": [
+        {
+          "timestamp": "2026-09-06T17:39:18.261728+00:00",
+          "added_seconds": 15.0,
+          "new_total_authorized": 60.0,
+          "authorized_by": "Elena Rostova (Production Attorney)",
+          "note": "Authorized NO FAKES Act extension"
+        }
+      ]
+    },
+    {
+      "actor_id": "ACTOR_SARAH_LIN",
+      "actor_name": "Sarah Lin",
+      "character_name": "Stunt Double Echo",
+      "contract_id": "SAG-SCH-A-9012",
+      "union_affiliation": "SAG_AFTRA",
+      "schedule_code": "SCHEDULE_A",
+      "performer_type": "Specialized Wirework Stunt Double",
+      "authorized_seconds": 90.0,
+      "used_seconds": 15.0,
+      "residual_rate_per_sec": 180.0,
+      "accrued_residuals_usd": 2700.0,
+      "consent_expiry": "2028-11-20",
+      "c2pa_hash": "c2pa:sha256:55abcc332199014e7a892bdfc834912903487192837465012938475610293847",
+      "status": "CLEARED",
+      "permitted_uses": [
+        "Acrobatic rooftop leap sequence",
+        "High-impact stair fall replacement"
+      ],
+      "prohibited_uses": [
+        "Facial reconstruction without secondary photography",
+        "Commercial brand association"
+      ],
+      "cryptographic_signatures": {
+        "performer_key_id": "kms:us-central1:sag:sl-vault-key-04",
+        "sha256_consent_hash": "d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a5b6c7d8e9f0a1b2c3d4e5",
+        "c2pa_manifest_uri": "c2pa:sha256:aa112233445566778899aabbccddeeff00112233445566778899aabbccddeeff",
+        "root_of_trust": "ARRI Alexa 35 Hardware Enclave CA",
+        "x509_issuer": "DigiCert Studio CA v3 / SAG-AFTRA Trust Network",
+        "tsa_timestamp": "2026-06-01T09:15:20Z",
+        "integrity_status": "VERIFIED_VALID"
+      },
+      "synthetic_double_assets": {
+        "scan_fidelity": 99.4,
+        "landmark_deviation_mm": 0.032,
+        "gamut_match": "ACEScg SMPTE ST 2065-1",
+        "topology_points": 142000,
+        "render_engine": "Neural Gaussian Splatting v4.2 / Unreal Substrate",
+        "raw_scan_tag": "SL_HEADSCAN_POLARIZED_RAW_v01",
+        "neural_render_tag": "SL_NEURAL_COMP_ACEScg_v03"
+      },
+      "shot_attributions": [
+        {
+          "attribution_id": "attr-sl-01",
+          "scene_id": "SCENE_42B",
+          "scene_display": "Scene 42B",
+          "take_number": 1,
+          "shot_id": "SHOT_03",
+          "description": "Balcony leap kinetic calibration pass",
+          "used_seconds": 15.0,
+          "rendered_by": "VFX_GPU_NODE_01",
+          "timecode": "01:24:10:00",
+          "timestamp": "2026-09-04T22:00:00Z",
+          "status": "CONFORMED"
+        }
+      ]
+    },
+    {
+      "actor_id": "ACTOR_SARAH_CONNOR",
+      "actor_name": "Sarah Connor",
+      "character_name": "Featured Role",
+      "contract_id": "SAG-2026-9912",
+      "union_affiliation": "SAG_AFTRA",
+      "schedule_code": "SCHEDULE_A",
+      "performer_type": "Digital Stunt Double",
+      "authorized_seconds": 45.0,
+      "used_seconds": 5.0,
+      "residual_rate_per_sec": 420.0,
+      "accrued_residuals_usd": 2100.0,
+      "consent_expiry": "2029-01-01",
+      "c2pa_hash": "c2pa:sha256:rider_sarah",
+      "status": "CLEARED",
+      "permitted_uses": [
+        "VFX background stunt double replication",
+        "Extreme environment composite"
+      ],
+      "prohibited_uses": [
+        "Unscripted synthetic dialogue",
+        "Posthumous continuation without secondary consent"
+      ],
+      "cryptographic_signatures": {
+        "performer_key_id": "kms:us-central1:sag:actor_sarah_connor-key",
+        "sha256_consent_hash": "23b2c3137b3347d58b4f02f1f335c20c81aa1b97232142ba869645a08fac7be3",
+        "c2pa_manifest_uri": "c2pa:sha256:7531b7ffdb89488686dedec86da43bbe",
+        "root_of_trust": "ARRI Alexa 35 Hardware Enclave CA",
+        "x509_issuer": "DigiCert Studio CA v3 / SAG-AFTRA Trust Network",
+        "tsa_timestamp": "2026-09-09T19:42:27.739655+00:00",
+        "integrity_status": "VERIFIED_VALID"
+      },
+      "synthetic_double_assets": {
+        "scan_fidelity": 99.5,
+        "landmark_deviation_mm": 0.035,
+        "gamut_match": "ACEScg SMPTE ST 2065-1",
+        "topology_points": 145000,
+        "render_engine": "Neural Gaussian Splatting v4.2 / Unreal Substrate",
+        "raw_scan_tag": "ACTOR__HEADSCAN_POLARIZED_RAW_v01",
+        "neural_render_tag": "ACTOR__NEURAL_COMP_ACEScg_v01"
+      },
+      "shot_attributions": []
+    }
+  ],
+  "a24_films": [
+    {
+      "actor_id": "ACTOR_MARCUS_VANCE",
+      "actor_name": "Marcus Vance",
+      "character_name": "Commander Vance",
+      "contract_id": "SAG-SCH-A-8942",
+      "union_affiliation": "SAG_AFTRA",
+      "schedule_code": "SCHEDULE_A",
+      "performer_type": "Digital Stunt Double & Facial Stabilizer",
+      "authorized_seconds": 60.0,
+      "used_seconds": 52.2,
+      "residual_rate_per_sec": 300.0,
+      "accrued_residuals_usd": 28310.0,
+      "consent_expiry": "2027-12-31",
+      "c2pa_hash": "c2pa:sha256:7f83b1657ff1fc53b92dc18148a1d65dfc2d4b1fa3d677284addd200126d9069",
+      "status": "WARNING_THRESHOLD",
+      "permitted_uses": [
+        "VFX digital double background stunt replication",
+        "Dangerous wirework replacement in Scene 42B",
+        "Extreme environment cockpit facial composite in Scene 42A",
+        "High-G facial turbulence stabilizer"
+      ],
+      "prohibited_uses": [
+        "Dialogue generation unscripted by principal author",
+        "Posthumous continuation without secondary estate consent",
+        "Commercial merchandising endorsement without Rider B",
+        "Third-party AI foundation model training"
+      ],
+      "cryptographic_signatures": {
+        "performer_key_id": "kms:us-central1:sag:mv-vault-key-01",
+        "sha256_consent_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "c2pa_manifest_uri": "c2pa:sha256:42a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a5b6c7d8e9f0a1",
+        "root_of_trust": "ARRI Alexa 35 Hardware Enclave CA",
+        "x509_issuer": "DigiCert Studio CA v3 / SAG-AFTRA Trust Network",
+        "tsa_timestamp": "2026-03-14T08:12:44Z",
+        "integrity_status": "VERIFIED_VALID"
+      },
+      "synthetic_double_assets": {
+        "scan_fidelity": 99.6,
+        "landmark_deviation_mm": 0.038,
+        "gamut_match": "ACEScg SMPTE ST 2065-1",
+        "topology_points": 148200,
+        "render_engine": "Neural Gaussian Splatting v4.2 / Unreal Substrate",
+        "raw_scan_tag": "MV_HEADSCAN_POLARIZED_RAW_v04",
+        "neural_render_tag": "MV_NEURAL_COMP_ACEScg_v12"
+      },
+      "shot_attributions": [
+        {
+          "attribution_id": "attr-mv-01",
+          "scene_id": "SCENE_42B",
+          "scene_display": "Scene 42B",
+          "take_number": 4,
+          "shot_id": "SHOT_14",
+          "description": "Wirework stunt platform drop & backward flip",
+          "used_seconds": 6.2,
+          "rendered_by": "VFX_GPU_NODE_12",
+          "timecode": "01:24:14:10",
+          "timestamp": "2026-09-04T23:10:00Z",
+          "status": "CONFORMED"
+        },
+        {
+          "attribution_id": "attr-mv-02",
+          "scene_id": "SCENE_42B",
+          "scene_display": "Scene 42B",
+          "take_number": 2,
+          "shot_id": "SHOT_11",
+          "description": "Explosion concussion shockwave head replacement",
+          "used_seconds": 4.1,
+          "rendered_by": "VFX_GPU_NODE_08",
+          "timecode": "01:24:18:00",
+          "timestamp": "2026-09-04T22:50:00Z",
+          "status": "CONFORMED"
+        },
+        {
+          "attribution_id": "attr-mv-03",
+          "scene_id": "SCENE_42A",
+          "scene_display": "Scene 42A",
+          "take_number": 8,
+          "shot_id": "SHOT_08",
+          "description": "Cockpit turbulence high-G facial stabilizer",
+          "used_seconds": 5.4,
+          "rendered_by": "VFX_GPU_NODE_04",
+          "timecode": "01:18:04:12",
+          "timestamp": "2026-09-04T21:40:00Z",
+          "status": "CONFORMED"
+        },
+        {
+          "attribution_id": "attr-mv-04",
+          "scene_id": "SCENE_41",
+          "scene_display": "Scene 41",
+          "take_number": 3,
+          "shot_id": "SHOT_02",
+          "description": "Dune sandstorm digital double wide shot background",
+          "used_seconds": 18.5,
+          "rendered_by": "VFX_GPU_NODE_02",
+          "timecode": "01:10:12:00",
+          "timestamp": "2026-09-03T19:20:00Z",
+          "status": "CONFORMED"
+        },
+        {
+          "attribution_id": "attr-mv-05",
+          "scene_id": "SCENE_38",
+          "scene_display": "Scene 38",
+          "take_number": 1,
+          "shot_id": "SHOT_01",
+          "description": "De-aging flashback sequence (age 24 retro-composite)",
+          "used_seconds": 18.0,
+          "rendered_by": "VFX_GPU_NODE_06",
+          "timecode": "00:54:10:00",
+          "timestamp": "2026-09-02T16:15:00Z",
+          "status": "CONFORMED"
+        }
+      ]
+    },
+    {
+      "actor_id": "ACTOR_ELENA_ROSTOVA",
+      "actor_name": "Elena Rostova",
+      "character_name": "Dr. Aris Thorne",
+      "contract_id": "SAG-SCH-F-1102",
+      "union_affiliation": "SAG_AFTRA",
+      "schedule_code": "SCHEDULE_F",
+      "performer_type": "Principal Cast Theatrical Buyout",
+      "authorized_seconds": 120.0,
+      "used_seconds": 44.5,
+      "residual_rate_per_sec": 450.0,
+      "accrued_residuals_usd": 20025.0,
+      "consent_expiry": "2028-06-30",
+      "c2pa_hash": "c2pa:sha256:1a2b3c4d5e6f7a8b9c0d1e2f3a4b5c6d7e8f9a0b1c2d3e4f5a6b7c8d9e0f1a2b",
+      "status": "CLEARED",
+      "permitted_uses": [
+        "Sub-zero environmental breath condensation composite",
+        "High-altitude atmospheric descent stunt plate",
+        "Extreme lighting HDR facial re-illumination"
+      ],
+      "prohibited_uses": [
+        "Dialogue generation unscripted by principal author",
+        "Synthetic vocal timbre modification"
+      ],
+      "cryptographic_signatures": {
+        "performer_key_id": "kms:us-central1:sag:er-vault-key-02",
+        "sha256_consent_hash": "b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a5b6c7d8e9f0a1b2c3",
+        "c2pa_manifest_uri": "c2pa:sha256:8899aabbccddeeff00112233445566778899aabbccddeeff0011223344556677",
+        "root_of_trust": "Sony CineAlta Venice 2 Hardware Enclave CA",
+        "x509_issuer": "DigiCert Studio CA v3 / SAG-AFTRA Trust Network",
+        "tsa_timestamp": "2026-04-02T11:20:10Z",
+        "integrity_status": "VERIFIED_VALID"
+      },
+      "synthetic_double_assets": {
+        "scan_fidelity": 99.8,
+        "landmark_deviation_mm": 0.024,
+        "gamut_match": "ACEScg SMPTE ST 2065-1",
+        "topology_points": 162000,
+        "render_engine": "Neural Gaussian Splatting v4.2 / Unreal Substrate",
+        "raw_scan_tag": "ER_HEADSCAN_POLARIZED_RAW_v02",
+        "neural_render_tag": "ER_NEURAL_COMP_ACEScg_v09"
+      },
+      "shot_attributions": [
+        {
+          "attribution_id": "attr-er-01",
+          "scene_id": "SCENE_34",
+          "scene_display": "Scene 34",
+          "take_number": 2,
+          "shot_id": "SHOT_05",
+          "description": "Sub-zero cryo-chamber condensation double",
+          "used_seconds": 14.5,
+          "rendered_by": "VFX_GPU_NODE_03",
+          "timecode": "00:48:12:00",
+          "timestamp": "2026-09-01T14:10:00Z",
+          "status": "CONFORMED"
+        },
+        {
+          "attribution_id": "attr-er-02",
+          "scene_id": "SCENE_28",
+          "scene_display": "Scene 28",
+          "take_number": 5,
+          "shot_id": "SHOT_09",
+          "description": "High altitude atmospheric descent exterior harness",
+          "used_seconds": 30.0,
+          "rendered_by": "VFX_GPU_NODE_07",
+          "timecode": "00:39:20:00",
+          "timestamp": "2026-08-28T18:30:00Z",
+          "status": "CONFORMED"
+        }
+      ]
+    }
+  ],
+  "warner_bros": [
+    {
+      "actor_id": "ACTOR_MARCUS_VANCE",
+      "actor_name": "Marcus Vance",
+      "character_name": "Commander Vance",
+      "contract_id": "SAG-SCH-A-8942",
+      "union_affiliation": "SAG_AFTRA",
+      "schedule_code": "SCHEDULE_A",
+      "performer_type": "Digital Stunt Double & Facial Stabilizer",
+      "authorized_seconds": 60.0,
+      "used_seconds": 52.2,
+      "residual_rate_per_sec": 300.0,
+      "accrued_residuals_usd": 28310.0,
+      "consent_expiry": "2027-12-31",
+      "c2pa_hash": "c2pa:sha256:7f83b1657ff1fc53b92dc18148a1d65dfc2d4b1fa3d677284addd200126d9069",
+      "status": "WARNING_THRESHOLD",
+      "permitted_uses": [
+        "VFX digital double background stunt replication",
+        "Dangerous wirework replacement in Scene 42B",
+        "Extreme environment cockpit facial composite in Scene 42A",
+        "High-G facial turbulence stabilizer"
+      ],
+      "prohibited_uses": [
+        "Dialogue generation unscripted by principal author",
+        "Posthumous continuation without secondary estate consent",
+        "Commercial merchandising endorsement without Rider B",
+        "Third-party AI foundation model training"
+      ],
+      "cryptographic_signatures": {
+        "performer_key_id": "kms:us-central1:sag:mv-vault-key-01",
+        "sha256_consent_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "c2pa_manifest_uri": "c2pa:sha256:42a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a5b6c7d8e9f0a1",
+        "root_of_trust": "ARRI Alexa 35 Hardware Enclave CA",
+        "x509_issuer": "DigiCert Studio CA v3 / SAG-AFTRA Trust Network",
+        "tsa_timestamp": "2026-03-14T08:12:44Z",
+        "integrity_status": "VERIFIED_VALID"
+      },
+      "synthetic_double_assets": {
+        "scan_fidelity": 99.6,
+        "landmark_deviation_mm": 0.038,
+        "gamut_match": "ACEScg SMPTE ST 2065-1",
+        "topology_points": 148200,
+        "render_engine": "Neural Gaussian Splatting v4.2 / Unreal Substrate",
+        "raw_scan_tag": "MV_HEADSCAN_POLARIZED_RAW_v04",
+        "neural_render_tag": "MV_NEURAL_COMP_ACEScg_v12"
+      },
+      "shot_attributions": [
+        {
+          "attribution_id": "attr-mv-01",
+          "scene_id": "SCENE_42B",
+          "scene_display": "Scene 42B",
+          "take_number": 4,
+          "shot_id": "SHOT_14",
+          "description": "Wirework stunt platform drop & backward flip",
+          "used_seconds": 6.2,
+          "rendered_by": "VFX_GPU_NODE_12",
+          "timecode": "01:24:14:10",
+          "timestamp": "2026-09-04T23:10:00Z",
+          "status": "CONFORMED"
+        },
+        {
+          "attribution_id": "attr-mv-02",
+          "scene_id": "SCENE_42B",
+          "scene_display": "Scene 42B",
+          "take_number": 2,
+          "shot_id": "SHOT_11",
+          "description": "Explosion concussion shockwave head replacement",
+          "used_seconds": 4.1,
+          "rendered_by": "VFX_GPU_NODE_08",
+          "timecode": "01:24:18:00",
+          "timestamp": "2026-09-04T22:50:00Z",
+          "status": "CONFORMED"
+        },
+        {
+          "attribution_id": "attr-mv-03",
+          "scene_id": "SCENE_42A",
+          "scene_display": "Scene 42A",
+          "take_number": 8,
+          "shot_id": "SHOT_08",
+          "description": "Cockpit turbulence high-G facial stabilizer",
+          "used_seconds": 5.4,
+          "rendered_by": "VFX_GPU_NODE_04",
+          "timecode": "01:18:04:12",
+          "timestamp": "2026-09-04T21:40:00Z",
+          "status": "CONFORMED"
+        },
+        {
+          "attribution_id": "attr-mv-04",
+          "scene_id": "SCENE_41",
+          "scene_display": "Scene 41",
+          "take_number": 3,
+          "shot_id": "SHOT_02",
+          "description": "Dune sandstorm digital double wide shot background",
+          "used_seconds": 18.5,
+          "rendered_by": "VFX_GPU_NODE_02",
+          "timecode": "01:10:12:00",
+          "timestamp": "2026-09-03T19:20:00Z",
+          "status": "CONFORMED"
+        },
+        {
+          "attribution_id": "attr-mv-05",
+          "scene_id": "SCENE_38",
+          "scene_display": "Scene 38",
+          "take_number": 1,
+          "shot_id": "SHOT_01",
+          "description": "De-aging flashback sequence (age 24 retro-composite)",
+          "used_seconds": 18.0,
+          "rendered_by": "VFX_GPU_NODE_06",
+          "timecode": "00:54:10:00",
+          "timestamp": "2026-09-02T16:15:00Z",
+          "status": "CONFORMED"
+        }
+      ]
+    },
+    {
+      "actor_id": "ACTOR_ELENA_ROSTOVA",
+      "actor_name": "Elena Rostova",
+      "character_name": "Dr. Aris Thorne",
+      "contract_id": "SAG-SCH-F-1102",
+      "union_affiliation": "SAG_AFTRA",
+      "schedule_code": "SCHEDULE_F",
+      "performer_type": "Principal Cast Theatrical Buyout",
+      "authorized_seconds": 120.0,
+      "used_seconds": 44.5,
+      "residual_rate_per_sec": 450.0,
+      "accrued_residuals_usd": 20025.0,
+      "consent_expiry": "2028-06-30",
+      "c2pa_hash": "c2pa:sha256:1a2b3c4d5e6f7a8b9c0d1e2f3a4b5c6d7e8f9a0b1c2d3e4f5a6b7c8d9e0f1a2b",
+      "status": "CLEARED",
+      "permitted_uses": [
+        "Sub-zero environmental breath condensation composite",
+        "High-altitude atmospheric descent stunt plate",
+        "Extreme lighting HDR facial re-illumination"
+      ],
+      "prohibited_uses": [
+        "Dialogue generation unscripted by principal author",
+        "Synthetic vocal timbre modification"
+      ],
+      "cryptographic_signatures": {
+        "performer_key_id": "kms:us-central1:sag:er-vault-key-02",
+        "sha256_consent_hash": "b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a5b6c7d8e9f0a1b2c3",
+        "c2pa_manifest_uri": "c2pa:sha256:8899aabbccddeeff00112233445566778899aabbccddeeff0011223344556677",
+        "root_of_trust": "Sony CineAlta Venice 2 Hardware Enclave CA",
+        "x509_issuer": "DigiCert Studio CA v3 / SAG-AFTRA Trust Network",
+        "tsa_timestamp": "2026-04-02T11:20:10Z",
+        "integrity_status": "VERIFIED_VALID"
+      },
+      "synthetic_double_assets": {
+        "scan_fidelity": 99.8,
+        "landmark_deviation_mm": 0.024,
+        "gamut_match": "ACEScg SMPTE ST 2065-1",
+        "topology_points": 162000,
+        "render_engine": "Neural Gaussian Splatting v4.2 / Unreal Substrate",
+        "raw_scan_tag": "ER_HEADSCAN_POLARIZED_RAW_v02",
+        "neural_render_tag": "ER_NEURAL_COMP_ACEScg_v09"
+      },
+      "shot_attributions": [
+        {
+          "attribution_id": "attr-er-01",
+          "scene_id": "SCENE_34",
+          "scene_display": "Scene 34",
+          "take_number": 2,
+          "shot_id": "SHOT_05",
+          "description": "Sub-zero cryo-chamber condensation double",
+          "used_seconds": 14.5,
+          "rendered_by": "VFX_GPU_NODE_03",
+          "timecode": "00:48:12:00",
+          "timestamp": "2026-09-01T14:10:00Z",
+          "status": "CONFORMED"
+        },
+        {
+          "attribution_id": "attr-er-02",
+          "scene_id": "SCENE_28",
+          "scene_display": "Scene 28",
+          "take_number": 5,
+          "shot_id": "SHOT_09",
+          "description": "High altitude atmospheric descent exterior harness",
+          "used_seconds": 30.0,
+          "rendered_by": "VFX_GPU_NODE_07",
+          "timecode": "00:39:20:00",
+          "timestamp": "2026-08-28T18:30:00Z",
+          "status": "CONFORMED"
+        }
+      ]
+    },
+    {
+      "actor_id": "ACTOR_DAVID_KALU",
+      "actor_name": "David Kalu",
+      "character_name": "Lt. Joseph Vance",
+      "contract_id": "SAG-SCH-B-4401",
+      "union_affiliation": "SAG_AFTRA",
+      "schedule_code": "SCHEDULE_B",
+      "performer_type": "Secondary Cast Stunt Replica",
+      "authorized_seconds": 45.0,
+      "used_seconds": 42.0,
+      "residual_rate_per_sec": 250.0,
+      "accrued_residuals_usd": 10500.0,
+      "consent_expiry": "2027-09-15",
+      "c2pa_hash": "c2pa:sha256:883bf12c99182a39df4a1023901bce44a192837465abc1234567890abcdef123",
+      "status": "WARNING_THRESHOLD",
+      "permitted_uses": [
+        "Corridor combat wirework body double replacement",
+        "Pyrotechnic concussion blast roll in Scene 42B"
+      ],
+      "prohibited_uses": [
+        "Voice replication unapproved by performer",
+        "Standalone merchandising digital avatars"
+      ],
+      "cryptographic_signatures": {
+        "performer_key_id": "kms:us-central1:sag:dk-vault-key-03",
+        "sha256_consent_hash": "c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a5b6c7d8e9f0a1b2c3d4",
+        "c2pa_manifest_uri": "c2pa:sha256:9900aabbccddeeff00112233445566778899aabbccddeeff0011223344556688",
+        "root_of_trust": "RED V-Raptor XL Hardware Enclave CA",
+        "x509_issuer": "DigiCert Studio CA v3 / SAG-AFTRA Trust Network",
+        "tsa_timestamp": "2026-05-19T14:40:02Z",
+        "integrity_status": "VERIFIED_VALID"
+      },
+      "synthetic_double_assets": {
+        "scan_fidelity": 99.2,
+        "landmark_deviation_mm": 0.045,
+        "gamut_match": "ACEScg SMPTE ST 2065-1",
+        "topology_points": 139000,
+        "render_engine": "Neural Gaussian Splatting v4.2 / Unreal Substrate",
+        "raw_scan_tag": "DK_HEADSCAN_POLARIZED_RAW_v01",
+        "neural_render_tag": "DK_NEURAL_COMP_ACEScg_v04"
+      },
+      "shot_attributions": [
+        {
+          "attribution_id": "attr-dk-01",
+          "scene_id": "SCENE_42B",
+          "scene_display": "Scene 42B",
+          "take_number": 3,
+          "shot_id": "SHOT_12",
+          "description": "Vault gunfight floor tumble and blast rebound",
+          "used_seconds": 12.0,
+          "rendered_by": "VFX_GPU_NODE_10",
+          "timecode": "01:24:22:04",
+          "timestamp": "2026-09-04T22:30:00Z",
+          "status": "CONFORMED"
+        },
+        {
+          "attribution_id": "attr-dk-02",
+          "scene_id": "SCENE_14",
+          "scene_display": "Scene 14",
+          "take_number": 2,
+          "shot_id": "SHOT_04",
+          "description": "Hangar explosion blast wave kinetic trajectory",
+          "used_seconds": 30.0,
+          "rendered_by": "VFX_GPU_NODE_05",
+          "timecode": "00:21:10:00",
+          "timestamp": "2026-08-20T11:00:00Z",
+          "status": "CONFORMED"
+        }
+      ]
+    }
+  ],
+  "paramount_pictures:CHRONO-2026": [
+    {
+      "actor_id": "ACTOR_MARCUS_VANCE",
+      "actor_name": "Marcus Vance",
+      "character_name": "Commander Vance",
+      "contract_id": "SAG-SCH-A-8942",
+      "union_affiliation": "SAG_AFTRA",
+      "schedule_code": "SCHEDULE_A",
+      "performer_type": "Digital Stunt Double & Facial Stabilizer",
+      "authorized_seconds": 1230.0,
+      "used_seconds": 62.5,
+      "residual_rate_per_sec": 300.0,
+      "accrued_residuals_usd": 28310.0,
+      "consent_expiry": "2027-12-31",
+      "c2pa_hash": "c2pa:sha256:7f83b1657ff1fc53b92dc18148a1d65dfc2d4b1fa3d677284addd200126d9069",
+      "status": "CLEARED",
+      "permitted_uses": [
+        "VFX digital double background stunt replication",
+        "Dangerous wirework replacement in Scene 42B",
+        "Extreme environment cockpit facial composite in Scene 42A",
+        "High-G facial turbulence stabilizer"
+      ],
+      "prohibited_uses": [
+        "Dialogue generation unscripted by principal author",
+        "Posthumous continuation without secondary estate consent",
+        "Commercial merchandising endorsement without Rider B",
+        "Third-party AI foundation model training"
+      ],
+      "cryptographic_signatures": {
+        "performer_key_id": "kms:us-central1:sag:mv-vault-key-01",
+        "sha256_consent_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "c2pa_manifest_uri": "c2pa:sha256:42a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a5b6c7d8e9f0a1",
+        "root_of_trust": "ARRI Alexa 35 Hardware Enclave CA",
+        "x509_issuer": "DigiCert Studio CA v3 / SAG-AFTRA Trust Network",
+        "tsa_timestamp": "2026-03-14T08:12:44Z",
+        "integrity_status": "VERIFIED_VALID"
+      },
+      "synthetic_double_assets": {
+        "scan_fidelity": 99.85,
+        "landmark_deviation_mm": 0.012,
+        "gamut_match": "ACEScg SMPTE ST 2065-1",
+        "topology_points": 148200,
+        "render_engine": "Neural Gaussian Splatting v4.2 / Unreal Substrate",
+        "raw_scan_tag": "MV_HEADSCAN_POLARIZED_RAW_v04",
+        "neural_render_tag": "MV_NEURAL_COMP_ACEScg_v12",
+        "topology_coordinates": [
+          {
+            "index": 0,
+            "name": "V_000_POGONION",
+            "region": "jaw",
+            "x": 0.0,
+            "y": 64.2,
+            "z": 24.1,
+            "deviation": 0.012
+          }
+        ],
+        "c2pa_hash": "c2pa:sha256:test_hash_conformed",
+        "source_frame": "01:24:14:10",
+        "status": "CERTIFIED_RECONSTRUCTED"
+      },
+      "shot_attributions": [
+        {
+          "attribution_id": "attr-mv-01",
+          "scene_id": "SCENE_42B",
+          "scene_display": "Scene 42B",
+          "take_number": 4,
+          "shot_id": "SHOT_14",
+          "description": "Wirework stunt platform drop & backward flip",
+          "used_seconds": 6.2,
+          "rendered_by": "VFX_GPU_NODE_12",
+          "timecode": "01:24:14:10",
+          "timestamp": "2026-09-04T23:10:00Z",
+          "status": "CONFORMED"
+        },
+        {
+          "attribution_id": "attr-mv-02",
+          "scene_id": "SCENE_42B",
+          "scene_display": "Scene 42B",
+          "take_number": 2,
+          "shot_id": "SHOT_11",
+          "description": "Explosion concussion shockwave head replacement",
+          "used_seconds": 4.1,
+          "rendered_by": "VFX_GPU_NODE_08",
+          "timecode": "01:24:18:00",
+          "timestamp": "2026-09-04T22:50:00Z",
+          "status": "CONFORMED"
+        },
+        {
+          "attribution_id": "attr-mv-03",
+          "scene_id": "SCENE_42A",
+          "scene_display": "Scene 42A",
+          "take_number": 8,
+          "shot_id": "SHOT_08",
+          "description": "Cockpit turbulence high-G facial stabilizer",
+          "used_seconds": 5.4,
+          "rendered_by": "VFX_GPU_NODE_04",
+          "timecode": "01:18:04:12",
+          "timestamp": "2026-09-04T21:40:00Z",
+          "status": "CONFORMED"
+        },
+        {
+          "attribution_id": "attr-mv-04",
+          "scene_id": "SCENE_41",
+          "scene_display": "Scene 41",
+          "take_number": 3,
+          "shot_id": "SHOT_02",
+          "description": "Dune sandstorm digital double wide shot background",
+          "used_seconds": 18.5,
+          "rendered_by": "VFX_GPU_NODE_02",
+          "timecode": "01:10:12:00",
+          "timestamp": "2026-09-03T19:20:00Z",
+          "status": "CONFORMED"
+        },
+        {
+          "attribution_id": "attr-mv-05",
+          "scene_id": "SCENE_38",
+          "scene_display": "Scene 38",
+          "take_number": 1,
+          "shot_id": "SHOT_01",
+          "description": "De-aging flashback sequence (age 24 retro-composite)",
+          "used_seconds": 18.0,
+          "rendered_by": "VFX_GPU_NODE_06",
+          "timecode": "00:54:10:00",
+          "timestamp": "2026-09-02T16:15:00Z",
+          "status": "CONFORMED"
+        }
+      ],
+      "extension_history": [
+        {
+          "timestamp": "2026-09-06T16:58:15.637626+00:00",
+          "added_seconds": 15.0,
+          "new_total_authorized": 75.0,
+          "authorized_by": "Elena Rostova (Production Attorney)",
+          "note": "Authorized NO FAKES Act extension"
+        },
+        {
+          "timestamp": "2026-09-06T16:58:15.690983+00:00",
+          "added_seconds": 15.0,
+          "new_total_authorized": 90.0,
+          "authorized_by": "Elena Rostova (Production Attorney)",
+          "note": "Authorized NO FAKES Act extension"
+        },
+        {
+          "timestamp": "2026-09-06T17:25:43.304784+00:00",
+          "added_seconds": 15.0,
+          "new_total_authorized": 105.0,
+          "authorized_by": "Elena Rostova (Production Attorney)",
+          "note": "Authorized NO FAKES Act extension"
+        },
+        {
+          "timestamp": "2026-09-06T17:25:44.586280+00:00",
+          "added_seconds": 15.0,
+          "new_total_authorized": 120.0,
+          "authorized_by": "Elena Rostova (Production Attorney)",
+          "note": "Authorized NO FAKES Act extension"
+        },
+        {
+          "timestamp": "2026-09-06T17:26:53.029683+00:00",
+          "added_seconds": 15.0,
+          "new_total_authorized": 135.0,
+          "authorized_by": "Elena Rostova (Production Attorney)",
+          "note": "Authorized NO FAKES Act extension"
+        },
+        {
+          "timestamp": "2026-09-06T17:58:19.808344+00:00",
+          "added_seconds": 15.0,
+          "new_total_authorized": 150.0,
+          "authorized_by": "Elena Rostova (Production Attorney)",
+          "note": "Authorized NO FAKES Act extension"
+        },
+        {
+          "timestamp": "2026-09-06T17:58:19.858714+00:00",
+          "added_seconds": 15.0,
+          "new_total_authorized": 165.0,
+          "authorized_by": "Elena Rostova (Production Attorney)",
+          "note": "Authorized NO FAKES Act extension"
+        },
+        {
+          "timestamp": "2026-09-06T17:59:20.678702+00:00",
+          "added_seconds": 15.0,
+          "new_total_authorized": 180.0,
+          "authorized_by": "Elena Rostova (Production Attorney)",
+          "note": "Authorized NO FAKES Act extension"
+        },
+        {
+          "timestamp": "2026-09-06T18:00:09.220584+00:00",
+          "added_seconds": 15.0,
+          "new_total_authorized": 195.0,
+          "authorized_by": "Elena Rostova (Production Attorney)",
+          "note": "Authorized NO FAKES Act extension"
+        },
+        {
+          "timestamp": "2026-09-06T18:00:09.281609+00:00",
+          "added_seconds": 15.0,
+          "new_total_authorized": 210.0,
+          "authorized_by": "Elena Rostova (Production Attorney)",
+          "note": "Authorized NO FAKES Act extension"
+        },
+        {
+          "timestamp": "2026-09-06T18:00:29.112096+00:00",
+          "added_seconds": 15.0,
+          "new_total_authorized": 225.0,
+          "authorized_by": "Elena Rostova (Production Attorney)",
+          "note": "Authorized NO FAKES Act extension"
+        },
+        {
+          "timestamp": "2026-09-06T18:00:29.165845+00:00",
+          "added_seconds": 15.0,
+          "new_total_authorized": 240.0,
+          "authorized_by": "Elena Rostova (Production Attorney)",
+          "note": "Authorized NO FAKES Act extension"
+        },
+        {
+          "timestamp": "2026-09-06T18:00:37.742802+00:00",
+          "added_seconds": 15.0,
+          "new_total_authorized": 255.0,
+          "authorized_by": "Elena Rostova (Production Attorney)",
+          "note": "Authorized NO FAKES Act extension"
+        },
+        {
+          "timestamp": "2026-09-06T18:00:37.793188+00:00",
+          "added_seconds": 15.0,
+          "new_total_authorized": 270.0,
+          "authorized_by": "Elena Rostova (Production Attorney)",
+          "note": "Authorized NO FAKES Act extension"
+        },
+        {
+          "timestamp": "2026-09-06T18:00:46.889157+00:00",
+          "added_seconds": 15.0,
+          "new_total_authorized": 285.0,
+          "authorized_by": "Elena Rostova (Production Attorney)",
+          "note": "Authorized NO FAKES Act extension"
+        },
+        {
+          "timestamp": "2026-09-06T18:00:46.942001+00:00",
+          "added_seconds": 15.0,
+          "new_total_authorized": 300.0,
+          "authorized_by": "Elena Rostova (Production Attorney)",
+          "note": "Authorized NO FAKES Act extension"
+        },
+        {
+          "timestamp": "2026-09-06T18:06:14.978480+00:00",
+          "added_seconds": 15.0,
+          "new_total_authorized": 315.0,
+          "authorized_by": "Elena Rostova (Production Attorney)",
+          "note": "Authorized NO FAKES Act extension"
+        },
+        {
+          "timestamp": "2026-09-06T18:06:15.033205+00:00",
+          "added_seconds": 15.0,
+          "new_total_authorized": 330.0,
+          "authorized_by": "Elena Rostova (Production Attorney)",
+          "note": "Authorized NO FAKES Act extension"
+        },
+        {
+          "timestamp": "2026-09-06T18:07:23.433661+00:00",
+          "added_seconds": 15.0,
+          "new_total_authorized": 345.0,
+          "authorized_by": "Elena Rostova (Production Attorney)",
+          "note": "Authorized NO FAKES Act extension"
+        },
+        {
+          "timestamp": "2026-09-06T18:07:23.488316+00:00",
+          "added_seconds": 15.0,
+          "new_total_authorized": 360.0,
+          "authorized_by": "Elena Rostova (Production Attorney)",
+          "note": "Authorized NO FAKES Act extension"
+        },
+        {
+          "timestamp": "2026-09-06T18:07:38.703675+00:00",
+          "added_seconds": 15.0,
+          "new_total_authorized": 375.0,
+          "authorized_by": "Elena Rostova (Production Attorney)",
+          "note": "Authorized NO FAKES Act extension"
+        },
+        {
+          "timestamp": "2026-09-06T18:07:38.757814+00:00",
+          "added_seconds": 15.0,
+          "new_total_authorized": 390.0,
+          "authorized_by": "Elena Rostova (Production Attorney)",
+          "note": "Authorized NO FAKES Act extension"
+        },
+        {
+          "timestamp": "2026-09-06T18:07:45.524377+00:00",
+          "added_seconds": 15.0,
+          "new_total_authorized": 405.0,
+          "authorized_by": "Elena Rostova (Production Attorney)",
+          "note": "Authorized NO FAKES Act extension"
+        },
+        {
+          "timestamp": "2026-09-06T18:07:45.581213+00:00",
+          "added_seconds": 15.0,
+          "new_total_authorized": 420.0,
+          "authorized_by": "Elena Rostova (Production Attorney)",
+          "note": "Authorized NO FAKES Act extension"
+        },
+        {
+          "timestamp": "2026-09-06T18:07:48.137455+00:00",
+          "added_seconds": 15.0,
+          "new_total_authorized": 435.0,
+          "authorized_by": "Elena Rostova (Production Attorney)",
+          "note": "Authorized NO FAKES Act extension"
+        },
+        {
+          "timestamp": "2026-09-06T18:07:48.191548+00:00",
+          "added_seconds": 15.0,
+          "new_total_authorized": 450.0,
+          "authorized_by": "Elena Rostova (Production Attorney)",
+          "note": "Authorized NO FAKES Act extension"
+        },
+        {
+          "timestamp": "2026-09-06T18:09:34.996175+00:00",
+          "added_seconds": 15.0,
+          "new_total_authorized": 465.0,
+          "authorized_by": "Elena Rostova (Production Attorney)",
+          "note": "Authorized NO FAKES Act extension"
+        },
+        {
+          "timestamp": "2026-09-06T18:09:35.051814+00:00",
+          "added_seconds": 15.0,
+          "new_total_authorized": 480.0,
+          "authorized_by": "Elena Rostova (Production Attorney)",
+          "note": "Authorized NO FAKES Act extension"
+        },
+        {
+          "timestamp": "2026-09-06T18:24:13.990613+00:00",
+          "added_seconds": 15.0,
+          "new_total_authorized": 495.0,
+          "authorized_by": "Elena Rostova (Production Attorney)",
+          "note": "Authorized NO FAKES Act extension"
+        },
+        {
+          "timestamp": "2026-09-06T18:24:14.044931+00:00",
+          "added_seconds": 15.0,
+          "new_total_authorized": 510.0,
+          "authorized_by": "Elena Rostova (Production Attorney)",
+          "note": "Authorized NO FAKES Act extension"
+        },
+        {
+          "timestamp": "2026-09-06T18:26:00.651638+00:00",
+          "added_seconds": 15.0,
+          "new_total_authorized": 525.0,
+          "authorized_by": "Elena Rostova (Production Attorney)",
+          "note": "Authorized NO FAKES Act extension"
+        },
+        {
+          "timestamp": "2026-09-06T18:26:00.710720+00:00",
+          "added_seconds": 15.0,
+          "new_total_authorized": 540.0,
+          "authorized_by": "Elena Rostova (Production Attorney)",
+          "note": "Authorized NO FAKES Act extension"
+        },
+        {
+          "timestamp": "2026-09-06T19:53:08.408736+00:00",
+          "added_seconds": 15.0,
+          "new_total_authorized": 555.0,
+          "authorized_by": "Elena Rostova (Production Attorney)",
+          "note": "Authorized NO FAKES Act extension"
+        },
+        {
+          "timestamp": "2026-09-06T19:53:08.470385+00:00",
+          "added_seconds": 15.0,
+          "new_total_authorized": 570.0,
+          "authorized_by": "Elena Rostova (Production Attorney)",
+          "note": "Authorized NO FAKES Act extension"
+        },
+        {
+          "timestamp": "2026-09-06T20:12:18.649396+00:00",
+          "added_seconds": 15.0,
+          "new_total_authorized": 585.0,
+          "authorized_by": "Elena Rostova (Production Attorney)",
+          "note": "Authorized NO FAKES Act extension"
+        },
+        {
+          "timestamp": "2026-09-06T20:12:18.710531+00:00",
+          "added_seconds": 15.0,
+          "new_total_authorized": 600.0,
+          "authorized_by": "Elena Rostova (Production Attorney)",
+          "note": "Authorized NO FAKES Act extension"
+        },
+        {
+          "timestamp": "2026-09-06T20:15:37.931302+00:00",
+          "added_seconds": 15.0,
+          "new_total_authorized": 615.0,
+          "authorized_by": "Elena Rostova (Production Attorney)",
+          "note": "Authorized NO FAKES Act extension"
+        },
+        {
+          "timestamp": "2026-09-06T20:15:37.990677+00:00",
+          "added_seconds": 15.0,
+          "new_total_authorized": 630.0,
+          "authorized_by": "Elena Rostova (Production Attorney)",
+          "note": "Authorized NO FAKES Act extension"
+        },
+        {
+          "timestamp": "2026-09-07T10:13:42.597491+00:00",
+          "added_seconds": 15.0,
+          "new_total_authorized": 645.0,
+          "authorized_by": "Elena Rostova (Production Attorney)",
+          "note": "Authorized NO FAKES Act extension"
+        },
+        {
+          "timestamp": "2026-09-07T10:13:42.681346+00:00",
+          "added_seconds": 15.0,
+          "new_total_authorized": 660.0,
+          "authorized_by": "Elena Rostova (Production Attorney)",
+          "note": "Authorized NO FAKES Act extension"
+        },
+        {
+          "timestamp": "2026-09-07T10:14:45.513215+00:00",
+          "added_seconds": 15.0,
+          "new_total_authorized": 675.0,
+          "authorized_by": "Elena Rostova (Production Attorney)",
+          "note": "Authorized NO FAKES Act extension"
+        },
+        {
+          "timestamp": "2026-09-07T10:14:45.577210+00:00",
+          "added_seconds": 15.0,
+          "new_total_authorized": 690.0,
+          "authorized_by": "Elena Rostova (Production Attorney)",
+          "note": "Authorized NO FAKES Act extension"
+        },
+        {
+          "timestamp": "2026-09-07T16:54:16.396924+00:00",
+          "added_seconds": 15.0,
+          "new_total_authorized": 705.0,
+          "authorized_by": "Elena Rostova (Production Attorney)",
+          "note": "Authorized NO FAKES Act extension"
+        },
+        {
+          "timestamp": "2026-09-07T16:54:16.473992+00:00",
+          "added_seconds": 15.0,
+          "new_total_authorized": 720.0,
+          "authorized_by": "Elena Rostova (Production Attorney)",
+          "note": "Authorized NO FAKES Act extension"
+        },
+        {
+          "timestamp": "2026-09-07T16:54:35.222854+00:00",
+          "added_seconds": 15.0,
+          "new_total_authorized": 735.0,
+          "authorized_by": "Elena Rostova (Production Attorney)",
+          "note": "Authorized NO FAKES Act extension"
+        },
+        {
+          "timestamp": "2026-09-07T16:54:35.303558+00:00",
+          "added_seconds": 15.0,
+          "new_total_authorized": 750.0,
+          "authorized_by": "Elena Rostova (Production Attorney)",
+          "note": "Authorized NO FAKES Act extension"
+        },
+        {
+          "timestamp": "2026-09-07T17:22:04.111879+00:00",
+          "added_seconds": 15.0,
+          "new_total_authorized": 765.0,
+          "authorized_by": "Elena Rostova (Production Attorney)",
+          "note": "Authorized NO FAKES Act extension"
+        },
+        {
+          "timestamp": "2026-09-07T17:22:04.178490+00:00",
+          "added_seconds": 15.0,
+          "new_total_authorized": 780.0,
+          "authorized_by": "Elena Rostova (Production Attorney)",
+          "note": "Authorized NO FAKES Act extension"
+        },
+        {
+          "timestamp": "2026-09-07T17:22:12.876226+00:00",
+          "added_seconds": 15.0,
+          "new_total_authorized": 795.0,
+          "authorized_by": "Elena Rostova (Production Attorney)",
+          "note": "Authorized NO FAKES Act extension"
+        },
+        {
+          "timestamp": "2026-09-07T17:22:12.944386+00:00",
+          "added_seconds": 15.0,
+          "new_total_authorized": 810.0,
+          "authorized_by": "Elena Rostova (Production Attorney)",
+          "note": "Authorized NO FAKES Act extension"
+        },
+        {
+          "timestamp": "2026-09-07T17:22:25.581648+00:00",
+          "added_seconds": 15.0,
+          "new_total_authorized": 825.0,
+          "authorized_by": "Elena Rostova (Production Attorney)",
+          "note": "Authorized NO FAKES Act extension"
+        },
+        {
+          "timestamp": "2026-09-07T17:22:25.668150+00:00",
+          "added_seconds": 15.0,
+          "new_total_authorized": 840.0,
+          "authorized_by": "Elena Rostova (Production Attorney)",
+          "note": "Authorized NO FAKES Act extension"
+        },
+        {
+          "timestamp": "2026-09-07T17:24:14.408337+00:00",
+          "added_seconds": 15.0,
+          "new_total_authorized": 855.0,
+          "authorized_by": "Elena Rostova (Production Attorney)",
+          "note": "Authorized NO FAKES Act extension"
+        },
+        {
+          "timestamp": "2026-09-07T17:24:14.478120+00:00",
+          "added_seconds": 15.0,
+          "new_total_authorized": 870.0,
+          "authorized_by": "Elena Rostova (Production Attorney)",
+          "note": "Authorized NO FAKES Act extension"
+        },
+        {
+          "timestamp": "2026-09-07T17:43:44.461470+00:00",
+          "added_seconds": 15.0,
+          "new_total_authorized": 885.0,
+          "authorized_by": "Elena Rostova (Production Attorney)",
+          "note": "Authorized NO FAKES Act extension"
+        },
+        {
+          "timestamp": "2026-09-07T17:43:44.542233+00:00",
+          "added_seconds": 15.0,
+          "new_total_authorized": 900.0,
+          "authorized_by": "Elena Rostova (Production Attorney)",
+          "note": "Authorized NO FAKES Act extension"
+        },
+        {
+          "timestamp": "2026-09-07T17:43:54.715342+00:00",
+          "added_seconds": 15.0,
+          "new_total_authorized": 915.0,
+          "authorized_by": "Elena Rostova (Production Attorney)",
+          "note": "Authorized NO FAKES Act extension"
+        },
+        {
+          "timestamp": "2026-09-07T17:43:54.783018+00:00",
+          "added_seconds": 15.0,
+          "new_total_authorized": 930.0,
+          "authorized_by": "Elena Rostova (Production Attorney)",
+          "note": "Authorized NO FAKES Act extension"
+        },
+        {
+          "timestamp": "2026-09-07T17:44:17.629056+00:00",
+          "added_seconds": 15.0,
+          "new_total_authorized": 945.0,
+          "authorized_by": "Elena Rostova (Production Attorney)",
+          "note": "Authorized NO FAKES Act extension"
+        },
+        {
+          "timestamp": "2026-09-07T17:44:17.697933+00:00",
+          "added_seconds": 15.0,
+          "new_total_authorized": 960.0,
+          "authorized_by": "Elena Rostova (Production Attorney)",
+          "note": "Authorized NO FAKES Act extension"
+        },
+        {
+          "timestamp": "2026-09-07T17:44:41.974919+00:00",
+          "added_seconds": 15.0,
+          "new_total_authorized": 975.0,
+          "authorized_by": "Elena Rostova (Production Attorney)",
+          "note": "Authorized NO FAKES Act extension"
+        },
+        {
+          "timestamp": "2026-09-07T17:44:42.050170+00:00",
+          "added_seconds": 15.0,
+          "new_total_authorized": 990.0,
+          "authorized_by": "Elena Rostova (Production Attorney)",
+          "note": "Authorized NO FAKES Act extension"
+        },
+        {
+          "timestamp": "2026-09-07T17:58:50.514088+00:00",
+          "added_seconds": 15.0,
+          "new_total_authorized": 1005.0,
+          "authorized_by": "Elena Rostova (Production Attorney)",
+          "note": "Authorized NO FAKES Act extension"
+        },
+        {
+          "timestamp": "2026-09-07T17:58:50.586853+00:00",
+          "added_seconds": 15.0,
+          "new_total_authorized": 1020.0,
+          "authorized_by": "Elena Rostova (Production Attorney)",
+          "note": "Authorized NO FAKES Act extension"
+        },
+        {
+          "timestamp": "2026-09-07T18:13:33.371200+00:00",
+          "added_seconds": 15.0,
+          "new_total_authorized": 1035.0,
+          "authorized_by": "Elena Rostova (Production Attorney)",
+          "note": "Authorized NO FAKES Act extension"
+        },
+        {
+          "timestamp": "2026-09-07T18:13:33.466546+00:00",
+          "added_seconds": 15.0,
+          "new_total_authorized": 1050.0,
+          "authorized_by": "Elena Rostova (Production Attorney)",
+          "note": "Authorized NO FAKES Act extension"
+        },
+        {
+          "timestamp": "2026-09-07T18:14:08.030139+00:00",
+          "added_seconds": 15.0,
+          "new_total_authorized": 1065.0,
+          "authorized_by": "Elena Rostova (Production Attorney)",
+          "note": "Authorized NO FAKES Act extension"
+        },
+        {
+          "timestamp": "2026-09-07T18:14:08.102982+00:00",
+          "added_seconds": 15.0,
+          "new_total_authorized": 1080.0,
+          "authorized_by": "Elena Rostova (Production Attorney)",
+          "note": "Authorized NO FAKES Act extension"
+        },
+        {
+          "timestamp": "2026-09-09T18:45:03.569528+00:00",
+          "added_seconds": 15.0,
+          "new_total_authorized": 1095.0,
+          "authorized_by": "Elena Rostova (Production Attorney)",
+          "note": "Authorized NO FAKES Act extension"
+        },
+        {
+          "timestamp": "2026-09-09T18:45:03.668354+00:00",
+          "added_seconds": 15.0,
+          "new_total_authorized": 1110.0,
+          "authorized_by": "Elena Rostova (Production Attorney)",
+          "note": "Authorized NO FAKES Act extension"
+        },
+        {
+          "timestamp": "2026-09-09T18:45:15.201760+00:00",
+          "added_seconds": 15.0,
+          "new_total_authorized": 1125.0,
+          "authorized_by": "Elena Rostova (Production Attorney)",
+          "note": "Authorized NO FAKES Act extension"
+        },
+        {
+          "timestamp": "2026-09-09T18:45:15.277528+00:00",
+          "added_seconds": 15.0,
+          "new_total_authorized": 1140.0,
+          "authorized_by": "Elena Rostova (Production Attorney)",
+          "note": "Authorized NO FAKES Act extension"
+        },
+        {
+          "timestamp": "2026-09-09T18:45:26.832221+00:00",
+          "added_seconds": 15.0,
+          "new_total_authorized": 1155.0,
+          "authorized_by": "Elena Rostova (Production Attorney)",
+          "note": "Authorized NO FAKES Act extension"
+        },
+        {
+          "timestamp": "2026-09-09T18:45:26.911649+00:00",
+          "added_seconds": 15.0,
+          "new_total_authorized": 1170.0,
+          "authorized_by": "Elena Rostova (Production Attorney)",
+          "note": "Authorized NO FAKES Act extension"
+        },
+        {
+          "timestamp": "2026-09-09T18:56:57.934934+00:00",
+          "added_seconds": 15.0,
+          "new_total_authorized": 1185.0,
+          "authorized_by": "Elena Rostova (Production Attorney)",
+          "note": "Authorized NO FAKES Act extension"
+        },
+        {
+          "timestamp": "2026-09-09T18:56:58.041155+00:00",
+          "added_seconds": 15.0,
+          "new_total_authorized": 1200.0,
+          "authorized_by": "Elena Rostova (Production Attorney)",
+          "note": "Authorized NO FAKES Act extension"
+        },
+        {
+          "timestamp": "2026-09-09T19:22:46.041357+00:00",
+          "added_seconds": 15.0,
+          "new_total_authorized": 1215.0,
+          "authorized_by": "Elena Rostova (Production Attorney)",
+          "note": "Authorized NO FAKES Act extension"
+        },
+        {
+          "timestamp": "2026-09-09T19:22:46.145004+00:00",
+          "added_seconds": 15.0,
+          "new_total_authorized": 1230.0,
+          "authorized_by": "Elena Rostova (Production Attorney)",
+          "note": "Authorized NO FAKES Act extension"
+        }
+      ]
+    },
+    {
+      "actor_id": "ACTOR_ELENA_ROSTOVA",
+      "actor_name": "Elena Rostova",
+      "character_name": "Dr. Aris Thorne",
+      "contract_id": "SAG-SCH-F-1102",
+      "union_affiliation": "SAG_AFTRA",
+      "schedule_code": "SCHEDULE_F",
+      "performer_type": "Principal Cast Theatrical Buyout",
+      "authorized_seconds": 120.0,
+      "used_seconds": 44.5,
+      "residual_rate_per_sec": 450.0,
+      "accrued_residuals_usd": 20025.0,
+      "consent_expiry": "2028-06-30",
+      "c2pa_hash": "c2pa:sha256:1a2b3c4d5e6f7a8b9c0d1e2f3a4b5c6d7e8f9a0b1c2d3e4f5a6b7c8d9e0f1a2b",
+      "status": "CLEARED",
+      "permitted_uses": [
+        "Sub-zero environmental breath condensation composite",
+        "High-altitude atmospheric descent stunt plate",
+        "Extreme lighting HDR facial re-illumination"
+      ],
+      "prohibited_uses": [
+        "Dialogue generation unscripted by principal author",
+        "Synthetic vocal timbre modification"
+      ],
+      "cryptographic_signatures": {
+        "performer_key_id": "kms:us-central1:sag:er-vault-key-02",
+        "sha256_consent_hash": "b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a5b6c7d8e9f0a1b2c3",
+        "c2pa_manifest_uri": "c2pa:sha256:8899aabbccddeeff00112233445566778899aabbccddeeff0011223344556677",
+        "root_of_trust": "Sony CineAlta Venice 2 Hardware Enclave CA",
+        "x509_issuer": "DigiCert Studio CA v3 / SAG-AFTRA Trust Network",
+        "tsa_timestamp": "2026-04-02T11:20:10Z",
+        "integrity_status": "VERIFIED_VALID"
+      },
+      "synthetic_double_assets": {
+        "scan_fidelity": 99.8,
+        "landmark_deviation_mm": 0.024,
+        "gamut_match": "ACEScg SMPTE ST 2065-1",
+        "topology_points": 162000,
+        "render_engine": "Neural Gaussian Splatting v4.2 / Unreal Substrate",
+        "raw_scan_tag": "ER_HEADSCAN_POLARIZED_RAW_v02",
+        "neural_render_tag": "ER_NEURAL_COMP_ACEScg_v09"
+      },
+      "shot_attributions": [
+        {
+          "attribution_id": "attr-er-01",
+          "scene_id": "SCENE_34",
+          "scene_display": "Scene 34",
+          "take_number": 2,
+          "shot_id": "SHOT_05",
+          "description": "Sub-zero cryo-chamber condensation double",
+          "used_seconds": 14.5,
+          "rendered_by": "VFX_GPU_NODE_03",
+          "timecode": "00:48:12:00",
+          "timestamp": "2026-09-01T14:10:00Z",
+          "status": "CONFORMED"
+        },
+        {
+          "attribution_id": "attr-er-02",
+          "scene_id": "SCENE_28",
+          "scene_display": "Scene 28",
+          "take_number": 5,
+          "shot_id": "SHOT_09",
+          "description": "High altitude atmospheric descent exterior harness",
+          "used_seconds": 30.0,
+          "rendered_by": "VFX_GPU_NODE_07",
+          "timecode": "00:39:20:00",
+          "timestamp": "2026-08-28T18:30:00Z",
+          "status": "CONFORMED"
+        }
+      ]
+    },
+    {
+      "actor_id": "ACTOR_DAVID_KALU",
+      "actor_name": "David Kalu",
+      "character_name": "Lt. Joseph Vance",
+      "contract_id": "SAG-SCH-B-4401",
+      "union_affiliation": "SAG_AFTRA",
+      "schedule_code": "SCHEDULE_B",
+      "performer_type": "Secondary Cast Stunt Replica",
+      "authorized_seconds": 60.0,
+      "used_seconds": 42.0,
+      "residual_rate_per_sec": 250.0,
+      "accrued_residuals_usd": 10500.0,
+      "consent_expiry": "2027-09-15",
+      "c2pa_hash": "c2pa:sha256:883bf12c99182a39df4a1023901bce44a192837465abc1234567890abcdef123",
+      "status": "CLEARED",
+      "permitted_uses": [
+        "Corridor combat wirework body double replacement",
+        "Pyrotechnic concussion blast roll in Scene 42B"
+      ],
+      "prohibited_uses": [
+        "Voice replication unapproved by performer",
+        "Standalone merchandising digital avatars"
+      ],
+      "cryptographic_signatures": {
+        "performer_key_id": "kms:us-central1:sag:dk-vault-key-03",
+        "sha256_consent_hash": "c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a5b6c7d8e9f0a1b2c3d4",
+        "c2pa_manifest_uri": "c2pa:sha256:9900aabbccddeeff00112233445566778899aabbccddeeff0011223344556688",
+        "root_of_trust": "RED V-Raptor XL Hardware Enclave CA",
+        "x509_issuer": "DigiCert Studio CA v3 / SAG-AFTRA Trust Network",
+        "tsa_timestamp": "2026-05-19T14:40:02Z",
+        "integrity_status": "VERIFIED_VALID"
+      },
+      "synthetic_double_assets": {
+        "scan_fidelity": 99.2,
+        "landmark_deviation_mm": 0.045,
+        "gamut_match": "ACEScg SMPTE ST 2065-1",
+        "topology_points": 139000,
+        "render_engine": "Neural Gaussian Splatting v4.2 / Unreal Substrate",
+        "raw_scan_tag": "DK_HEADSCAN_POLARIZED_RAW_v01",
+        "neural_render_tag": "DK_NEURAL_COMP_ACEScg_v04"
+      },
+      "shot_attributions": [
+        {
+          "attribution_id": "attr-dk-01",
+          "scene_id": "SCENE_42B",
+          "scene_display": "Scene 42B",
+          "take_number": 3,
+          "shot_id": "SHOT_12",
+          "description": "Vault gunfight floor tumble and blast rebound",
+          "used_seconds": 12.0,
+          "rendered_by": "VFX_GPU_NODE_10",
+          "timecode": "01:24:22:04",
+          "timestamp": "2026-09-04T22:30:00Z",
+          "status": "CONFORMED"
+        },
+        {
+          "attribution_id": "attr-dk-02",
+          "scene_id": "SCENE_14",
+          "scene_display": "Scene 14",
+          "take_number": 2,
+          "shot_id": "SHOT_04",
+          "description": "Hangar explosion blast wave kinetic trajectory",
+          "used_seconds": 30.0,
+          "rendered_by": "VFX_GPU_NODE_05",
+          "timecode": "00:21:10:00",
+          "timestamp": "2026-08-20T11:00:00Z",
+          "status": "CONFORMED"
+        }
+      ],
+      "extension_history": [
+        {
+          "timestamp": "2026-09-06T17:39:18.261728+00:00",
+          "added_seconds": 15.0,
+          "new_total_authorized": 60.0,
+          "authorized_by": "Elena Rostova (Production Attorney)",
+          "note": "Authorized NO FAKES Act extension"
+        }
+      ]
+    },
+    {
+      "actor_id": "ACTOR_SARAH_LIN",
+      "actor_name": "Sarah Lin",
+      "character_name": "Stunt Double Echo",
+      "contract_id": "SAG-SCH-A-9012",
+      "union_affiliation": "SAG_AFTRA",
+      "schedule_code": "SCHEDULE_A",
+      "performer_type": "Specialized Wirework Stunt Double",
+      "authorized_seconds": 90.0,
+      "used_seconds": 15.0,
+      "residual_rate_per_sec": 180.0,
+      "accrued_residuals_usd": 2700.0,
+      "consent_expiry": "2028-11-20",
+      "c2pa_hash": "c2pa:sha256:55abcc332199014e7a892bdfc834912903487192837465012938475610293847",
+      "status": "CLEARED",
+      "permitted_uses": [
+        "Acrobatic rooftop leap sequence",
+        "High-impact stair fall replacement"
+      ],
+      "prohibited_uses": [
+        "Facial reconstruction without secondary photography",
+        "Commercial brand association"
+      ],
+      "cryptographic_signatures": {
+        "performer_key_id": "kms:us-central1:sag:sl-vault-key-04",
+        "sha256_consent_hash": "d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a5b6c7d8e9f0a1b2c3d4e5",
+        "c2pa_manifest_uri": "c2pa:sha256:aa112233445566778899aabbccddeeff00112233445566778899aabbccddeeff",
+        "root_of_trust": "ARRI Alexa 35 Hardware Enclave CA",
+        "x509_issuer": "DigiCert Studio CA v3 / SAG-AFTRA Trust Network",
+        "tsa_timestamp": "2026-06-01T09:15:20Z",
+        "integrity_status": "VERIFIED_VALID"
+      },
+      "synthetic_double_assets": {
+        "scan_fidelity": 99.4,
+        "landmark_deviation_mm": 0.032,
+        "gamut_match": "ACEScg SMPTE ST 2065-1",
+        "topology_points": 142000,
+        "render_engine": "Neural Gaussian Splatting v4.2 / Unreal Substrate",
+        "raw_scan_tag": "SL_HEADSCAN_POLARIZED_RAW_v01",
+        "neural_render_tag": "SL_NEURAL_COMP_ACEScg_v03"
+      },
+      "shot_attributions": [
+        {
+          "attribution_id": "attr-sl-01",
+          "scene_id": "SCENE_42B",
+          "scene_display": "Scene 42B",
+          "take_number": 1,
+          "shot_id": "SHOT_03",
+          "description": "Balcony leap kinetic calibration pass",
+          "used_seconds": 15.0,
+          "rendered_by": "VFX_GPU_NODE_01",
+          "timecode": "01:24:10:00",
+          "timestamp": "2026-09-04T22:00:00Z",
+          "status": "CONFORMED"
+        }
+      ]
+    },
+    {
+      "actor_id": "ACTOR_SARAH_CONNOR",
+      "actor_name": "Sarah Connor",
+      "character_name": "Featured Role",
+      "contract_id": "SAG-2026-9912",
+      "union_affiliation": "SAG_AFTRA",
+      "schedule_code": "SCHEDULE_A",
+      "performer_type": "Digital Stunt Double",
+      "authorized_seconds": 45.0,
+      "used_seconds": 5.0,
+      "residual_rate_per_sec": 420.0,
+      "accrued_residuals_usd": 2100.0,
+      "consent_expiry": "2029-01-01",
+      "c2pa_hash": "c2pa:sha256:rider_sarah",
+      "status": "CLEARED",
+      "permitted_uses": [
+        "VFX background stunt double replication",
+        "Extreme environment composite"
+      ],
+      "prohibited_uses": [
+        "Unscripted synthetic dialogue",
+        "Posthumous continuation without secondary consent"
+      ],
+      "cryptographic_signatures": {
+        "performer_key_id": "kms:us-central1:sag:actor_sarah_connor-key",
+        "sha256_consent_hash": "c68d4bad71d54348a99e2843acd8e3bf0ecf807ef844444bb948df136bea508e",
+        "c2pa_manifest_uri": "c2pa:sha256:f8801b874d8e4853bdc8b44672adc4e2",
+        "root_of_trust": "ARRI Alexa 35 Hardware Enclave CA",
+        "x509_issuer": "DigiCert Studio CA v3 / SAG-AFTRA Trust Network",
+        "tsa_timestamp": "2026-09-09T19:22:46.051950+00:00",
+        "integrity_status": "VERIFIED_VALID"
+      },
+      "synthetic_double_assets": {
+        "scan_fidelity": 99.5,
+        "landmark_deviation_mm": 0.035,
+        "gamut_match": "ACEScg SMPTE ST 2065-1",
+        "topology_points": 145000,
+        "render_engine": "Neural Gaussian Splatting v4.2 / Unreal Substrate",
+        "raw_scan_tag": "ACTOR__HEADSCAN_POLARIZED_RAW_v01",
+        "neural_render_tag": "ACTOR__NEURAL_COMP_ACEScg_v01"
+      },
+      "shot_attributions": []
+    }
+  ],
+  "silver_pictures:MATRIX-2026": [
+    {
+      "actor_id": "ACTOR_KEANU_REEVES",
+      "actor_name": "Keanu Reeves",
+      "character_name": "Neo",
+      "contract_id": "SAG-SCH-A-133A",
+      "union_affiliation": "SAG_AFTRA",
+      "schedule_code": "SCHEDULE_F",
+      "performer_type": "Digital Stunt Double",
+      "authorized_seconds": 180.0,
+      "used_seconds": 0.0,
+      "residual_rate_per_sec": 1500.0,
+      "accrued_residuals_usd": 0.0,
+      "consent_expiry": "2028-12-31",
+      "c2pa_hash": "c2pa:sha256:rider_ef7bdb42a97644d8b520a7a691e54118",
+      "status": "CLEARED",
+      "permitted_uses": [
+        "VFX background stunt double replication",
+        "Extreme environment composite"
+      ],
+      "prohibited_uses": [
+        "Unscripted synthetic dialogue",
+        "Posthumous continuation without secondary consent"
+      ],
+      "cryptographic_signatures": {
+        "performer_key_id": "kms:us-central1:sag:actor_keanu_reeves-key",
+        "sha256_consent_hash": "13e54fa33ac443bc8e3f78a81f044e14f0de163f9b64409582698711b9d6145d",
+        "c2pa_manifest_uri": "c2pa:sha256:091447f6903c4039ad482a5714243c45",
+        "root_of_trust": "ARRI Alexa 35 Hardware Enclave CA",
+        "x509_issuer": "DigiCert Studio CA v3 / SAG-AFTRA Trust Network",
+        "tsa_timestamp": "2026-09-09T19:42:27.873547+00:00",
+        "integrity_status": "VERIFIED_VALID"
+      },
+      "synthetic_double_assets": {
+        "scan_fidelity": 99.5,
+        "landmark_deviation_mm": 0.035,
+        "gamut_match": "ACEScg SMPTE ST 2065-1",
+        "topology_points": 145000,
+        "render_engine": "Neural Gaussian Splatting v4.2 / Unreal Substrate",
+        "raw_scan_tag": "ACTOR__HEADSCAN_POLARIZED_RAW_v01",
+        "neural_render_tag": "ACTOR__NEURAL_COMP_ACEScg_v01"
+      },
+      "shot_attributions": []
+    },
+    {
+      "actor_id": "ACTOR_HUGO_WEAVING",
+      "actor_name": "Hugo Weaving",
+      "character_name": "Agent Smith",
+      "contract_id": "SAG-SCH-A-128B",
+      "union_affiliation": "SAG_AFTRA",
+      "schedule_code": "SCHEDULE_A",
+      "performer_type": "Digital Stunt Double",
+      "authorized_seconds": 75.0,
+      "used_seconds": 62.5,
+      "residual_rate_per_sec": 450.0,
+      "accrued_residuals_usd": 28125.0,
+      "consent_expiry": "2028-12-31",
+      "c2pa_hash": "c2pa:sha256:rider_41b58f1768fc46bb8007e10997f2e143",
+      "status": "WARNING_THRESHOLD",
+      "permitted_uses": [
+        "VFX background stunt double replication",
+        "Extreme environment composite"
+      ],
+      "prohibited_uses": [
+        "Unscripted synthetic dialogue",
+        "Posthumous continuation without secondary consent"
+      ],
+      "cryptographic_signatures": {
+        "performer_key_id": "kms:us-central1:sag:actor_hugo_weaving-key",
+        "sha256_consent_hash": "2ce436f679424641ab8ca244f6a6ec369a4cc8b0577c464996b0b70443040a7c",
+        "c2pa_manifest_uri": "c2pa:sha256:93310f2c1b2a45c990dbdad6e8ba1a93",
+        "root_of_trust": "ARRI Alexa 35 Hardware Enclave CA",
+        "x509_issuer": "DigiCert Studio CA v3 / SAG-AFTRA Trust Network",
+        "tsa_timestamp": "2026-09-09T19:42:27.879454+00:00",
+        "integrity_status": "VERIFIED_VALID"
+      },
+      "synthetic_double_assets": {
+        "scan_fidelity": 99.5,
+        "landmark_deviation_mm": 0.035,
+        "gamut_match": "ACEScg SMPTE ST 2065-1",
+        "topology_points": 145000,
+        "render_engine": "Neural Gaussian Splatting v4.2 / Unreal Substrate",
+        "raw_scan_tag": "ACTOR__HEADSCAN_POLARIZED_RAW_v01",
+        "neural_render_tag": "ACTOR__NEURAL_COMP_ACEScg_v01"
+      },
+      "shot_attributions": [
+        {
+          "attribution_id": "attr-69425b",
+          "scene_id": "SCENE_102",
+          "scene_display": "SCENE_102",
+          "take_number": 2,
+          "shot_id": "SHOT_BURLY_01",
+          "description": "Agent Smith 100-man crowd clone composite",
+          "used_seconds": 62.5,
+          "rendered_by": "VFX_GPU_NODE_12",
+          "timecode": "01:24:14:00",
+          "timestamp": "2026-09-09T19:42:27.890366+00:00",
+          "status": "CONFORMED"
+        }
+      ],
+      "extension_history": [
+        {
+          "timestamp": "2026-09-09T19:42:27.894382+00:00",
+          "added_seconds": 15.0,
+          "new_total_authorized": 75.0,
+          "authorized_by": "Production Attorney",
+          "note": "Approved courtyard crowd overrun"
+        }
+      ]
+    }
+  ],
+  "warner_bros:APEX-2026": [
+    {
+      "actor_id": "ACTOR_KEANU_REEVES",
+      "actor_name": "Keanu Reeves",
+      "character_name": "Neo / Thomas Anderson",
+      "contract_id": "SAG-SCH-F-MATRIX-01",
+      "union_affiliation": "SAG_AFTRA",
+      "schedule_code": "SCHEDULE_F",
+      "performer_type": "Principal Cast & Digital Martial Arts Double",
+      "authorized_seconds": 60.0,
+      "used_seconds": 0.0,
+      "residual_rate_per_sec": 1500.0,
+      "accrued_residuals_usd": 0.0,
+      "consent_expiry": "2029-12-31",
+      "c2pa_hash": "c2pa:sha256:matrix_keanu_reeves_jumbf_consent_root_8f9e",
+      "status": "CLEARED",
+      "permitted_uses": [
+        "Virtual Construct Dojo martial arts wirework stunts",
+        "Subway station platform combat & bullet-time replica",
+        "High-velocity aerial trajectory and ballistic stunt double",
+        "Chateau staircase weapon choreography stunt composite"
+      ],
+      "prohibited_uses": [
+        "Unscripted synthetic vocal dialogue without secondary rider",
+        "Posthumous likeness exploitation without estate legal consent",
+        "Deepfake commercial endorsements without Schedule B addendum",
+        "Third-party AI foundation model pre-training"
+      ],
+      "cryptographic_signatures": {
+        "performer_key_id": "kms:us-west1:sag:keanu-reeves-vault-key-01",
+        "sha256_consent_hash": "4a7d1ed81445579fdf85c98d6978df0fe4d528b7e283296c098dfc3bb2030f25",
+        "c2pa_manifest_uri": "c2pa:sha256:matrix_keanu_jumbf_manifest_v2",
+        "root_of_trust": "ARRI Alexa 35 Hardware Enclave CA",
+        "x509_issuer": "DigiCert Studio CA v3 / SAG-AFTRA Trust Network",
+        "tsa_timestamp": "2026-04-12T09:00:00Z",
+        "integrity_status": "VERIFIED_VALID"
+      },
+      "synthetic_double_assets": {
+        "scan_fidelity": 99.9,
+        "landmark_deviation_mm": 0.012,
+        "gamut_match": "ACEScg SMPTE ST 2065-1",
+        "topology_points": 215000,
+        "render_engine": "Neural Gaussian Splatting v4.2 / Unreal Substrate",
+        "raw_scan_tag": "KR_NEO_HEADSCAN_POLARIZED_RAW_v08",
+        "neural_render_tag": "KR_NEO_NEURAL_COMP_ACEScg_v14"
+      },
+      "shot_attributions": []
+    },
+    {
+      "actor_id": "ACTOR_HUGO_WEAVING",
+      "actor_name": "Hugo Weaving",
+      "character_name": "Agent Smith / Swarm Replica",
+      "contract_id": "SAG-SCH-A-MATRIX-02",
+      "union_affiliation": "SAG_AFTRA",
+      "schedule_code": "SCHEDULE_A",
+      "performer_type": "Digital Double Multi-Instance Swarm Stunt Replica",
+      "authorized_seconds": 45.0,
+      "used_seconds": 0.0,
+      "residual_rate_per_sec": 1200.0,
+      "accrued_residuals_usd": 0.0,
+      "consent_expiry": "2029-12-31",
+      "c2pa_hash": "c2pa:sha256:matrix_hugo_weaving_jumbf_consent_root_3b7a",
+      "status": "CLEARED",
+      "permitted_uses": [
+        "Burly Brawl 100-Smith multi-agent replication pass",
+        "Subway rail concrete concussion stunt double pass",
+        "High-impact kinetic strike impact deformation"
+      ],
+      "prohibited_uses": [
+        "Unapproved vocal timbre synthesis",
+        "Independent standalone video game licensing without Rider D"
+      ],
+      "cryptographic_signatures": {
+        "performer_key_id": "kms:us-west1:sag:hugo-weaving-vault-key-02",
+        "sha256_consent_hash": "8f3b2c1d0e9a8b7c6d5e4f3a2b1c0d9e8f7a6b5c4d3e2f1a0b9c8d7e6f5a4b3c",
+        "c2pa_manifest_uri": "c2pa:sha256:matrix_smith_jumbf_manifest_v1",
+        "root_of_trust": "RED V-Raptor XL Hardware Enclave CA",
+        "x509_issuer": "DigiCert Studio CA v3 / SAG-AFTRA Trust Network",
+        "tsa_timestamp": "2026-04-14T11:20:00Z",
+        "integrity_status": "VERIFIED_VALID"
+      },
+      "synthetic_double_assets": {
+        "scan_fidelity": 99.7,
+        "landmark_deviation_mm": 0.019,
+        "gamut_match": "ACEScg SMPTE ST 2065-1",
+        "topology_points": 198000,
+        "render_engine": "Neural Gaussian Splatting v4.2 / Unreal Substrate",
+        "raw_scan_tag": "HW_SMITH_HEADSCAN_POLARIZED_RAW_v04",
+        "neural_render_tag": "HW_SMITH_NEURAL_COMP_ACEScg_v09"
+      },
+      "shot_attributions": []
+    }
+  ],
+  "silver_pictures_village_roadshow_new:MATRIX-2026": [
+    {
+      "actor_id": "ACTOR_KEANU_REEVES",
+      "actor_name": "Keanu Reeves",
+      "character_name": "Neo / Thomas Anderson",
+      "contract_id": "SAG-SCH-F-MATRIX-01",
+      "union_affiliation": "SAG_AFTRA",
+      "schedule_code": "SCHEDULE_F",
+      "performer_type": "Principal Cast & Digital Martial Arts Double",
+      "authorized_seconds": 160.0,
+      "used_seconds": 152.0,
+      "residual_rate_per_sec": 1500.0,
+      "accrued_residuals_usd": 228000.0,
+      "consent_expiry": "2029-12-31",
+      "c2pa_hash": "c2pa:sha256:rider_2e09e111a4154833b246abfa2804bd9d",
+      "status": "WARNING_THRESHOLD",
+      "permitted_uses": [
+        "VFX background stunt double replication",
+        "Extreme environment composite"
+      ],
+      "prohibited_uses": [
+        "Unscripted synthetic dialogue",
+        "Posthumous continuation without secondary consent"
+      ],
+      "cryptographic_signatures": {
+        "performer_key_id": "kms:us-central1:sag:actor_keanu_reeves-key",
+        "sha256_consent_hash": "ddb4bf419e8f4af289193b58a2d7b005273ba0fd31a04920900c0ea2eca37d22",
+        "c2pa_manifest_uri": "c2pa:sha256:84c19424b6e542418cf0e315a6e8623c",
+        "root_of_trust": "ARRI Alexa 35 Hardware Enclave CA",
+        "x509_issuer": "DigiCert Studio CA v3 / SAG-AFTRA Trust Network",
+        "tsa_timestamp": "2026-09-07T10:10:26.900064+00:00",
+        "integrity_status": "VERIFIED_VALID"
+      },
+      "synthetic_double_assets": {
+        "scan_fidelity": 99.5,
+        "landmark_deviation_mm": 0.035,
+        "gamut_match": "ACEScg SMPTE ST 2065-1",
+        "topology_points": 145000,
+        "render_engine": "Neural Gaussian Splatting v4.2 / Unreal Substrate",
+        "raw_scan_tag": "ACTOR__HEADSCAN_POLARIZED_RAW_v01",
+        "neural_render_tag": "ACTOR__NEURAL_COMP_ACEScg_v01"
+      },
+      "shot_attributions": [
+        {
+          "attribution_id": "attr-take-take-MATRIX-2026-SCENE_01-T04",
+          "scene_id": "SCENE_01",
+          "scene_display": "Scene 01",
+          "take_number": 4,
+          "shot_id": "SHOT_04",
+          "description": "AI Vision Sentry conformed take for Keanu Reeves (Scene 01 Take 4)",
+          "used_seconds": 15.0,
+          "rendered_by": "ARRI Alexa 35 Neural Ingest / ACEScg Node",
+          "timecode": "01:24:12:00",
+          "timestamp": "2026-09-07T10:10:33.309088+00:00",
+          "status": "CONFORMED"
+        },
+        {
+          "attribution_id": "attr-take-take-MATRIX-2026-SCENE_01-T01",
+          "scene_id": "SCENE_01",
+          "scene_display": "Scene 01",
+          "take_number": 1,
+          "shot_id": "SHOT_01",
+          "description": "AI Vision Sentry conformed take for Keanu Reeves (Scene 01 Take 1)",
+          "used_seconds": 12.0,
+          "rendered_by": "ARRI Alexa 35 Neural Ingest / ACEScg Node",
+          "timecode": "01:30:46:17",
+          "timestamp": "2026-09-06T20:20:17.076565+00:00",
+          "status": "CONFORMED"
+        },
+        {
+          "attribution_id": "attr-take-take-MATRIX-2026-SCENE_01_(VIRTUAL_CONSTRUCT_DOJO)-T01",
+          "scene_id": "SCENE_01_(VIRTUAL_CONSTRUCT_DOJO)",
+          "scene_display": "Scene 01 (Virtual Construct Dojo)",
+          "take_number": 1,
+          "shot_id": "SHOT_01",
+          "description": "AI Vision Sentry conformed take for Keanu Reeves (Scene 01 (Virtual Construct Dojo) Take 1)",
+          "used_seconds": 80.0,
+          "rendered_by": "ARRI Alexa 35 Neural Ingest / ACEScg Node",
+          "timecode": "01:26:45:18",
+          "timestamp": "2026-09-06T20:31:13.347255+00:00",
+          "status": "CONFORMED"
+        },
+        {
+          "attribution_id": "attr-take-take-MATRIX-2026-SCENE_01-T03",
+          "scene_id": "SCENE_01",
+          "scene_display": "Scene 01",
+          "take_number": 3,
+          "shot_id": "SHOT_03",
+          "description": "AI Vision Sentry conformed take for Keanu Reeves (Scene 01 Take 3)",
+          "used_seconds": 30.0,
+          "rendered_by": "ARRI Alexa 35 Neural Ingest / ACEScg Node",
+          "timecode": "01:31:00:00",
+          "timestamp": "2026-09-06T20:54:01.847107+00:00",
+          "status": "CONFORMED"
+        },
+        {
+          "attribution_id": "attr-take-take-MATRIX-2026-SCENE_01-T04",
+          "scene_id": "SCENE_01",
+          "scene_display": "Scene 01",
+          "take_number": 4,
+          "shot_id": "SHOT_04",
+          "description": "AI Vision Sentry conformed take for Keanu Reeves (Scene 01 Take 4)",
+          "used_seconds": 15.0,
+          "rendered_by": "ARRI Alexa 35 Neural Ingest / ACEScg Node",
+          "timecode": "01:24:12:00",
+          "timestamp": "2026-09-07T10:10:33.302176+00:00",
+          "status": "CONFORMED"
+        }
+      ],
+      "extension_history": [
+        {
+          "timestamp": "2026-09-07T10:10:38.158987+00:00",
+          "added_seconds": 40.0,
+          "new_total_authorized": 160.0,
+          "authorized_by": "Elena Rostova (Production Attorney)",
+          "note": "Authorized NO FAKES Act extension"
+        }
+      ]
+    },
+    {
+      "actor_id": "ACTOR_HUGO_WEAVING",
+      "actor_name": "Hugo Weaving",
+      "character_name": "Agent Smith / Swarm Replica",
+      "contract_id": "SAG-SCH-A-MATRIX-02",
+      "union_affiliation": "SAG_AFTRA",
+      "schedule_code": "SCHEDULE_A",
+      "performer_type": "Digital Double Multi-Instance Swarm Stunt Replica",
+      "authorized_seconds": 75.0,
+      "used_seconds": 48.0,
+      "residual_rate_per_sec": 1200.0,
+      "accrued_residuals_usd": 57600.0,
+      "consent_expiry": "2029-12-31",
+      "c2pa_hash": "c2pa:sha256:rider_3d4802c9f95e40a08756fa9afd9641cb",
+      "status": "CLEARED",
+      "permitted_uses": [
+        "VFX background stunt double replication",
+        "Extreme environment composite"
+      ],
+      "prohibited_uses": [
+        "Unscripted synthetic dialogue",
+        "Posthumous continuation without secondary consent"
+      ],
+      "cryptographic_signatures": {
+        "performer_key_id": "kms:us-central1:sag:actor_hugo_weaving-key",
+        "sha256_consent_hash": "0b6dcde712a94f3a9d33359d88ed69cf94ac23c957e14c9bb64f1d845c5b6ab2",
+        "c2pa_manifest_uri": "c2pa:sha256:c8660f113bde4efdbc21a1b15421651f",
+        "root_of_trust": "ARRI Alexa 35 Hardware Enclave CA",
+        "x509_issuer": "DigiCert Studio CA v3 / SAG-AFTRA Trust Network",
+        "tsa_timestamp": "2026-09-07T10:10:42.137835+00:00",
+        "integrity_status": "VERIFIED_VALID"
+      },
+      "synthetic_double_assets": {
+        "scan_fidelity": 99.5,
+        "landmark_deviation_mm": 0.035,
+        "gamut_match": "ACEScg SMPTE ST 2065-1",
+        "topology_points": 145000,
+        "render_engine": "Neural Gaussian Splatting v4.2 / Unreal Substrate",
+        "raw_scan_tag": "ACTOR__HEADSCAN_POLARIZED_RAW_v01",
+        "neural_render_tag": "ACTOR__NEURAL_COMP_ACEScg_v01"
+      },
+      "shot_attributions": [
+        {
+          "attribution_id": "attr-take-take-MATRIX-2026-SCENE_103-T05",
+          "scene_id": "SCENE_103",
+          "scene_display": "Scene 103",
+          "take_number": 5,
+          "shot_id": "SHOT_05",
+          "description": "AI Vision Sentry conformed take for Hugo Weaving (Scene 103 Take 5)",
+          "used_seconds": 24.0,
+          "rendered_by": "ARRI Alexa 35 Neural Ingest / ACEScg Node",
+          "timecode": "01:24:12:00",
+          "timestamp": "2026-09-07T10:10:49.202201+00:00",
+          "status": "CONFORMED"
+        },
+        {
+          "attribution_id": "attr-take-take-MATRIX-2026-SCENE_103-T05",
+          "scene_id": "SCENE_103",
+          "scene_display": "Scene 103",
+          "take_number": 5,
+          "shot_id": "SHOT_05",
+          "description": "AI Vision Sentry conformed take for Hugo Weaving (Scene 103 Take 5)",
+          "used_seconds": 24.0,
+          "rendered_by": "ARRI Alexa 35 Neural Ingest / ACEScg Node",
+          "timecode": "01:24:12:00",
+          "timestamp": "2026-09-07T10:10:49.194935+00:00",
+          "status": "CONFORMED"
+        }
+      ]
+    }
+  ],
+  "vrp_studio_2e4571:RESURRECTIONS-2e4571": [
+    {
+      "actor_id": "ACTOR_CARRIE_ANNE_MOSS",
+      "actor_name": "Carrie-Anne Moss",
+      "character_name": "Trinity",
+      "contract_id": "SAG-SCH-A-7183",
+      "union_affiliation": "SAG_AFTRA",
+      "schedule_code": "SCHEDULE_F",
+      "performer_type": "Digital Stunt Double",
+      "authorized_seconds": 150.0,
+      "used_seconds": 125.0,
+      "residual_rate_per_sec": 1200.0,
+      "accrued_residuals_usd": 150000.0,
+      "consent_expiry": "2028-12-31",
+      "c2pa_hash": "c2pa:sha256:rider_bc00d1ca29c6435a9964c3d23866ff2a",
+      "status": "WARNING_THRESHOLD",
+      "permitted_uses": [
+        "VFX background stunt double replication",
+        "Extreme environment composite"
+      ],
+      "prohibited_uses": [
+        "Unscripted synthetic dialogue",
+        "Posthumous continuation without secondary consent"
+      ],
+      "cryptographic_signatures": {
+        "performer_key_id": "kms:us-central1:sag:actor_carrie_anne_moss-key",
+        "sha256_consent_hash": "3dbbb78530b84145b149621a69fe49cdccef23787cff44059a8a61145f62a3a2",
+        "c2pa_manifest_uri": "c2pa:sha256:a79b7b9a63a042508dbfc01a275f47a3",
+        "root_of_trust": "ARRI Alexa 35 Hardware Enclave CA",
+        "x509_issuer": "DigiCert Studio CA v3 / SAG-AFTRA Trust Network",
+        "tsa_timestamp": "2026-09-09T19:23:15.946637+00:00",
+        "integrity_status": "VERIFIED_VALID"
+      },
+      "synthetic_double_assets": {
+        "scan_fidelity": 99.5,
+        "landmark_deviation_mm": 0.035,
+        "gamut_match": "ACEScg SMPTE ST 2065-1",
+        "topology_points": 145000,
+        "render_engine": "Neural Gaussian Splatting v4.2 / Unreal Substrate",
+        "raw_scan_tag": "ACTOR__HEADSCAN_POLARIZED_RAW_v01",
+        "neural_render_tag": "ACTOR__NEURAL_COMP_ACEScg_v01"
+      },
+      "shot_attributions": [
+        {
+          "attribution_id": "attr-ed8874",
+          "scene_id": "SCENE_201",
+          "scene_display": "SCENE_201",
+          "take_number": 2,
+          "shot_id": "SHOT_ROOF_02",
+          "description": "Trinity digital double wire-removal and facial composite",
+          "used_seconds": 125.0,
+          "rendered_by": "VFX_GPU_NODE_12",
+          "timecode": "01:24:14:00",
+          "timestamp": "2026-09-09T19:23:15.953301+00:00",
+          "status": "CONFORMED"
+        }
+      ],
+      "extension_history": [
+        {
+          "timestamp": "2026-09-09T19:23:15.956288+00:00",
+          "added_seconds": 30.0,
+          "new_total_authorized": 150.0,
+          "authorized_by": "Senior Legal Counsel",
+          "note": "Authorized rooftop digital double overrun"
+        }
+      ]
+    }
+  ],
+  "vrp_studio_2e4571": [
+    {
+      "actor_id": "ACTOR_CARRIE_ANNE_MOSS",
+      "actor_name": "Carrie-Anne Moss",
+      "character_name": "Trinity",
+      "contract_id": "SAG-SCH-A-7183",
+      "union_affiliation": "SAG_AFTRA",
+      "schedule_code": "SCHEDULE_F",
+      "performer_type": "Digital Stunt Double",
+      "authorized_seconds": 120.0,
+      "used_seconds": 0.0,
+      "residual_rate_per_sec": 1200.0,
+      "accrued_residuals_usd": 0.0,
+      "consent_expiry": "2028-12-31",
+      "c2pa_hash": "c2pa:sha256:rider_bc00d1ca29c6435a9964c3d23866ff2a",
+      "status": "CLEARED",
+      "permitted_uses": [
+        "VFX background stunt double replication",
+        "Extreme environment composite"
+      ],
+      "prohibited_uses": [
+        "Unscripted synthetic dialogue",
+        "Posthumous continuation without secondary consent"
+      ],
+      "cryptographic_signatures": {
+        "performer_key_id": "kms:us-central1:sag:actor_carrie_anne_moss-key",
+        "sha256_consent_hash": "3dbbb78530b84145b149621a69fe49cdccef23787cff44059a8a61145f62a3a2",
+        "c2pa_manifest_uri": "c2pa:sha256:a79b7b9a63a042508dbfc01a275f47a3",
+        "root_of_trust": "ARRI Alexa 35 Hardware Enclave CA",
+        "x509_issuer": "DigiCert Studio CA v3 / SAG-AFTRA Trust Network",
+        "tsa_timestamp": "2026-09-09T19:23:15.946637+00:00",
+        "integrity_status": "VERIFIED_VALID"
+      },
+      "synthetic_double_assets": {
+        "scan_fidelity": 99.5,
+        "landmark_deviation_mm": 0.035,
+        "gamut_match": "ACEScg SMPTE ST 2065-1",
+        "topology_points": 145000,
+        "render_engine": "Neural Gaussian Splatting v4.2 / Unreal Substrate",
+        "raw_scan_tag": "ACTOR__HEADSCAN_POLARIZED_RAW_v01",
+        "neural_render_tag": "ACTOR__NEURAL_COMP_ACEScg_v01"
+      },
+      "shot_attributions": []
+    }
+  ],
+  "vrp_studio_2e4571:MATRIX-BURLY-2e4571": [
+    {
+      "actor_id": "ACTOR_KEANU_REEVES",
+      "actor_name": "Keanu Reeves",
+      "character_name": "Neo / Thomas Anderson",
+      "contract_id": "SAG-SCH-F-9901",
+      "union_affiliation": "SAG_AFTRA",
+      "schedule_code": "SCHEDULE_F",
+      "performer_type": "Principal Cast Theatrical Digital Replica",
+      "authorized_seconds": 180.0,
+      "used_seconds": 45.0,
+      "residual_rate_per_sec": 1500.0,
+      "accrued_residuals_usd": 67500.0,
+      "consent_expiry": "2029-12-31",
+      "c2pa_hash": "c2pa:sha256:keanu_matrix_neo_burly_brawl_master_key_9901",
+      "status": "CLEARED",
+      "permitted_uses": [
+        "Burly Brawl multi-agent martial arts kinetic replication",
+        "Sub-frame wirework replacement in Scene 102",
+        "High-speed 120fps camera trajectory facial composite"
+      ],
+      "prohibited_uses": [
+        "Unscripted synthetic dialogue generation",
+        "Commercial brand endorsements without secondary consent"
+      ],
+      "cryptographic_signatures": {
+        "performer_key_id": "kms:us-central1:sag:actor_keanu_reeves-key",
+        "sha256_consent_hash": "e465a17aa5b94041bf70f16fe684c57bbb467bca2686479287bf7178a5a2afa0",
+        "c2pa_manifest_uri": "c2pa:sha256:0e215978f7864f4c8cccb1b9e05e7b10",
+        "root_of_trust": "ARRI Alexa 35 Hardware Enclave CA",
+        "x509_issuer": "DigiCert Studio CA v3 / SAG-AFTRA Trust Network",
+        "tsa_timestamp": "2026-09-09T19:23:15.962847+00:00",
+        "integrity_status": "VERIFIED_VALID"
+      },
+      "synthetic_double_assets": {
+        "scan_fidelity": 99.9,
+        "landmark_deviation_mm": 0.015,
+        "gamut_match": "ACEScg SMPTE ST 2065-1",
+        "topology_points": 185000,
+        "render_engine": "Neural Gaussian Splatting v4.2 / Unreal Substrate",
+        "raw_scan_tag": "KR_NEO_HEADSCAN_POLARIZED_RAW_v01",
+        "neural_render_tag": "KR_NEO_NEURAL_COMP_ACEScg_v04"
+      },
+      "shot_attributions": []
+    },
+    {
+      "actor_id": "ACTOR_HUGO_WEAVING",
+      "actor_name": "Hugo Weaving",
+      "character_name": "Agent Smith (Multi-Replicant)",
+      "contract_id": "SAG-SCH-A-7740",
+      "union_affiliation": "SAG_AFTRA",
+      "schedule_code": "SCHEDULE_A",
+      "performer_type": "Multi-Agent Synthetic Stunt Crowd Replica",
+      "authorized_seconds": 60.0,
+      "used_seconds": 58.5,
+      "residual_rate_per_sec": 450.0,
+      "accrued_residuals_usd": 26325.0,
+      "consent_expiry": "2028-06-30",
+      "c2pa_hash": "c2pa:sha256:hugo_smith_burly_brawl_crowd_key_7740",
+      "status": "CLEARED",
+      "permitted_uses": [
+        "Burly Brawl 100-Agent crowd replication",
+        "Kinetic impact pole fight replacement"
+      ],
+      "prohibited_uses": [
+        "Autonomous generative synthetic voice without rider",
+        "Third-party AI foundation training"
+      ],
+      "cryptographic_signatures": {
+        "performer_key_id": "kms:us-central1:sag:actor_hugo_weaving-key",
+        "sha256_consent_hash": "8ea8d69dbdc94452a1f3e8dfb914dc8cd93a1dbe7826490bb6fe8c9a16d1bee0",
+        "c2pa_manifest_uri": "c2pa:sha256:8730e38fe8de49e0865d828737dff265",
+        "root_of_trust": "ARRI Alexa 35 Hardware Enclave CA",
+        "x509_issuer": "DigiCert Studio CA v3 / SAG-AFTRA Trust Network",
+        "tsa_timestamp": "2026-09-09T19:23:15.965832+00:00",
+        "integrity_status": "VERIFIED_VALID"
+      },
+      "synthetic_double_assets": {
+        "scan_fidelity": 99.6,
+        "landmark_deviation_mm": 0.028,
+        "gamut_match": "ACEScg SMPTE ST 2065-1",
+        "topology_points": 152000,
+        "render_engine": "Neural Gaussian Splatting v4.2 / Unreal Substrate",
+        "raw_scan_tag": "HW_SMITH_HEADSCAN_POLARIZED_RAW_v01",
+        "neural_render_tag": "HW_SMITH_NEURAL_COMP_ACEScg_v02"
+      },
+      "shot_attributions": []
+    }
+  ],
+  "vrp_studio_15dba1:RESURRECTIONS-15dba1": [
+    {
+      "actor_id": "ACTOR_CARRIE_ANNE_MOSS",
+      "actor_name": "Carrie-Anne Moss",
+      "character_name": "Trinity",
+      "contract_id": "SAG-SCH-A-509D",
+      "union_affiliation": "SAG_AFTRA",
+      "schedule_code": "SCHEDULE_F",
+      "performer_type": "Digital Stunt Double",
+      "authorized_seconds": 150.0,
+      "used_seconds": 125.0,
+      "residual_rate_per_sec": 1200.0,
+      "accrued_residuals_usd": 150000.0,
+      "consent_expiry": "2028-12-31",
+      "c2pa_hash": "c2pa:sha256:rider_1d49e3ca37e54ba796a388397b7097fe",
+      "status": "WARNING_THRESHOLD",
+      "permitted_uses": [
+        "VFX background stunt double replication",
+        "Extreme environment composite"
+      ],
+      "prohibited_uses": [
+        "Unscripted synthetic dialogue",
+        "Posthumous continuation without secondary consent"
+      ],
+      "cryptographic_signatures": {
+        "performer_key_id": "kms:us-central1:sag:actor_carrie_anne_moss-key",
+        "sha256_consent_hash": "a151ce6735384b8388902bed5bee42b6e79c80b63a6942b6a822f4f858faa330",
+        "c2pa_manifest_uri": "c2pa:sha256:14e81cbb9f3f4ac3ab73fdf30234f10f",
+        "root_of_trust": "ARRI Alexa 35 Hardware Enclave CA",
+        "x509_issuer": "DigiCert Studio CA v3 / SAG-AFTRA Trust Network",
+        "tsa_timestamp": "2026-09-09T19:41:17.907869+00:00",
+        "integrity_status": "VERIFIED_VALID"
+      },
+      "synthetic_double_assets": {
+        "scan_fidelity": 99.5,
+        "landmark_deviation_mm": 0.035,
+        "gamut_match": "ACEScg SMPTE ST 2065-1",
+        "topology_points": 145000,
+        "render_engine": "Neural Gaussian Splatting v4.2 / Unreal Substrate",
+        "raw_scan_tag": "ACTOR__HEADSCAN_POLARIZED_RAW_v01",
+        "neural_render_tag": "ACTOR__NEURAL_COMP_ACEScg_v01"
+      },
+      "shot_attributions": [
+        {
+          "attribution_id": "attr-a54fd5",
+          "scene_id": "SCENE_201",
+          "scene_display": "SCENE_201",
+          "take_number": 2,
+          "shot_id": "SHOT_ROOF_02",
+          "description": "Trinity digital double wire-removal and facial composite",
+          "used_seconds": 125.0,
+          "rendered_by": "VFX_GPU_NODE_12",
+          "timecode": "01:24:14:00",
+          "timestamp": "2026-09-09T19:41:17.922237+00:00",
+          "status": "CONFORMED"
+        }
+      ],
+      "extension_history": [
+        {
+          "timestamp": "2026-09-09T19:41:17.926060+00:00",
+          "added_seconds": 30.0,
+          "new_total_authorized": 150.0,
+          "authorized_by": "Senior Legal Counsel",
+          "note": "Authorized rooftop digital double overrun"
+        }
+      ]
+    }
+  ],
+  "vrp_studio_15dba1": [
+    {
+      "actor_id": "ACTOR_CARRIE_ANNE_MOSS",
+      "actor_name": "Carrie-Anne Moss",
+      "character_name": "Trinity",
+      "contract_id": "SAG-SCH-A-509D",
+      "union_affiliation": "SAG_AFTRA",
+      "schedule_code": "SCHEDULE_F",
+      "performer_type": "Digital Stunt Double",
+      "authorized_seconds": 120.0,
+      "used_seconds": 0.0,
+      "residual_rate_per_sec": 1200.0,
+      "accrued_residuals_usd": 0.0,
+      "consent_expiry": "2028-12-31",
+      "c2pa_hash": "c2pa:sha256:rider_1d49e3ca37e54ba796a388397b7097fe",
+      "status": "CLEARED",
+      "permitted_uses": [
+        "VFX background stunt double replication",
+        "Extreme environment composite"
+      ],
+      "prohibited_uses": [
+        "Unscripted synthetic dialogue",
+        "Posthumous continuation without secondary consent"
+      ],
+      "cryptographic_signatures": {
+        "performer_key_id": "kms:us-central1:sag:actor_carrie_anne_moss-key",
+        "sha256_consent_hash": "a151ce6735384b8388902bed5bee42b6e79c80b63a6942b6a822f4f858faa330",
+        "c2pa_manifest_uri": "c2pa:sha256:14e81cbb9f3f4ac3ab73fdf30234f10f",
+        "root_of_trust": "ARRI Alexa 35 Hardware Enclave CA",
+        "x509_issuer": "DigiCert Studio CA v3 / SAG-AFTRA Trust Network",
+        "tsa_timestamp": "2026-09-09T19:41:17.907869+00:00",
+        "integrity_status": "VERIFIED_VALID"
+      },
+      "synthetic_double_assets": {
+        "scan_fidelity": 99.5,
+        "landmark_deviation_mm": 0.035,
+        "gamut_match": "ACEScg SMPTE ST 2065-1",
+        "topology_points": 145000,
+        "render_engine": "Neural Gaussian Splatting v4.2 / Unreal Substrate",
+        "raw_scan_tag": "ACTOR__HEADSCAN_POLARIZED_RAW_v01",
+        "neural_render_tag": "ACTOR__NEURAL_COMP_ACEScg_v01"
+      },
+      "shot_attributions": []
+    }
+  ],
+  "vrp_studio_15dba1:MATRIX-BURLY-15dba1": [
+    {
+      "actor_id": "ACTOR_KEANU_REEVES",
+      "actor_name": "Keanu Reeves",
+      "character_name": "Neo / Thomas Anderson",
+      "contract_id": "SAG-SCH-F-9901",
+      "union_affiliation": "SAG_AFTRA",
+      "schedule_code": "SCHEDULE_F",
+      "performer_type": "Principal Cast Theatrical Digital Replica",
+      "authorized_seconds": 180.0,
+      "used_seconds": 45.0,
+      "residual_rate_per_sec": 1500.0,
+      "accrued_residuals_usd": 67500.0,
+      "consent_expiry": "2029-12-31",
+      "c2pa_hash": "c2pa:sha256:keanu_matrix_neo_burly_brawl_master_key_9901",
+      "status": "CLEARED",
+      "permitted_uses": [
+        "Burly Brawl multi-agent martial arts kinetic replication",
+        "Sub-frame wirework replacement in Scene 102",
+        "High-speed 120fps camera trajectory facial composite"
+      ],
+      "prohibited_uses": [
+        "Unscripted synthetic dialogue generation",
+        "Commercial brand endorsements without secondary consent"
+      ],
+      "cryptographic_signatures": {
+        "performer_key_id": "kms:us-central1:sag:actor_keanu_reeves-key",
+        "sha256_consent_hash": "54c3990f79c7469888008238effcf0fcf09c9b2d379a48e1b4a547eb3b36a2e5",
+        "c2pa_manifest_uri": "c2pa:sha256:85b541ee53df4300bfe58b7f115fc391",
+        "root_of_trust": "ARRI Alexa 35 Hardware Enclave CA",
+        "x509_issuer": "DigiCert Studio CA v3 / SAG-AFTRA Trust Network",
+        "tsa_timestamp": "2026-09-09T19:41:17.932940+00:00",
+        "integrity_status": "VERIFIED_VALID"
+      },
+      "synthetic_double_assets": {
+        "scan_fidelity": 99.9,
+        "landmark_deviation_mm": 0.015,
+        "gamut_match": "ACEScg SMPTE ST 2065-1",
+        "topology_points": 185000,
+        "render_engine": "Neural Gaussian Splatting v4.2 / Unreal Substrate",
+        "raw_scan_tag": "KR_NEO_HEADSCAN_POLARIZED_RAW_v01",
+        "neural_render_tag": "KR_NEO_NEURAL_COMP_ACEScg_v04"
+      },
+      "shot_attributions": []
+    },
+    {
+      "actor_id": "ACTOR_HUGO_WEAVING",
+      "actor_name": "Hugo Weaving",
+      "character_name": "Agent Smith (Multi-Replicant)",
+      "contract_id": "SAG-SCH-A-7740",
+      "union_affiliation": "SAG_AFTRA",
+      "schedule_code": "SCHEDULE_A",
+      "performer_type": "Multi-Agent Synthetic Stunt Crowd Replica",
+      "authorized_seconds": 60.0,
+      "used_seconds": 58.5,
+      "residual_rate_per_sec": 450.0,
+      "accrued_residuals_usd": 26325.0,
+      "consent_expiry": "2028-06-30",
+      "c2pa_hash": "c2pa:sha256:hugo_smith_burly_brawl_crowd_key_7740",
+      "status": "CLEARED",
+      "permitted_uses": [
+        "Burly Brawl 100-Agent crowd replication",
+        "Kinetic impact pole fight replacement"
+      ],
+      "prohibited_uses": [
+        "Autonomous generative synthetic voice without rider",
+        "Third-party AI foundation training"
+      ],
+      "cryptographic_signatures": {
+        "performer_key_id": "kms:us-central1:sag:actor_hugo_weaving-key",
+        "sha256_consent_hash": "4118304c0d8f4013a322e5237d250a11b86287a283b444d6b53bc810367e7d60",
+        "c2pa_manifest_uri": "c2pa:sha256:2968e381316f46f9a21650e2a676ae44",
+        "root_of_trust": "ARRI Alexa 35 Hardware Enclave CA",
+        "x509_issuer": "DigiCert Studio CA v3 / SAG-AFTRA Trust Network",
+        "tsa_timestamp": "2026-09-09T19:41:17.935997+00:00",
+        "integrity_status": "VERIFIED_VALID"
+      },
+      "synthetic_double_assets": {
+        "scan_fidelity": 99.6,
+        "landmark_deviation_mm": 0.028,
+        "gamut_match": "ACEScg SMPTE ST 2065-1",
+        "topology_points": 152000,
+        "render_engine": "Neural Gaussian Splatting v4.2 / Unreal Substrate",
+        "raw_scan_tag": "HW_SMITH_HEADSCAN_POLARIZED_RAW_v01",
+        "neural_render_tag": "HW_SMITH_NEURAL_COMP_ACEScg_v02"
+      },
+      "shot_attributions": []
+    }
+  ],
+  "vrp_studio_54d539:RESURRECTIONS-54d539": [
+    {
+      "actor_id": "ACTOR_CARRIE_ANNE_MOSS",
+      "actor_name": "Carrie-Anne Moss",
+      "character_name": "Trinity",
+      "contract_id": "SAG-SCH-A-99E4",
+      "union_affiliation": "SAG_AFTRA",
+      "schedule_code": "SCHEDULE_F",
+      "performer_type": "Digital Stunt Double",
+      "authorized_seconds": 150.0,
+      "used_seconds": 125.0,
+      "residual_rate_per_sec": 1200.0,
+      "accrued_residuals_usd": 150000.0,
+      "consent_expiry": "2028-12-31",
+      "c2pa_hash": "c2pa:sha256:rider_b05451b9f0ca4daf9fd550e165f6cf2a",
+      "status": "WARNING_THRESHOLD",
+      "permitted_uses": [
+        "VFX background stunt double replication",
+        "Extreme environment composite"
+      ],
+      "prohibited_uses": [
+        "Unscripted synthetic dialogue",
+        "Posthumous continuation without secondary consent"
+      ],
+      "cryptographic_signatures": {
+        "performer_key_id": "kms:us-central1:sag:actor_carrie_anne_moss-key",
+        "sha256_consent_hash": "c2056b5c0c9d46f9ac009a5c7fdbc43047814edb5fc64260a5cf0489ea39693a",
+        "c2pa_manifest_uri": "c2pa:sha256:e18982a39c6742e18aae1b24fd88421e",
+        "root_of_trust": "ARRI Alexa 35 Hardware Enclave CA",
+        "x509_issuer": "DigiCert Studio CA v3 / SAG-AFTRA Trust Network",
+        "tsa_timestamp": "2026-09-09T19:42:27.824492+00:00",
+        "integrity_status": "VERIFIED_VALID"
+      },
+      "synthetic_double_assets": {
+        "scan_fidelity": 99.5,
+        "landmark_deviation_mm": 0.035,
+        "gamut_match": "ACEScg SMPTE ST 2065-1",
+        "topology_points": 145000,
+        "render_engine": "Neural Gaussian Splatting v4.2 / Unreal Substrate",
+        "raw_scan_tag": "ACTOR__HEADSCAN_POLARIZED_RAW_v01",
+        "neural_render_tag": "ACTOR__NEURAL_COMP_ACEScg_v01"
+      },
+      "shot_attributions": [
+        {
+          "attribution_id": "attr-bfe8d0",
+          "scene_id": "SCENE_201",
+          "scene_display": "SCENE_201",
+          "take_number": 2,
+          "shot_id": "SHOT_ROOF_02",
+          "description": "Trinity digital double wire-removal and facial composite",
+          "used_seconds": 125.0,
+          "rendered_by": "VFX_GPU_NODE_12",
+          "timecode": "01:24:14:00",
+          "timestamp": "2026-09-09T19:42:27.831615+00:00",
+          "status": "CONFORMED"
+        }
+      ],
+      "extension_history": [
+        {
+          "timestamp": "2026-09-09T19:42:27.834885+00:00",
+          "added_seconds": 30.0,
+          "new_total_authorized": 150.0,
+          "authorized_by": "Senior Legal Counsel",
+          "note": "Authorized rooftop digital double overrun"
+        }
+      ]
+    }
+  ],
+  "vrp_studio_54d539": [
+    {
+      "actor_id": "ACTOR_CARRIE_ANNE_MOSS",
+      "actor_name": "Carrie-Anne Moss",
+      "character_name": "Trinity",
+      "contract_id": "SAG-SCH-A-99E4",
+      "union_affiliation": "SAG_AFTRA",
+      "schedule_code": "SCHEDULE_F",
+      "performer_type": "Digital Stunt Double",
+      "authorized_seconds": 120.0,
+      "used_seconds": 0.0,
+      "residual_rate_per_sec": 1200.0,
+      "accrued_residuals_usd": 0.0,
+      "consent_expiry": "2028-12-31",
+      "c2pa_hash": "c2pa:sha256:rider_b05451b9f0ca4daf9fd550e165f6cf2a",
+      "status": "CLEARED",
+      "permitted_uses": [
+        "VFX background stunt double replication",
+        "Extreme environment composite"
+      ],
+      "prohibited_uses": [
+        "Unscripted synthetic dialogue",
+        "Posthumous continuation without secondary consent"
+      ],
+      "cryptographic_signatures": {
+        "performer_key_id": "kms:us-central1:sag:actor_carrie_anne_moss-key",
+        "sha256_consent_hash": "c2056b5c0c9d46f9ac009a5c7fdbc43047814edb5fc64260a5cf0489ea39693a",
+        "c2pa_manifest_uri": "c2pa:sha256:e18982a39c6742e18aae1b24fd88421e",
+        "root_of_trust": "ARRI Alexa 35 Hardware Enclave CA",
+        "x509_issuer": "DigiCert Studio CA v3 / SAG-AFTRA Trust Network",
+        "tsa_timestamp": "2026-09-09T19:42:27.824492+00:00",
+        "integrity_status": "VERIFIED_VALID"
+      },
+      "synthetic_double_assets": {
+        "scan_fidelity": 99.5,
+        "landmark_deviation_mm": 0.035,
+        "gamut_match": "ACEScg SMPTE ST 2065-1",
+        "topology_points": 145000,
+        "render_engine": "Neural Gaussian Splatting v4.2 / Unreal Substrate",
+        "raw_scan_tag": "ACTOR__HEADSCAN_POLARIZED_RAW_v01",
+        "neural_render_tag": "ACTOR__NEURAL_COMP_ACEScg_v01"
+      },
+      "shot_attributions": []
+    }
+  ],
+  "vrp_studio_54d539:MATRIX-BURLY-54d539": [
+    {
+      "actor_id": "ACTOR_KEANU_REEVES",
+      "actor_name": "Keanu Reeves",
+      "character_name": "Neo / Thomas Anderson",
+      "contract_id": "SAG-SCH-F-9901",
+      "union_affiliation": "SAG_AFTRA",
+      "schedule_code": "SCHEDULE_F",
+      "performer_type": "Principal Cast Theatrical Digital Replica",
+      "authorized_seconds": 180.0,
+      "used_seconds": 45.0,
+      "residual_rate_per_sec": 1500.0,
+      "accrued_residuals_usd": 67500.0,
+      "consent_expiry": "2029-12-31",
+      "c2pa_hash": "c2pa:sha256:keanu_matrix_neo_burly_brawl_master_key_9901",
+      "status": "CLEARED",
+      "permitted_uses": [
+        "Burly Brawl multi-agent martial arts kinetic replication",
+        "Sub-frame wirework replacement in Scene 102",
+        "High-speed 120fps camera trajectory facial composite"
+      ],
+      "prohibited_uses": [
+        "Unscripted synthetic dialogue generation",
+        "Commercial brand endorsements without secondary consent"
+      ],
+      "cryptographic_signatures": {
+        "performer_key_id": "kms:us-central1:sag:actor_keanu_reeves-key",
+        "sha256_consent_hash": "a42fa838de394ec89789679b786fbb3dad3fbb0347434207af934d9b856c1923",
+        "c2pa_manifest_uri": "c2pa:sha256:8a253e5aab904c2aa19eb3f8c783b07b",
+        "root_of_trust": "ARRI Alexa 35 Hardware Enclave CA",
+        "x509_issuer": "DigiCert Studio CA v3 / SAG-AFTRA Trust Network",
+        "tsa_timestamp": "2026-09-09T19:42:27.841813+00:00",
+        "integrity_status": "VERIFIED_VALID"
+      },
+      "synthetic_double_assets": {
+        "scan_fidelity": 99.9,
+        "landmark_deviation_mm": 0.015,
+        "gamut_match": "ACEScg SMPTE ST 2065-1",
+        "topology_points": 185000,
+        "render_engine": "Neural Gaussian Splatting v4.2 / Unreal Substrate",
+        "raw_scan_tag": "KR_NEO_HEADSCAN_POLARIZED_RAW_v01",
+        "neural_render_tag": "KR_NEO_NEURAL_COMP_ACEScg_v04"
+      },
+      "shot_attributions": []
+    },
+    {
+      "actor_id": "ACTOR_HUGO_WEAVING",
+      "actor_name": "Hugo Weaving",
+      "character_name": "Agent Smith (Multi-Replicant)",
+      "contract_id": "SAG-SCH-A-7740",
+      "union_affiliation": "SAG_AFTRA",
+      "schedule_code": "SCHEDULE_A",
+      "performer_type": "Multi-Agent Synthetic Stunt Crowd Replica",
+      "authorized_seconds": 60.0,
+      "used_seconds": 58.5,
+      "residual_rate_per_sec": 450.0,
+      "accrued_residuals_usd": 26325.0,
+      "consent_expiry": "2028-06-30",
+      "c2pa_hash": "c2pa:sha256:hugo_smith_burly_brawl_crowd_key_7740",
+      "status": "CLEARED",
+      "permitted_uses": [
+        "Burly Brawl 100-Agent crowd replication",
+        "Kinetic impact pole fight replacement"
+      ],
+      "prohibited_uses": [
+        "Autonomous generative synthetic voice without rider",
+        "Third-party AI foundation training"
+      ],
+      "cryptographic_signatures": {
+        "performer_key_id": "kms:us-central1:sag:actor_hugo_weaving-key",
+        "sha256_consent_hash": "ba50ff29eef540f18540f346e51d0d64d780edfa561e4558a7a56d810cfd3fef",
+        "c2pa_manifest_uri": "c2pa:sha256:3ea23b40b3a247098e1c4837775039c1",
+        "root_of_trust": "ARRI Alexa 35 Hardware Enclave CA",
+        "x509_issuer": "DigiCert Studio CA v3 / SAG-AFTRA Trust Network",
+        "tsa_timestamp": "2026-09-09T19:42:27.845339+00:00",
+        "integrity_status": "VERIFIED_VALID"
+      },
+      "synthetic_double_assets": {
+        "scan_fidelity": 99.6,
+        "landmark_deviation_mm": 0.028,
+        "gamut_match": "ACEScg SMPTE ST 2065-1",
+        "topology_points": 152000,
+        "render_engine": "Neural Gaussian Splatting v4.2 / Unreal Substrate",
+        "raw_scan_tag": "HW_SMITH_HEADSCAN_POLARIZED_RAW_v01",
+        "neural_render_tag": "HW_SMITH_NEURAL_COMP_ACEScg_v02"
+      },
+      "shot_attributions": []
+    }
+  ]
+}

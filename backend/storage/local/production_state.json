@@ -1,0 +1,360 @@
+{
+  "CHRONO-2026": {
+    "tenant_id": "paramount_pictures",
+    "project_id": "CHRONO-2026",
+    "project_title": "Chrono 2026 (Theatrical Feature)",
+    "active_scene": "Scene 42B",
+    "active_scene_id": "SCENE_42B",
+    "active_take": 5,
+    "director": "Denis Villeneuve",
+    "sound_roll": "A104",
+    "updated_at": "2026-09-06T20:15:38.078803+00:00"
+  },
+  "MATRIX-2026": {
+    "active_scene": "Scene 102",
+    "active_scene_id": "SCENE_102",
+    "active_take": 1,
+    "project_id": "MATRIX-2026",
+    "updated_at": "2026-09-06T20:15:38.042730+00:00",
+    "tenant_id": "silver_pictures"
+  },
+  "RESURRECTIONS-HTTP-2026": {
+    "active_scene": "Scene 201",
+    "active_scene_id": "SCENE_201",
+    "active_take": 2,
+    "project_id": "RESURRECTIONS-HTTP-2026",
+    "updated_at": "2026-09-06T18:06:31.880743+00:00"
+  },
+  "RESURRECTIONS-823234": {
+    "active_scene": "Scene 201",
+    "active_scene_id": "SCENE_201",
+    "active_take": 2,
+    "project_id": "RESURRECTIONS-823234",
+    "updated_at": "2026-09-06T18:07:09.814114+00:00"
+  },
+  "RESURRECTIONS-7bf5c4": {
+    "active_scene": "Scene 201",
+    "active_scene_id": "SCENE_201",
+    "active_take": 2,
+    "project_id": "RESURRECTIONS-7bf5c4",
+    "updated_at": "2026-09-06T18:07:20.440751+00:00"
+  },
+  "RESURRECTIONS-7094e8": {
+    "active_scene": "Scene 201",
+    "active_scene_id": "SCENE_201",
+    "active_take": 2,
+    "project_id": "RESURRECTIONS-7094e8",
+    "updated_at": "2026-09-06T18:07:45.596053+00:00"
+  },
+  "RESURRECTIONS-036464": {
+    "active_scene": "Scene 201",
+    "active_scene_id": "SCENE_201",
+    "active_take": 2,
+    "project_id": "RESURRECTIONS-036464",
+    "updated_at": "2026-09-06T18:07:48.206870+00:00"
+  },
+  "RESURRECTIONS-26b2ec": {
+    "active_scene": "Scene 201",
+    "active_scene_id": "SCENE_201",
+    "active_take": 2,
+    "project_id": "RESURRECTIONS-26b2ec",
+    "updated_at": "2026-09-06T18:09:35.067983+00:00"
+  },
+  "RESURRECTIONS-d31f2e": {
+    "active_scene": "Scene 201",
+    "active_scene_id": "SCENE_201",
+    "active_take": 2,
+    "project_id": "RESURRECTIONS-d31f2e",
+    "updated_at": "2026-09-06T18:24:14.061017+00:00"
+  },
+  "RESURRECTIONS-97472e": {
+    "active_scene": "Scene 201",
+    "active_scene_id": "SCENE_201",
+    "active_take": 2,
+    "project_id": "RESURRECTIONS-97472e",
+    "updated_at": "2026-09-06T18:26:00.727364+00:00"
+  },
+  "MATRIX-BLANK-2026": {
+    "tenant_id": "silver_pictures_blank",
+    "project_id": "MATRIX-BLANK-2026",
+    "project_title": "Matrix Blank 2026",
+    "active_scene": "Scene 01 (Virtual Construct Dojo)",
+    "active_scene_id": "SCENE_01_(VIRTUAL_CONSTRUCT_DOJO)",
+    "active_take": 1,
+    "director": "Principal Director",
+    "sound_roll": "A101",
+    "updated_at": "2026-09-07T17:16:28.401094+00:00"
+  },
+  "RESURRECTIONS-45ec71": {
+    "active_scene": "Scene 201",
+    "active_scene_id": "SCENE_201",
+    "active_take": 2,
+    "project_id": "RESURRECTIONS-45ec71",
+    "updated_at": "2026-09-06T19:53:08.491362+00:00"
+  },
+  "RESURRECTIONS-5db130": {
+    "active_scene": "Scene 201",
+    "active_scene_id": "SCENE_201",
+    "active_take": 2,
+    "project_id": "RESURRECTIONS-5db130",
+    "updated_at": "2026-09-06T20:12:18.729236+00:00"
+  },
+  "silver_pictures_village_roadshow_new:MATRIX-2026": {
+    "tenant_id": "silver_pictures_village_roadshow_new",
+    "project_id": "MATRIX-2026",
+    "project_title": "The Matrix: Fights",
+    "active_scene": "Scene 103",
+    "active_scene_id": "SCENE_103",
+    "active_take": 5,
+    "director": "Lana & Lilly Wachowski",
+    "sound_roll": "A101",
+    "updated_at": "2026-09-07T10:10:49.196339+00:00"
+  },
+  "vrp_studio_b3763a:RESURRECTIONS-b3763a": {
+    "active_scene": "Scene 201",
+    "active_scene_id": "SCENE_201",
+    "active_take": 2,
+    "tenant_id": "vrp_studio_b3763a",
+    "project_id": "RESURRECTIONS-b3763a",
+    "updated_at": "2026-09-06T20:15:38.009010+00:00"
+  },
+  "silver_pictures:MATRIX-2026": {
+    "active_scene": "Scene 102",
+    "active_scene_id": "SCENE_102",
+    "active_take": 2,
+    "project_id": "MATRIX-2026",
+    "updated_at": "2026-09-09T19:42:27.871962+00:00",
+    "tenant_id": "silver_pictures",
+    "director": "George Miller",
+    "sound_roll": "A101",
+    "project_title": "Apex"
+  },
+  "paramount_pictures:CHRONO-2026": {
+    "tenant_id": "paramount_pictures",
+    "project_id": "CHRONO-2026",
+    "project_title": "The Matrix: Fights",
+    "active_scene": "Scene 42B",
+    "active_scene_id": "SCENE_42B",
+    "active_take": 5,
+    "director": "Lana & Lilly Wachowski",
+    "sound_roll": "A101",
+    "updated_at": "2026-09-09T19:42:27.923952+00:00"
+  },
+  "vrp_studio_45ec71:RESURRECTIONS-45ec71": {
+    "tenant_id": "vrp_studio_45ec71",
+    "project_id": "RESURRECTIONS-45ec71",
+    "project_title": "The Matrix Resurrections (45ec71)",
+    "active_scene": "Scene 01",
+    "active_scene_id": "SCENE_01",
+    "active_take": 1,
+    "director": "Lana Wachowski",
+    "sound_roll": "A101",
+    "updated_at": "2026-09-06T20:33:36.680566+00:00"
+  },
+  "warner_bros:APEX-2026": {
+    "tenant_id": "warner_bros",
+    "project_id": "APEX-2026",
+    "project_title": "Apex",
+    "active_scene": "Scene 01",
+    "active_scene_id": "SCENE_01",
+    "active_take": 1,
+    "director": "George Miller",
+    "sound_roll": "A101",
+    "updated_at": "2026-09-07T09:33:27.632518+00:00"
+  },
+  "vrp_studio_0f7fbd:RESURRECTIONS-0f7fbd": {
+    "active_scene": "Scene 201",
+    "active_scene_id": "SCENE_201",
+    "active_take": 2,
+    "tenant_id": "vrp_studio_0f7fbd",
+    "project_id": "RESURRECTIONS-0f7fbd",
+    "updated_at": "2026-09-07T10:13:42.704311+00:00"
+  },
+  "vrp_studio_7dce77:RESURRECTIONS-7dce77": {
+    "active_scene": "Scene 201",
+    "active_scene_id": "SCENE_201",
+    "active_take": 2,
+    "tenant_id": "vrp_studio_7dce77",
+    "project_id": "RESURRECTIONS-7dce77",
+    "updated_at": "2026-09-07T10:14:45.600290+00:00"
+  },
+  "vrp_studio_eb9f54:RESURRECTIONS-eb9f54": {
+    "active_scene": "Scene 201",
+    "active_scene_id": "SCENE_201",
+    "active_take": 2,
+    "tenant_id": "vrp_studio_eb9f54",
+    "project_id": "RESURRECTIONS-eb9f54",
+    "updated_at": "2026-09-07T16:54:16.513625+00:00"
+  },
+  "vrp_studio_d77e5d:RESURRECTIONS-d77e5d": {
+    "active_scene": "Scene 201",
+    "active_scene_id": "SCENE_201",
+    "active_take": 2,
+    "tenant_id": "vrp_studio_d77e5d",
+    "project_id": "RESURRECTIONS-d77e5d",
+    "updated_at": "2026-09-07T16:54:35.326629+00:00"
+  },
+  "silver_pictures_blank:MATRIX-BLANK-2026": {
+    "tenant_id": "silver_pictures_blank",
+    "project_id": "MATRIX-BLANK-2026",
+    "project_title": "Matrix Blank 2026",
+    "active_scene": "Scene 01",
+    "active_scene_id": "SCENE_01",
+    "active_take": 2,
+    "director": "Principal Director",
+    "sound_roll": "A101",
+    "updated_at": "2026-09-07T17:31:02.343994+00:00"
+  },
+  "vrp_studio_f28fd7:RESURRECTIONS-f28fd7": {
+    "active_scene": "Scene 201",
+    "active_scene_id": "SCENE_201",
+    "active_take": 2,
+    "tenant_id": "vrp_studio_f28fd7",
+    "project_id": "RESURRECTIONS-f28fd7",
+    "updated_at": "2026-09-07T17:22:04.202486+00:00"
+  },
+  "vrp_studio_9d4e0c:RESURRECTIONS-9d4e0c": {
+    "active_scene": "Scene 201",
+    "active_scene_id": "SCENE_201",
+    "active_take": 2,
+    "tenant_id": "vrp_studio_9d4e0c",
+    "project_id": "RESURRECTIONS-9d4e0c",
+    "updated_at": "2026-09-07T17:22:12.976820+00:00"
+  },
+  "vrp_studio_8a7741:RESURRECTIONS-8a7741": {
+    "active_scene": "Scene 201",
+    "active_scene_id": "SCENE_201",
+    "active_take": 2,
+    "tenant_id": "vrp_studio_8a7741",
+    "project_id": "RESURRECTIONS-8a7741",
+    "updated_at": "2026-09-07T17:22:25.690362+00:00"
+  },
+  "vrp_studio_69f38c:RESURRECTIONS-69f38c": {
+    "active_scene": "Scene 201",
+    "active_scene_id": "SCENE_201",
+    "active_take": 2,
+    "tenant_id": "vrp_studio_69f38c",
+    "project_id": "RESURRECTIONS-69f38c",
+    "updated_at": "2026-09-07T17:24:14.503731+00:00"
+  },
+  "vrp_studio_a5867d:RESURRECTIONS-a5867d": {
+    "active_scene": "Scene 201",
+    "active_scene_id": "SCENE_201",
+    "active_take": 2,
+    "tenant_id": "vrp_studio_a5867d",
+    "project_id": "RESURRECTIONS-a5867d",
+    "updated_at": "2026-09-07T17:43:44.567448+00:00"
+  },
+  "vrp_studio_6df089:RESURRECTIONS-6df089": {
+    "active_scene": "Scene 201",
+    "active_scene_id": "SCENE_201",
+    "active_take": 2,
+    "tenant_id": "vrp_studio_6df089",
+    "project_id": "RESURRECTIONS-6df089",
+    "updated_at": "2026-09-07T17:43:54.806847+00:00"
+  },
+  "vrp_studio_cddc4a:RESURRECTIONS-cddc4a": {
+    "active_scene": "Scene 201",
+    "active_scene_id": "SCENE_201",
+    "active_take": 2,
+    "tenant_id": "vrp_studio_cddc4a",
+    "project_id": "RESURRECTIONS-cddc4a",
+    "updated_at": "2026-09-07T17:44:17.722628+00:00"
+  },
+  "vrp_studio_431a03:RESURRECTIONS-431a03": {
+    "active_scene": "Scene 201",
+    "active_scene_id": "SCENE_201",
+    "active_take": 2,
+    "tenant_id": "vrp_studio_431a03",
+    "project_id": "RESURRECTIONS-431a03",
+    "updated_at": "2026-09-07T17:44:42.076880+00:00"
+  },
+  "vrp_studio_8778d9:RESURRECTIONS-8778d9": {
+    "active_scene": "Scene 201",
+    "active_scene_id": "SCENE_201",
+    "active_take": 2,
+    "tenant_id": "vrp_studio_8778d9",
+    "project_id": "RESURRECTIONS-8778d9",
+    "updated_at": "2026-09-07T17:58:50.612667+00:00"
+  },
+  "vrp_studio_cdf39b:RESURRECTIONS-cdf39b": {
+    "active_scene": "Scene 201",
+    "active_scene_id": "SCENE_201",
+    "active_take": 2,
+    "tenant_id": "vrp_studio_cdf39b",
+    "project_id": "RESURRECTIONS-cdf39b",
+    "updated_at": "2026-09-07T18:13:33.492908+00:00"
+  },
+  "vrp_studio_4646de:RESURRECTIONS-4646de": {
+    "active_scene": "Scene 201",
+    "active_scene_id": "SCENE_201",
+    "active_take": 2,
+    "tenant_id": "vrp_studio_4646de",
+    "project_id": "RESURRECTIONS-4646de",
+    "updated_at": "2026-09-07T18:14:08.129742+00:00"
+  },
+  "vrp_studio_eb7afc:RESURRECTIONS-eb7afc": {
+    "active_scene": "Scene 201",
+    "active_scene_id": "SCENE_201",
+    "active_take": 2,
+    "tenant_id": "vrp_studio_eb7afc",
+    "project_id": "RESURRECTIONS-eb7afc",
+    "updated_at": "2026-09-09T18:45:03.698351+00:00"
+  },
+  "vrp_studio_4c417d:RESURRECTIONS-4c417d": {
+    "active_scene": "Scene 201",
+    "active_scene_id": "SCENE_201",
+    "active_take": 2,
+    "tenant_id": "vrp_studio_4c417d",
+    "project_id": "RESURRECTIONS-4c417d",
+    "updated_at": "2026-09-09T18:45:15.341925+00:00"
+  },
+  "vrp_studio_be22bc:RESURRECTIONS-be22bc": {
+    "active_scene": "Scene 201",
+    "active_scene_id": "SCENE_201",
+    "active_take": 2,
+    "tenant_id": "vrp_studio_be22bc",
+    "project_id": "RESURRECTIONS-be22bc",
+    "updated_at": "2026-09-09T18:45:26.948191+00:00"
+  },
+  "vrp_studio_d2be42:RESURRECTIONS-d2be42": {
+    "active_scene": "Scene 201",
+    "active_scene_id": "SCENE_201",
+    "active_take": 2,
+    "tenant_id": "vrp_studio_d2be42",
+    "project_id": "RESURRECTIONS-d2be42",
+    "updated_at": "2026-09-09T18:56:58.082160+00:00"
+  },
+  "vrp_studio_62a67f:RESURRECTIONS-62a67f": {
+    "active_scene": "Scene 201",
+    "active_scene_id": "SCENE_201",
+    "active_take": 2,
+    "tenant_id": "vrp_studio_62a67f",
+    "project_id": "RESURRECTIONS-62a67f",
+    "updated_at": "2026-09-09T19:22:46.197094+00:00"
+  },
+  "vrp_studio_2e4571:RESURRECTIONS-2e4571": {
+    "active_scene": "Scene 201",
+    "active_scene_id": "SCENE_201",
+    "active_take": 2,
+    "tenant_id": "vrp_studio_2e4571",
+    "project_id": "RESURRECTIONS-2e4571",
+    "updated_at": "2026-09-09T19:23:15.944504+00:00"
+  },
+  "vrp_studio_15dba1:RESURRECTIONS-15dba1": {
+    "active_scene": "Scene 201",
+    "active_scene_id": "SCENE_201",
+    "active_take": 2,
+    "tenant_id": "vrp_studio_15dba1",
+    "project_id": "RESURRECTIONS-15dba1",
+    "updated_at": "2026-09-09T19:41:17.901849+00:00"
+  },
+  "vrp_studio_54d539:RESURRECTIONS-54d539": {
+    "active_scene": "Scene 201",
+    "active_scene_id": "SCENE_201",
+    "active_take": 2,
+    "tenant_id": "vrp_studio_54d539",
+    "project_id": "RESURRECTIONS-54d539",
+    "updated_at": "2026-09-09T19:42:27.822285+00:00"
+  }
+}

@@ -1,0 +1,180 @@
+{
+  "OTIO_SCHEMA": "Timeline.1",
+  "name": "chrono_reel01_conform",
+  "global_start_time": {
+    "OTIO_SCHEMA": "RationalTime.1",
+    "rate": 24.0,
+    "value": 86400.0
+  },
+  "tracks": {
+    "OTIO_SCHEMA": "Stack.1",
+    "children": [
+      {
+        "OTIO_SCHEMA": "Track.1",
+        "name": "V1_MASTER_RAW",
+        "kind": "Video",
+        "children": [
+          {
+            "OTIO_SCHEMA": "Clip.1",
+            "name": "Scene42A_T01_A001C001",
+            "source_range": {
+              "OTIO_SCHEMA": "TimeRange.1",
+              "start_time": {
+                "OTIO_SCHEMA": "RationalTime.1",
+                "rate": 24.0,
+                "value": 86400.0
+              },
+              "duration": {
+                "OTIO_SCHEMA": "RationalTime.1",
+                "rate": 24.0,
+                "value": 360.0
+              }
+            },
+            "metadata": {
+              "cine_synapse": {
+                "scene_id": "SCENE_42A",
+                "shot_id": "SHOT_01",
+                "lens": "Cooke Anamorphic /i 32mm T/2.3",
+                "color_space": "ACEScg",
+                "c2pa_hash": "c2pa:sha256:42a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a5b6c7d8e9f0a1"
+              }
+            }
+          },
+          {
+            "OTIO_SCHEMA": "Clip.1",
+            "name": "Scene42B_T04_A002C014",
+            "source_range": {
+              "OTIO_SCHEMA": "TimeRange.1",
+              "start_time": {
+                "OTIO_SCHEMA": "RationalTime.1",
+                "rate": 24.0,
+                "value": 86760.0
+              },
+              "duration": {
+                "OTIO_SCHEMA": "RationalTime.1",
+                "rate": 24.0,
+                "value": 540.0
+              }
+            },
+            "metadata": {
+              "cine_synapse": {
+                "scene_id": "SCENE_42B",
+                "shot_id": "SHOT_14",
+                "lens": "Cooke Anamorphic /i 40mm T/2.0",
+                "color_space": "ACEScg",
+                "c2pa_hash": "c2pa:sha256:7f83b1657ff1fc53b92dc18148a1d65dfc2d4b1fa3d677284addd200126d9069"
+              }
+            }
+          },
+          {
+            "OTIO_SCHEMA": "Clip.1",
+            "name": "Scene43_T02_A003C002",
+            "source_range": {
+              "OTIO_SCHEMA": "TimeRange.1",
+              "start_time": {
+                "OTIO_SCHEMA": "RationalTime.1",
+                "rate": 24.0,
+                "value": 87300.0
+              },
+              "duration": {
+                "OTIO_SCHEMA": "RationalTime.1",
+                "rate": 24.0,
+                "value": 480.0
+              }
+            },
+            "metadata": {
+              "cine_synapse": {
+                "scene_id": "SCENE_43",
+                "shot_id": "SHOT_02",
+                "lens": "Cooke Anamorphic /i 65mm T/2.0",
+                "color_space": "ACEScg",
+                "c2pa_hash": "c2pa:sha256:43f0e9d8c7b6a5f4e3d2c1b0a9f8e7d6c5b4a3f2e1d0c9b8a7f6e5d4c3b2a1f0"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "OTIO_SCHEMA": "Track.1",
+        "name": "V2_VFX_INPAINT",
+        "kind": "Video",
+        "children": [
+          {
+            "OTIO_SCHEMA": "Gap.1",
+            "source_range": {
+              "OTIO_SCHEMA": "TimeRange.1",
+              "start_time": {
+                "OTIO_SCHEMA": "RationalTime.1",
+                "rate": 24.0,
+                "value": 86400.0
+              },
+              "duration": {
+                "OTIO_SCHEMA": "RationalTime.1",
+                "rate": 24.0,
+                "value": 360.0
+              }
+            }
+          },
+          {
+            "OTIO_SCHEMA": "Clip.1",
+            "name": "Scene42B_Inpaint_SG8492",
+            "source_range": {
+              "OTIO_SCHEMA": "TimeRange.1",
+              "start_time": {
+                "OTIO_SCHEMA": "RationalTime.1",
+                "rate": 24.0,
+                "value": 86760.0
+              },
+              "duration": {
+                "OTIO_SCHEMA": "RationalTime.1",
+                "rate": 24.0,
+                "value": 540.0
+              }
+            },
+            "metadata": {
+              "cine_synapse": {
+                "shotgrid_ticket": "SG-TASK-8492",
+                "inpaint_bbox": [
+                  142,
+                  60,
+                  480,
+                  210
+                ]
+              }
+            }
+          }
+        ]
+      },
+      {
+        "OTIO_SCHEMA": "Track.1",
+        "name": "A1_BOOM_PULLUP",
+        "kind": "Audio",
+        "children": [
+          {
+            "OTIO_SCHEMA": "Clip.1",
+            "name": "CHRONO_SC42_BOOM_24FPS_WAV",
+            "source_range": {
+              "OTIO_SCHEMA": "TimeRange.1",
+              "start_time": {
+                "OTIO_SCHEMA": "RationalTime.1",
+                "rate": 24.0,
+                "value": 86400.0
+              },
+              "duration": {
+                "OTIO_SCHEMA": "RationalTime.1",
+                "rate": 24.0,
+                "value": 1380.0
+              }
+            },
+            "metadata": {
+              "cine_synapse": {
+                "audio_pull_up": "0.1_PERCENT_PULL_UP",
+                "sample_rate": 48000
+              }
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

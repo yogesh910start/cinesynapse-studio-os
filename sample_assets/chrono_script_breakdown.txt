@@ -1,0 +1,17 @@
+CHRONO 2026 - PRODUCTION SCRIPT BREAKDOWN
+PRODUCTION: PARAMOUNT PICTURES / DIRECTED BY DENIS VILLENEUVE
+
+SCENE 42B - EXT. NEO-TOKYO METROPOLIS - NIGHT
+Slugline: EXT. NEO-TOKYO SKYLINE - CONTINUOUS (RAIN)
+Cast:
+  - MARCUS VANCE (Character: Commander Vance) [SAG Schedule A - Digital Replica Cap: 60s]
+  - ELENA ROSTOVA (Character: Dr. Elena) [SAG Schedule F - Authorized: 120s]
+Props:
+  - Whiskey glass (42% fill line - continuity lock)
+  - Hologram communicator device
+Set Dressing / Clearance:
+  - Background billboard (Territory Alert: Middle East alcohol ban - Inpaint required)
+Camera Package:
+  - ARRI Alexa 35 (Camera A & B)
+  - Cooke Anamorphic /i Full Frame Plus (32mm, 40mm, 65mm)
+  - ACES 1.3 Color Profile (ACEScg Primary)

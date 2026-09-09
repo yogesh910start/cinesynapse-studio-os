@@ -1,0 +1,296 @@
+[
+  {
+    "tenant_id": "paramount_pictures",
+    "name": "Paramount Pictures",
+    "code": "PARA",
+    "default_project": "CHRONO-2026",
+    "created_at": "2026-09-01T00:00:00Z"
+  },
+  {
+    "tenant_id": "warner_bros",
+    "name": "Warner Bros. Discovery",
+    "code": "WBD",
+    "default_project": "APEX-2026",
+    "created_at": "2026-09-01T00:00:00Z"
+  },
+  {
+    "tenant_id": "a24_films",
+    "name": "A24 Films",
+    "code": "A24",
+    "default_project": "NEON-GHOST",
+    "created_at": "2026-09-01T00:00:00Z"
+  },
+  {
+    "tenant_id": "silver_pictures",
+    "name": "Silver Pictures / Village Roadshow",
+    "code": "SILV",
+    "default_project": "MATRIX-2026",
+    "created_at": "2026-09-06T18:00:26.893900+00:00"
+  },
+  {
+    "tenant_id": "silver_pictures_blank",
+    "name": "Silver Pictures Blank",
+    "code": "SLVB",
+    "default_project": "MATRIX-BLANK-2026",
+    "created_at": "2026-09-06T18:00:37.796919+00:00"
+  },
+  {
+    "tenant_id": "village_roadshow_api",
+    "name": "Village Roadshow Pictures",
+    "code": "VRPA",
+    "default_project": "RESURRECTIONS-HTTP-2026",
+    "created_at": "2026-09-06T18:06:31.867092+00:00"
+  },
+  {
+    "tenant_id": "vrp_studio_823234",
+    "name": "Village Roadshow Pictures (823234)",
+    "code": "V823",
+    "default_project": "RESURRECTIONS-823234",
+    "created_at": "2026-09-06T18:07:09.804869+00:00"
+  },
+  {
+    "tenant_id": "vrp_studio_7bf5c4",
+    "name": "Village Roadshow Pictures (7bf5c4)",
+    "code": "V7BF",
+    "default_project": "RESURRECTIONS-7bf5c4",
+    "created_at": "2026-09-06T18:07:20.430793+00:00"
+  },
+  {
+    "tenant_id": "vrp_studio_bdbfba",
+    "name": "Village Roadshow Pictures (bdbfba)",
+    "code": "VBDB",
+    "default_project": "RESURRECTIONS-bdbfba-2026",
+    "created_at": "2026-09-06T18:07:23.493837+00:00"
+  },
+  {
+    "tenant_id": "vrp_studio_c6b7e7",
+    "name": "Village Roadshow Pictures (c6b7e7)",
+    "code": "VC6B",
+    "default_project": null,
+    "created_at": "2026-09-06T18:07:38.763462+00:00"
+  },
+  {
+    "tenant_id": "vrp_studio_7094e8",
+    "name": "Village Roadshow Pictures (7094e8)",
+    "code": "V709",
+    "default_project": "RESURRECTIONS-7094e8",
+    "created_at": "2026-09-06T18:07:45.586784+00:00"
+  },
+  {
+    "tenant_id": "vrp_studio_036464",
+    "name": "Village Roadshow Pictures (036464)",
+    "code": "V036",
+    "default_project": "RESURRECTIONS-036464",
+    "created_at": "2026-09-06T18:07:48.197206+00:00"
+  },
+  {
+    "tenant_id": "vrp_studio_26b2ec",
+    "name": "Village Roadshow Pictures (26b2ec)",
+    "code": "V26B",
+    "default_project": "RESURRECTIONS-26b2ec",
+    "created_at": "2026-09-06T18:09:35.057950+00:00"
+  },
+  {
+    "tenant_id": "vrp_studio_d31f2e",
+    "name": "Village Roadshow Pictures (d31f2e)",
+    "code": "VD31",
+    "default_project": "RESURRECTIONS-d31f2e",
+    "created_at": "2026-09-06T18:24:14.051085+00:00"
+  },
+  {
+    "tenant_id": "vrp_studio_97472e",
+    "name": "Village Roadshow Pictures (97472e)",
+    "code": "V974",
+    "default_project": "RESURRECTIONS-97472e",
+    "created_at": "2026-09-06T18:26:00.717217+00:00"
+  },
+  {
+    "tenant_id": "silver_pictures_village_roadshow_new",
+    "name": "Silver Pictures / Village Roadshow New",
+    "code": "SILVN",
+    "default_project": "MATRIX-2026",
+    "created_at": "2026-09-06T19:36:40.083112+00:00"
+  },
+  {
+    "tenant_id": "vrp_studio_45ec71",
+    "name": "Village Roadshow Pictures (45ec71)",
+    "code": "V45E",
+    "default_project": "RESURRECTIONS-45ec71",
+    "created_at": "2026-09-06T19:53:08.479654+00:00"
+  },
+  {
+    "tenant_id": "vrp_studio_5db130",
+    "name": "Village Roadshow Pictures (5db130)",
+    "code": "V5DB",
+    "default_project": "RESURRECTIONS-5db130",
+    "created_at": "2026-09-06T20:12:18.718117+00:00"
+  },
+  {
+    "tenant_id": "vrp_studio_b3763a",
+    "name": "Village Roadshow Pictures (b3763a)",
+    "code": "VB37",
+    "default_project": "RESURRECTIONS-b3763a",
+    "created_at": "2026-09-06T20:15:37.997936+00:00"
+  },
+  {
+    "tenant_id": "vrp_studio_0f7fbd",
+    "name": "Village Roadshow Pictures (0f7fbd)",
+    "code": "V0F7",
+    "default_project": "RESURRECTIONS-0f7fbd",
+    "created_at": "2026-09-07T10:13:42.689351+00:00"
+  },
+  {
+    "tenant_id": "vrp_studio_7dce77",
+    "name": "Village Roadshow Pictures (7dce77)",
+    "code": "V7DC",
+    "default_project": "RESURRECTIONS-7dce77",
+    "created_at": "2026-09-07T10:14:45.585393+00:00"
+  },
+  {
+    "tenant_id": "vrp_studio_eb9f54",
+    "name": "Village Roadshow Pictures (eb9f54)",
+    "code": "VEB9",
+    "default_project": "RESURRECTIONS-eb9f54",
+    "created_at": "2026-09-07T16:54:16.489585+00:00"
+  },
+  {
+    "tenant_id": "vrp_studio_d77e5d",
+    "name": "Village Roadshow Pictures (d77e5d)",
+    "code": "VD77",
+    "default_project": "RESURRECTIONS-d77e5d",
+    "created_at": "2026-09-07T16:54:35.312730+00:00"
+  },
+  {
+    "tenant_id": "vrp_studio_f28fd7",
+    "name": "Village Roadshow Pictures (f28fd7)",
+    "code": "VF28",
+    "default_project": "RESURRECTIONS-f28fd7",
+    "created_at": "2026-09-07T17:22:04.188936+00:00"
+  },
+  {
+    "tenant_id": "vrp_studio_9d4e0c",
+    "name": "Village Roadshow Pictures (9d4e0c)",
+    "code": "V9D4",
+    "default_project": "RESURRECTIONS-9d4e0c",
+    "created_at": "2026-09-07T17:22:12.955359+00:00"
+  },
+  {
+    "tenant_id": "vrp_studio_8a7741",
+    "name": "Village Roadshow Pictures (8a7741)",
+    "code": "V8A7",
+    "default_project": "RESURRECTIONS-8a7741",
+    "created_at": "2026-09-07T17:22:25.676665+00:00"
+  },
+  {
+    "tenant_id": "vrp_studio_69f38c",
+    "name": "Village Roadshow Pictures (69f38c)",
+    "code": "V69F",
+    "default_project": "RESURRECTIONS-69f38c",
+    "created_at": "2026-09-07T17:24:14.487341+00:00"
+  },
+  {
+    "tenant_id": "vrp_studio_a5867d",
+    "name": "Village Roadshow Pictures (a5867d)",
+    "code": "VA58",
+    "default_project": "RESURRECTIONS-a5867d",
+    "created_at": "2026-09-07T17:43:44.551598+00:00"
+  },
+  {
+    "tenant_id": "vrp_studio_6df089",
+    "name": "Village Roadshow Pictures (6df089)",
+    "code": "V6DF",
+    "default_project": "RESURRECTIONS-6df089",
+    "created_at": "2026-09-07T17:43:54.792182+00:00"
+  },
+  {
+    "tenant_id": "vrp_studio_cddc4a",
+    "name": "Village Roadshow Pictures (cddc4a)",
+    "code": "VCDD",
+    "default_project": "RESURRECTIONS-cddc4a",
+    "created_at": "2026-09-07T17:44:17.707468+00:00"
+  },
+  {
+    "tenant_id": "vrp_studio_431a03",
+    "name": "Village Roadshow Pictures (431a03)",
+    "code": "V431",
+    "default_project": "RESURRECTIONS-431a03",
+    "created_at": "2026-09-07T17:44:42.060475+00:00"
+  },
+  {
+    "tenant_id": "vrp_studio_8778d9",
+    "name": "Village Roadshow Pictures (8778d9)",
+    "code": "V877",
+    "default_project": "RESURRECTIONS-8778d9",
+    "created_at": "2026-09-07T17:58:50.596814+00:00"
+  },
+  {
+    "tenant_id": "vrp_studio_cdf39b",
+    "name": "Village Roadshow Pictures (cdf39b)",
+    "code": "VCDF",
+    "default_project": "RESURRECTIONS-cdf39b",
+    "created_at": "2026-09-07T18:13:33.477064+00:00"
+  },
+  {
+    "tenant_id": "vrp_studio_4646de",
+    "name": "Village Roadshow Pictures (4646de)",
+    "code": "V464",
+    "default_project": "RESURRECTIONS-4646de",
+    "created_at": "2026-09-07T18:14:08.113832+00:00"
+  },
+  {
+    "tenant_id": "vrp_studio_eb7afc",
+    "name": "Village Roadshow Pictures (eb7afc)",
+    "code": "VEB7",
+    "default_project": "RESURRECTIONS-eb7afc",
+    "created_at": "2026-09-09T18:45:03.681092+00:00"
+  },
+  {
+    "tenant_id": "vrp_studio_4c417d",
+    "name": "Village Roadshow Pictures (4c417d)",
+    "code": "V4C4",
+    "default_project": "RESURRECTIONS-4c417d",
+    "created_at": "2026-09-09T18:45:15.323918+00:00"
+  },
+  {
+    "tenant_id": "vrp_studio_be22bc",
+    "name": "Village Roadshow Pictures (be22bc)",
+    "code": "VBE2",
+    "default_project": "RESURRECTIONS-be22bc",
+    "created_at": "2026-09-09T18:45:26.931409+00:00"
+  },
+  {
+    "tenant_id": "vrp_studio_d2be42",
+    "name": "Village Roadshow Pictures (d2be42)",
+    "code": "VD2B",
+    "default_project": "RESURRECTIONS-d2be42",
+    "created_at": "2026-09-09T18:56:58.062774+00:00"
+  },
+  {
+    "tenant_id": "vrp_studio_62a67f",
+    "name": "Village Roadshow Pictures (62a67f)",
+    "code": "V62A",
+    "default_project": "RESURRECTIONS-62a67f",
+    "created_at": "2026-09-09T19:22:46.165469+00:00"
+  },
+  {
+    "tenant_id": "vrp_studio_2e4571",
+    "name": "Village Roadshow Pictures (2e4571)",
+    "code": "V2E4",
+    "default_project": "RESURRECTIONS-2e4571",
+    "created_at": "2026-09-09T19:23:15.928301+00:00"
+  },
+  {
+    "tenant_id": "vrp_studio_15dba1",
+    "name": "Village Roadshow Pictures (15dba1)",
+    "code": "V15D",
+    "default_project": "RESURRECTIONS-15dba1",
+    "created_at": "2026-09-09T19:41:17.883657+00:00"
+  },
+  {
+    "tenant_id": "vrp_studio_54d539",
+    "name": "Village Roadshow Pictures (54d539)",
+    "code": "V54D",
+    "default_project": "RESURRECTIONS-54d539",
+    "created_at": "2026-09-09T19:42:27.807177+00:00"
+  }
+]
