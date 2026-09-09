@@ -51,11 +51,11 @@ ENV APP_ENV=production \
     HOST=0.0.0.0 \
     PYTHONPATH=/app
 
-EXPOSE 8080
+EXPOSE 8080 10000
 
 # Automated SRE Health Check Probe
 HEALTHCHECK --interval=15s --timeout=5s --start-period=10s --retries=3 \
-  CMD curl -f http://localhost:8080/healthz || exit 1
+  CMD curl -f http://localhost:${PORT:-8080}/healthz || exit 1
 
-# Launch High-Throughput Production Uvicorn Engine
-CMD ["uvicorn", "backend.main:app", "--host", "0.0.0.0", "--port", "8080", "--workers", "2"]
+# Launch Production Uvicorn Engine (dynamically binds to Render $PORT or defaults to 8080)
+CMD ["sh", "-c", "uvicorn backend.main:app --host 0.0.0.0 --port ${PORT:-8080} --workers 1"]

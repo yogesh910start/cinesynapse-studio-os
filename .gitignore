@@ -67,3 +67,5 @@ storage/local/temp/
 *.log
 backend/storage/local/audio-scratchpad/*.wav
 backend/storage/local/audio-scratchpad/*.mp3
+backend/storage/local/c2c-proxies/
+*.mov

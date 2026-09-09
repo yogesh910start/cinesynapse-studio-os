@@ -359,6 +359,20 @@ npm install
 npm run dev
 ```
 
+### Option 3: Free 1-Click Cloud Deployment (Render.com)
+
+Deploy CineSynapse directly to the cloud on Render's free tier with zero manual configuration:
+
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/yogesh910start/cinesynapse-studio-os)
+
+Or via the Render Dashboard:
+1. Go to [dashboard.render.com](https://dashboard.render.com/) and click **New +** $\to$ **Blueprint**.
+2. Connect `https://github.com/yogesh910start/cinesynapse-studio-os`.
+3. Render automatically provisions the multi-stage Docker web service defined in [`render.yaml`](./render.yaml).
+4. Click **Apply** — your instance will go live at `https://cinesynapse-studio-os.onrender.com`.
+
+For additional deployment targets (Google Cloud Run, Docker Compose), see [`DEPLOYMENT.md`](./DEPLOYMENT.md).
+
 ---
 
 ## 🧪 Verification & Automated Testing

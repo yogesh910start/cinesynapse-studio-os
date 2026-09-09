@@ -64,6 +64,26 @@ gcloud run deploy cinesynapse-studio-os \
   --cpu 2
 ```
 
+### Option 4: Free One-Click Deployment on Render.com (Zero-Config Blueprint)
+
+The repository includes a production-ready Render Blueprint ([`render.yaml`](./render.yaml)) configured for Render's **Free Tier**.
+
+#### Method A: 1-Click Infrastructure as Code (Blueprint)
+1. Log into your [Render Dashboard](https://dashboard.render.com/).
+2. Click **New +** $\to$ **Blueprint**.
+3. Connect your GitHub repository: `https://github.com/yogesh910start/cinesynapse-studio-os`.
+4. Render will automatically parse `render.yaml`, recognizing the Docker multi-stage service, health check at `/healthz`, and 512 MB memory footprint.
+5. (Optional) Provide your `GEMINI_API_KEY` under Environment Variables.
+6. Click **Apply**. Render builds the image and launches your live URL: `https://cinesynapse-studio-os.onrender.com`.
+
+#### Method B: Manual Web Service
+1. Click **New +** $\to$ **Web Service**.
+2. Connect `https://github.com/yogesh910start/cinesynapse-studio-os`.
+3. Select **Docker** as the runtime.
+4. Select **Free** instance type.
+5. Under **Advanced**, set **Health Check Path** to `/healthz`.
+6. Click **Create Web Service**.
+
 ---
 
 ## 🛠️ Local Development Setup

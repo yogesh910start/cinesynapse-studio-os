@@ -1,0 +1,19 @@
+services:
+  - type: web
+    name: cinesynapse-studio-os
+    runtime: docker
+    plan: free
+    region: oregon
+    healthCheckPath: /healthz
+    autoDeploy: true
+    envVars:
+      - key: APP_ENV
+        value: production
+      - key: CLICKHOUSE_MOCK_FALLBACK
+        value: "true"
+      - key: STORAGE_PROVIDER
+        value: local
+      - key: GEMINI_MODEL_ID
+        value: gemini-1.5-pro
+      - key: GEMINI_API_KEY
+        sync: false
